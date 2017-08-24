@@ -1,0 +1,78 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=beA5xPn5Q2mtr5ojgsIOm2rr"></script>
+<script type="text/javascript" src="http://api.map.baidu.com/library/AreaRestriction/1.2/src/AreaRestriction_min.js"></script>
+<link rel="stylesheet" type="text/css" href="css/addpoi.css" media="screen" />
+<script type="text/javascript" charset="utf-8" src="http://127.0.0.1/gisproject/ueditor/ueditor.config.js"></script>
+<script type="text/javascript" charset="utf-8" src="http://127.0.0.1/gisproject/ueditor/ueditor.all.min.js"> </script>
+<script type="text/javascript" charset="utf-8" src="http://127.0.0.1/gisproject/ueditor/lang/zh-cn/zh-cn.js"></script>
+<script src="http://libs.baidu.com/jquery/1.9.0/jquery.js"></script>
+<script type="text/javascript" src="__PUBLIC__/Js/home/jquery-1.10.2.min.js"></script>
+<link rel="stylesheet" type="text/css" href="css/edit.css" />
+<title>我来添加</title>
+</head>
+<body>
+<div id="content">
+	<div id="allmap"></div>
+	<script type="text/javascript" src="js/addpoi.js"></script>
+	<div id="form">
+		<table>
+			<tr>
+				<td><h2>添加城市兴趣点</h2></td>
+			</tr>
+			<tr>
+				<td>
+					<h3>名称:<input type="text" id="name"  value="" placeholder="请输入名称，如:北陵"/></h3>
+				</td>
+				<td>
+					<h3>年代:<input type="date" id="timestamp"  /></h3>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<h3>纬度:<input type="text" id="longitude"   value="" placeholder="请输入纬度如:123.856725"/></h3>
+				</td>
+				<td>
+					<h3>经度:<input type="text" id="latitude"   value="" placeholder="请输入经度如:41.28756348"/></h3>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<h3>类型:
+						    <select id="type" name="type">
+		              			<option value="古遗址">古遗址</option>
+		              			<option value="古墓葬">古墓葬</option>
+		              			<option value="古建筑">古建筑</option>
+		              			<option value="石窟寺及石刻">石窟寺及石刻</option>
+		              			<option value="近代重要史记及代表性建筑">近代重要史记及代表性建筑</option>
+		              			<option value="城市现代地标及代表性建筑">城市现代地标及代表性建筑</option>
+		              			<option value="其他">其他</option>
+		              		</select>
+					</h3>
+				</td>
+				<td>
+					<h3>简介:<input type="text" id="brief_introduce"  value="" placeholder="请输入简介（不超过20字）"/></h3>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<h3>wiki:<input type="text" id="wiki"  value="" placeholder="请输入维基链接"/></h3>
+				</td>
+				<td>
+					<h3>全景:<input type="text" id="panorama"  value="" placeholder="请输入全景坐标（获取百度数据）"/></h3>
+				</td>
+			</tr>			
+		</table>
+	</div>
+</div>
+	<div id="edit">
+			<h3>详细介绍、图片、视频</h3>
+			<script id="editor" type="text/plain" style="width:1000px;height:300px;"> </script>
+			<script type="text/javascript">
+			    var ue = UE.getEditor('editor');
+		   </script>
+	</div>
+	<input type="button" id="btn_submit"  value="提交"/>
+</body>
+</html>

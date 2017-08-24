@@ -1,0 +1,342 @@
+@CHARSET "UTF-8";
+body, html{
+	overflow:hidden;
+	margin:0;
+	font-family:"Microsoft Yahei";
+	font-size:20px;
+	background:#222;
+}
+#showmap {
+	width:75%;
+	height:480px;
+	margin-top:20px;
+	margin-left:5px;
+	float:left;
+	border:1px solid #f90;
+}
+#info{
+	width:300px;
+	height:100px;
+	overflow:auto;
+}
+a{
+	text-decoration: none;
+}
+#right{
+	position:absolute;
+	right:0;
+	top:0;
+	float:right;
+	width:338px;
+	height:100%;
+	color:#fff;
+}
+#search{
+	margin-top:20px;
+	margin-left:10px;
+	width:90%;
+	height:38px;
+	folat:right;
+}
+#keyword{
+	width:230px;
+	height:25px;
+	border:3px solid #f90;
+	margin:5px;
+	background-color:#fff;
+}
+#btn_search{
+	height:30px;
+	border:3px solid #f90;
+	background-color:#fff;
+}
+#panel{
+	margin-left:10px;
+	width:90%;
+	height:442px;
+	folat:right;
+	font-size:14px;
+	overflow-x:hidden;
+	overflow-y:auto;
+}
+#result{
+	margin-top:2px;
+	margin-left:2px;
+	width:100%;
+}
+.introduce{
+	width:100%;
+	height:60px;
+	folat:left;
+	padding:3px;
+}
+#img{
+	width:40%;
+	height:100%;
+	float:left;
+}
+#result img{
+	folat:left;
+	width:90%;
+	height:100%;
+}
+#name{
+	width:50%;
+	float:left;
+}
+#nav{
+	width:90%;
+	height:50px;
+	float:right;
+	margin-left:10px;
+	font-size:22px;
+}
+#login{
+	color:#f90;
+	width:90%;
+	height:25px;
+	float:right;
+	margin-top:25px;
+	font-size:14px;
+}
+#login a{
+	color:#fff;
+}
+#bottom{
+	position:absolute;
+	bottom:0;
+	left:0;
+	width:1026.5px;
+	height:140px;
+}
+li{
+	list-style:none;
+} 
+.con {
+	overflow: hidden;
+	width: 515px;
+	height: 100%;
+	padding: 10px 15px;
+}
+#carousel_container {
+	position: relative;
+	height: 100px;
+	overflow: hidden;
+}
+#carousel_inner {
+	width: 90%;
+	height: 100%;
+	overflow: hidden;
+	position: absolute;
+	left: 25px;
+	top: -10px;
+}
+#left_scroll {
+	position: absolute;
+	left: 0;
+	top: 43px;
+	width: 9px;
+	height: 9px;
+	cursor:pointer;
+	cursor: hand;
+	background: url(http://127.0.0.1/gisproject/public/Images/home/left.gif) no-repeat;
+}
+#right_scroll {
+	position: absolute;
+	top: 43px;
+	right: 0;
+	width: 9px;
+	height: 9px;
+	cursor:pointer;
+	cursor: hand;
+	background: url(http://127.0.0.1/gisproject/public/Images/home/right.gif) no-repeat;
+}
+#carousel_ul {
+	width: 6661px;
+	height: 95px;
+	float:left;
+	position: relative;
+	margin-left:-30px;
+}
+#carousel_ul li {
+	float: left;
+	width: 100px;
+	height: 90px;
+	margin-right: 15px;
+	display: inline;
+}
+#carousel_ul li img {
+	width: 100px;
+	height: 90px;
+}
+#img_frame{
+	 position: relative;
+     width: 101px;
+     height: 90px;
+     border: 2px solid #f90;
+     background: #f90;
+     z-index: -1;
+     margin-left:32px;
+	 opacity:1;  /*支持 Chrome, Opera, Safari 等浏览器*/
+}
+#timescroll{
+	float:left;
+}
+#range{
+	width:400px;
+}
+
+#operate{
+	position:absolute;
+	bottom:0px;
+	left:550px;
+	width:473px;
+	height:120px;
+	float:right;
+	color:#fff;
+}
+#recommand{
+	width:473px;
+	height:200px;
+	overflow:auto;
+	color:#fff;
+}
+#btn_dpoly,#btn_recom,#btn_getpath,#btn_addpoi{
+	height:30px;
+	border:3px solid #f90;
+	background-color:#fff;
+}
+
+
+/*
+#operate_panel{
+	height:110px;
+	width:470px;
+}
+#title{
+	float:left;
+	width:9%;
+	height:100%;
+	font-size:25px;
+	color:#fff;
+}
+#button{
+	width:90%;
+	height:100%;
+	float:right;
+}*/
+/*
+li img {
+    width: 115px;
+    height: 100px;
+}*/
+
+
+/*
+#start_year{
+	float:left;
+}
+#end_year{
+	float:right;
+}*、
+
+
+
+
+/*
+
+input{
+	height:25px;
+	border:1px solid #f90;
+	margin:5px;
+	background-color:#fff;
+}
+
+#operate{
+	position:absolute;
+	left:20px;
+	top:50px;
+	background-color:white;
+	border-radius:5px;
+	-moz-box-shadow: 3px 3px 4px #cccccc; 
+	-webkit-box-shadow: 3px 3px 4px #cccccc;
+	box-shadow: 3px 3px 4px #cccccc;
+}
+#searchlist{
+	margin-left:-10px;
+}
+#recommandlist{
+	position:absolute;
+	right:20px;
+	top:50px;
+	color:#f90;
+	background-color:white;
+	border-radius:5px;
+	-moz-box-shadow: 3px 3px 4px #cccccc; 
+	-webkit-box-shadow: 3px 3px 4px #cccccc;
+	box-shadow: 3px 3px 4px #cccccc;
+}
+#time{
+	position:absolute;
+	left:200px;
+	bottom:50px;
+	width:800px;
+	height:30px;
+	background-color:white;
+	border-radius:5px;
+	-moz-box-shadow: 3px 3px 4px #cccccc; 
+	-webkit-box-shadow: 3px 3px 4px #cccccc;
+	box-shadow: 3px 3px 4px #cccccc;
+}
+#range{
+	margin-top:10px;
+	-webkit-appearance: none;
+	height: 9px;
+	width: 500px;
+	background: none repeat scroll 0 0 lightgreen;
+	border-radius: 15px;
+	-webkit-box-shadow: 0 -1px 1px gray inset;
+}
+#showpoi{
+	position:absolute;
+	right:150px;
+	top:50px;
+	background-color:white;
+	border:solid 1px;
+	border-radius:5px;
+}
+#infolist,#searchlist{
+	width:200px;
+	overflow:auto;
+}
+div ul li {
+	padding:1px;
+	list-style:none;
+	cursor:pointer;
+}
+
+#infocontent{
+	width:350px;
+	height:300px;
+	overflow:auto;
+}
+#result_list{
+	margin-left:15px;
+}
+#spatial_search{
+	position:absolute;
+	right:20px;
+	bottom:50px;
+	background-color:white;
+	border-radius:5px;
+	-moz-box-shadow: 3px 3px 4px #cccccc;
+	-webkit-box-shadow: 3px 3px 4px #cccccc;
+	box-shadow: 3px 3px 4px #cccccc;
+}
+#test{
+	position:absolute;
+	left:20px;
+	top:350px;
+	background-color:white;
+}
+*/

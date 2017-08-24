@@ -1,0 +1,58 @@
+@CHARSET "UTF-8";
+body, html{
+	overflow:hidden;
+	margin:0;
+	font-family:"Microsoft Yahei";
+	font-size:20px;
+	background:#222;
+	overflow:auto;
+}
+a{
+	text-decoration: none;
+}
+input{
+	height:30px;
+	border:3px solid #f90;
+	background-color:#fff;
+	width:300px;
+}
+textarea{
+	   border:3px solid #f90;
+       font-size:12px;
+       font-family: Verdana, Arial, Helvetica, sans-serif;
+       padding:1px;
+       height:150px;
+       overflow-y:auto;
+       width:400px;
+       text-align:left;
+       padding:5px;
+       resize:none;
+}
+#content{
+	margin-top:50px;
+	margin-left:250px;
+	width:900px;
+	height:400px;
+	background-color:#ccc;
+}
+#allmap {
+	width: 47%;
+	height: 400px;
+	overflow: hidden;
+	float: right;
+}
+#form{
+	width:53%;
+	height:300px;
+}
+
+#result{
+	width:900px;
+	height:300px;
+	margin-left:250px;
+	/*background-color:#f90;*/
+	color:#fff;
+}
+#r-result,#r-result table{
+	width:100%;
+}

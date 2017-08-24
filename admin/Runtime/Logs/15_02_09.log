@@ -1,0 +1,161 @@
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.036629s ]
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.036891s ]
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003637s ]
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003790s ]
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.037247s ]
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.037457s ]
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.078606s ]
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.078792s ]
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.002695s ]
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.003340s ]
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002555s ]
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003193s ]
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012194s ]
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002981s ]
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003182s ]
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ route_check ] --START--
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Run CheckRoute Behavior [ RunTime:0.003973s ]
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.004286s ]
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004016s ]
+[ 2015-02-09T22:36:28+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004159s ]
+[ 2015-02-09T22:36:29+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2015-02-09T22:36:29+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.002497s ]
+[ 2015-02-09T22:36:29+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.002753s ]
+[ 2015-02-09T22:36:29+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2015-02-09T22:36:29+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001685s ]
+[ 2015-02-09T22:36:29+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001824s ]
+[ 2015-02-09T22:36:29+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2015-02-09T22:36:29+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.005152s ]
+[ 2015-02-09T22:36:29+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.005820s ]
+[ 2015-02-09T22:36:29+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2015-02-09T22:36:29+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.052580s ]
+[ 2015-02-09T22:36:29+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.052764s ]
+[ 2015-02-09T22:36:29+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2015-02-09T22:36:29+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.003124s ]
+[ 2015-02-09T22:36:29+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.003681s ]
+[ 2015-02-09T22:36:29+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.004225s ]
+[ 2015-02-09T22:36:29+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.003882s ]
+[ 2015-02-09T22:36:29+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.015411s ]
+[ 2015-02-09T22:36:29+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2015-02-09T22:36:29+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.003852s ]
+[ 2015-02-09T22:36:29+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.004014s ]
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.027790s ]
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.028047s ]
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003897s ]
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004047s ]
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.006425s ]
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.006616s ]
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.088948s ]
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.089143s ]
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.004431s ]
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.004461s ]
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003529s ]
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004734s ]
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.017644s ]
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.005725s ]
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.005888s ]
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ route_check ] --START--
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Run CheckRoute Behavior [ RunTime:0.002563s ]
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002775s ]
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001481s ]
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001643s ]
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.002261s ]
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.002464s ]
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001633s ]
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001765s ]
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.003157s ]
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.003317s ]
+[ 2015-02-09T22:43:44+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2015-02-09T22:43:45+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.034996s ]
+[ 2015-02-09T22:43:45+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.035166s ]
+[ 2015-02-09T22:43:45+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2015-02-09T22:43:45+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.001119s ]
+[ 2015-02-09T22:43:45+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.001071s ]
+[ 2015-02-09T22:43:45+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000812s ]
+[ 2015-02-09T22:43:45+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.001186s ]
+[ 2015-02-09T22:43:45+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004656s ]
+[ 2015-02-09T22:43:45+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2015-02-09T22:43:45+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.001395s ]
+[ 2015-02-09T22:43:45+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.001513s ]
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ route_check ] --START--
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run CheckRoute Behavior [ RunTime:0.002458s ]
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ route_check ] --END-- [ RunTime:0.002688s ]
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ app_begin ] --START--
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001580s ]
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001716s ]
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_template ] --START--
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run LocationTemplate Behavior [ RunTime:0.055138s ]
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_template ] --END-- [ RunTime:0.055331s ]
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_parse ] --START--
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run ParseTemplate Behavior [ RunTime:0.069388s ]
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.069572s ]
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_filter ] --START--
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run ContentReplace Behavior [ RunTime:0.003089s ]
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run TokenBuild Behavior [ RunTime:0.003385s ]
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002615s ]
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run ShowRuntime Behavior [ RunTime:0.003360s ]
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012848s ]
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_end ] --START--
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run ShowPageTrace Behavior [ RunTime:0.003393s ]
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_end ] --END-- [ RunTime:0.003526s ]
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.005775s ]
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.006085s ]
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001732s ]
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001872s ]
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.005144s ]
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.005313s ]
+[ 2015-02-09T22:44:02+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2015-02-09T22:44:03+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.096011s ]
+[ 2015-02-09T22:44:03+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.096380s ]
+[ 2015-02-09T22:44:03+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2015-02-09T22:44:03+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.003002s ]
+[ 2015-02-09T22:44:03+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.011664s ]
+[ 2015-02-09T22:44:03+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002394s ]
+[ 2015-02-09T22:44:03+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.002904s ]
+[ 2015-02-09T22:44:03+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.020351s ]
+[ 2015-02-09T22:44:03+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2015-02-09T22:44:03+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.004772s ]
+[ 2015-02-09T22:44:03+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.004907s ]
+[ 2015-02-09T22:44:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-09T22:44:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.005189s ]
+[ 2015-02-09T22:44:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.005441s ]
+[ 2015-02-09T22:44:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-09T22:44:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003895s ]
+[ 2015-02-09T22:44:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004060s ]
+[ 2015-02-09T22:44:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-09T22:44:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.072066s ]
+[ 2015-02-09T22:44:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.072356s ]
+[ 2015-02-09T22:44:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-09T22:44:06+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 163 行.
+[ 2015-02-09T22:44:06+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.100036s ]
+[ 2015-02-09T22:44:06+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.100265s ]
+[ 2015-02-09T22:44:06+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-09T22:44:06+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.002886s ]
+[ 2015-02-09T22:44:06+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.003085s ]
+[ 2015-02-09T22:44:06+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002438s ]
+[ 2015-02-09T22:44:06+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.003006s ]
+[ 2015-02-09T22:44:06+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011771s ]
+[ 2015-02-09T22:44:06+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-09T22:44:06+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.002931s ]
+[ 2015-02-09T22:44:06+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003061s ]
+[ 2015-02-09T22:44:06+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources

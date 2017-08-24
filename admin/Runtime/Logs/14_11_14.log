@@ -1,0 +1,486 @@
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.005239s ]
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.005544s ]
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001853s ]
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002104s ]
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003492s ]
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003790s ]
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.027303s ]
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.027533s ]
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.001209s ]
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.001558s ]
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000860s ]
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001780s ]
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005917s ]
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001802s ]
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001989s ]
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Common/verify/ | INFO: Run CheckRoute Behavior [ RunTime:0.002973s ]
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.003240s ]
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Common/verify/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002035s ]
+[ 2014-11-14T09:28:40+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002249s ]
+[ 2014-11-14T09:28:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T09:28:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.005765s ]
+[ 2014-11-14T09:28:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.006072s ]
+[ 2014-11-14T09:28:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T09:28:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004647s ]
+[ 2014-11-14T09:28:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004952s ]
+[ 2014-11-14T09:28:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2014-11-14T09:28:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.005575s ]
+[ 2014-11-14T09:28:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.005855s ]
+[ 2014-11-14T09:28:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2014-11-14T09:28:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.048406s ]
+[ 2014-11-14T09:28:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.048796s ]
+[ 2014-11-14T09:28:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2014-11-14T09:28:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.003786s ]
+[ 2014-11-14T09:28:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.003393s ]
+[ 2014-11-14T09:28:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002827s ]
+[ 2014-11-14T09:28:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.003342s ]
+[ 2014-11-14T09:28:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013865s ]
+[ 2014-11-14T09:28:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2014-11-14T09:28:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.003475s ]
+[ 2014-11-14T09:28:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.003667s ]
+[ 2014-11-14T09:31:16+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T09:31:16+08:00 ] /test/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.005100s ]
+[ 2014-11-14T09:31:16+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.005373s ]
+[ 2014-11-14T09:31:16+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T09:31:16+08:00 ] /test/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001843s ]
+[ 2014-11-14T09:31:16+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002222s ]
+[ 2014-11-14T09:31:16+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2014-11-14T09:31:16+08:00 ] /test/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003098s ]
+[ 2014-11-14T09:31:16+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003326s ]
+[ 2014-11-14T09:31:16+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2014-11-14T09:31:16+08:00 ] /test/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.032980s ]
+[ 2014-11-14T09:31:16+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.033199s ]
+[ 2014-11-14T09:31:16+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2014-11-14T09:31:16+08:00 ] /test/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.001998s ]
+[ 2014-11-14T09:31:16+08:00 ] /test/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.001488s ]
+[ 2014-11-14T09:31:16+08:00 ] /test/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000902s ]
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002229s ]
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007676s ]
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002315s ]
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002517s ]
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Common/verify/ | INFO: Run CheckRoute Behavior [ RunTime:0.002389s ]
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002627s ]
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Common/verify/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001540s ]
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001695s ]
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.003817s ]
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.004196s ]
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001700s ]
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001883s ]
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.001626s ]
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.001914s ]
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.034112s ]
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.034350s ]
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.001173s ]
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.001646s ]
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001339s ]
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.001896s ]
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006811s ]
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.002075s ]
+[ 2014-11-14T09:31:17+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.002310s ]
+[ 2014-11-14T09:31:26+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T09:31:26+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Run CheckRoute Behavior [ RunTime:0.002674s ]
+[ 2014-11-14T09:31:26+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ route_check ] --END-- [ RunTime:0.002936s ]
+[ 2014-11-14T09:31:26+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T09:31:26+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001753s ]
+[ 2014-11-14T09:31:26+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001933s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | SQL: SHOW COLUMNS FROM `tb_user` [ RunTime:0.012734s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | SQL: SELECT COUNT(*) AS tp_count FROM `tb_user` LIMIT 1   [ RunTime:0.042653s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | SQL: SELECT `userid`,`username`,`useremail`,`usertel` FROM `tb_user` ORDER BY userid asc LIMIT 0,5   [ RunTime:0.002417s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_template ] --START--
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Run LocationTemplate Behavior [ RunTime:0.005246s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_template ] --END-- [ RunTime:0.005464s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_parse ] --START--
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Run ParseTemplate Behavior [ RunTime:0.043518s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.043753s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_filter ] --START--
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Run ContentReplace Behavior [ RunTime:0.003308s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Run TokenBuild Behavior [ RunTime:0.003375s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002956s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Run ShowRuntime Behavior [ RunTime:0.003523s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013655s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_end ] --START--
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Run ShowPageTrace Behavior [ RunTime:0.003829s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_end ] --END-- [ RunTime:0.004021s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.003061s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.003448s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001718s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001894s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | SQL: SHOW COLUMNS FROM `tb_user` [ RunTime:0.008120s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | SQL: SELECT COUNT(*) AS tp_count FROM `tb_user` LIMIT 1   [ RunTime:0.005538s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | SQL: SELECT `userid`,`username`,`useremail`,`usertel` FROM `tb_user` ORDER BY userid asc LIMIT 0,5   [ RunTime:0.000813s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.001202s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.001393s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.049862s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.050124s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.002624s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.002206s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001173s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.001890s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008625s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.001914s ]
+[ 2014-11-14T09:31:27+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.002143s ]
+[ 2014-11-14T19:44:30+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T19:44:30+08:00 ] /test/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.027386s ]
+[ 2014-11-14T19:44:30+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.027746s ]
+[ 2014-11-14T19:44:30+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T19:44:30+08:00 ] /test/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.014964s ]
+[ 2014-11-14T19:44:30+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.015250s ]
+[ 2014-11-14T19:44:30+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2014-11-14T19:44:30+08:00 ] /test/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004101s ]
+[ 2014-11-14T19:44:30+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.004363s ]
+[ 2014-11-14T19:44:30+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2014-11-14T19:44:30+08:00 ] /test/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.036132s ]
+[ 2014-11-14T19:44:30+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.036394s ]
+[ 2014-11-14T19:44:30+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2014-11-14T19:44:30+08:00 ] /test/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.001611s ]
+[ 2014-11-14T19:44:30+08:00 ] /test/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.001726s ]
+[ 2014-11-14T19:44:30+08:00 ] /test/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003781s ]
+[ 2014-11-14T19:44:30+08:00 ] /test/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001984s ]
+[ 2014-11-14T19:44:30+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.009704s ]
+[ 2014-11-14T19:44:30+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2014-11-14T19:44:30+08:00 ] /test/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001920s ]
+[ 2014-11-14T19:44:30+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002123s ]
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Common/verify/ | INFO: Run CheckRoute Behavior [ RunTime:0.003797s ]
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.004139s ]
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Common/verify/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003814s ]
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004049s ]
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.013410s ]
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.013758s ]
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002351s ]
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002552s ]
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.004248s ]
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.004514s ]
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.047269s ]
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.047560s ]
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.001673s ]
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.003644s ]
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001304s ]
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.001989s ]
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.009265s ]
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.001940s ]
+[ 2014-11-14T19:44:31+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.002164s ]
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.006594s ]
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.006931s ]
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002607s ]
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002824s ]
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004419s ]
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.004666s ]
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.048548s ]
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.048816s ]
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.001904s ]
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.001998s ]
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001123s ]
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002286s ]
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008814s ]
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002229s ]
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002445s ]
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Common/verify/ | INFO: Run CheckRoute Behavior [ RunTime:0.005243s ]
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.005642s ]
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Common/verify/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002222s ]
+[ 2014-11-14T19:48:28+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002449s ]
+[ 2014-11-14T19:48:29+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T19:48:29+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.003634s ]
+[ 2014-11-14T19:48:29+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.003983s ]
+[ 2014-11-14T19:48:29+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T19:48:29+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002230s ]
+[ 2014-11-14T19:48:29+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002448s ]
+[ 2014-11-14T19:48:29+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2014-11-14T19:48:29+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.001430s ]
+[ 2014-11-14T19:48:29+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.001651s ]
+[ 2014-11-14T19:48:29+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2014-11-14T19:48:29+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.035306s ]
+[ 2014-11-14T19:48:29+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.035586s ]
+[ 2014-11-14T19:48:29+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2014-11-14T19:48:29+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.001649s ]
+[ 2014-11-14T19:48:29+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.001566s ]
+[ 2014-11-14T19:48:29+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001200s ]
+[ 2014-11-14T19:48:29+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.002049s ]
+[ 2014-11-14T19:48:29+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007091s ]
+[ 2014-11-14T19:48:29+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2014-11-14T19:48:29+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.001993s ]
+[ 2014-11-14T19:48:29+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.002216s ]
+[ 2014-11-14T19:48:37+08:00 ] /test/admin.php/Common/verify/random/0.6700806056614965 | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T19:48:37+08:00 ] /test/admin.php/Common/verify/random/0.6700806056614965 | INFO: Run CheckRoute Behavior [ RunTime:0.003523s ]
+[ 2014-11-14T19:48:37+08:00 ] /test/admin.php/Common/verify/random/0.6700806056614965 | INFO: Tag[ route_check ] --END-- [ RunTime:0.003864s ]
+[ 2014-11-14T19:48:37+08:00 ] /test/admin.php/Common/verify/random/0.6700806056614965 | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T19:48:37+08:00 ] /test/admin.php/Common/verify/random/0.6700806056614965 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002277s ]
+[ 2014-11-14T19:48:37+08:00 ] /test/admin.php/Common/verify/random/0.6700806056614965 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002490s ]
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Run CheckRoute Behavior [ RunTime:0.004509s ]
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ route_check ] --END-- [ RunTime:0.004929s ]
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002839s ]
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003111s ]
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | SQL: SHOW COLUMNS FROM `tb_user` [ RunTime:0.040911s ]
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | SQL: SELECT COUNT(*) AS tp_count FROM `tb_user` LIMIT 1   [ RunTime:0.030908s ]
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | SQL: SELECT `userid`,`username`,`useremail`,`usertel` FROM `tb_user` ORDER BY userid asc LIMIT 0,5   [ RunTime:0.001269s ]
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_template ] --START--
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Run LocationTemplate Behavior [ RunTime:0.004618s ]
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_template ] --END-- [ RunTime:0.004833s ]
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_parse ] --START--
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Run ParseTemplate Behavior [ RunTime:0.072350s ]
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.072705s ]
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_filter ] --START--
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Run ContentReplace Behavior [ RunTime:0.002077s ]
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Run TokenBuild Behavior [ RunTime:0.002047s ]
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001224s ]
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Run ShowRuntime Behavior [ RunTime:0.002298s ]
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008350s ]
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_end ] --START--
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002115s ]
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002349s ]
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.010231s ]
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.010744s ]
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.009256s ]
+[ 2014-11-14T19:48:43+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.009570s ]
+[ 2014-11-14T19:48:44+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | SQL: SHOW COLUMNS FROM `tb_user` [ RunTime:0.014514s ]
+[ 2014-11-14T19:48:44+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | SQL: SELECT COUNT(*) AS tp_count FROM `tb_user` LIMIT 1   [ RunTime:0.004039s ]
+[ 2014-11-14T19:48:44+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | SQL: SELECT `userid`,`username`,`useremail`,`usertel` FROM `tb_user` ORDER BY userid asc LIMIT 0,5   [ RunTime:0.001768s ]
+[ 2014-11-14T19:48:44+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2014-11-14T19:48:44+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.008128s ]
+[ 2014-11-14T19:48:44+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.008427s ]
+[ 2014-11-14T19:48:44+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2014-11-14T19:48:44+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.097816s ]
+[ 2014-11-14T19:48:44+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.098128s ]
+[ 2014-11-14T19:48:44+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2014-11-14T19:48:44+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.006009s ]
+[ 2014-11-14T19:48:44+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.005353s ]
+[ 2014-11-14T19:48:44+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003989s ]
+[ 2014-11-14T19:48:44+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.005062s ]
+[ 2014-11-14T19:48:44+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.021172s ]
+[ 2014-11-14T19:48:44+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2014-11-14T19:48:44+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.005144s ]
+[ 2014-11-14T19:48:44+08:00 ] /test/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.005410s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.007223s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.007554s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004893s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005202s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.006846s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.007088s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.054882s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.055147s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.004081s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.004130s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003302s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004784s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.016851s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.008098s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.008333s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Common/verify/ | INFO: Run CheckRoute Behavior [ RunTime:0.003927s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.004324s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Common/verify/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002652s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002929s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.003009s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.003332s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001958s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002164s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.001675s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.001919s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.034414s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.034712s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.001778s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.001991s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001149s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.002065s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007643s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.002040s ]
+[ 2014-11-14T19:56:41+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.002284s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.019148s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.019504s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002606s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002829s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.005759s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.006013s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.042203s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.042476s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.001523s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.001687s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001036s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003312s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008131s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002989s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003207s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Common/verify/ | INFO: Run CheckRoute Behavior [ RunTime:0.005087s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.005421s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Common/verify/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002703s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002935s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.003789s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.004159s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002448s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002878s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.001803s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.002084s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.033488s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.033755s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.001404s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.001961s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000975s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.001708s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006582s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.001667s ]
+[ 2014-11-14T20:37:27+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.001844s ]
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.003696s ]
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.004259s ]
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003709s ]
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003920s ]
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003056s ]
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003299s ]
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.080736s ]
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.081009s ]
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.002208s ]
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.002835s ]
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001137s ]
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001967s ]
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008746s ]
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001992s ]
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002259s ]
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Common/verify/ | INFO: Run CheckRoute Behavior [ RunTime:0.005454s ]
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.005767s ]
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Common/verify/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002025s ]
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002225s ]
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.006613s ]
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.006991s ]
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.006172s ]
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.006454s ]
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.010248s ]
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.010569s ]
+[ 2014-11-14T20:38:18+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2014-11-14T20:38:19+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.060613s ]
+[ 2014-11-14T20:38:19+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.060922s ]
+[ 2014-11-14T20:38:19+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2014-11-14T20:38:19+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.005044s ]
+[ 2014-11-14T20:38:19+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.004640s ]
+[ 2014-11-14T20:38:19+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003698s ]
+[ 2014-11-14T20:38:19+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.004724s ]
+[ 2014-11-14T20:38:19+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.018832s ]
+[ 2014-11-14T20:38:19+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2014-11-14T20:38:19+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.007691s ]
+[ 2014-11-14T20:38:19+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.007937s ]
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.014939s ]
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.015305s ]
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002473s ]
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002697s ]
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.005580s ]
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005838s ]
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.046126s ]
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.046392s ]
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.002540s ]
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.001752s ]
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001045s ]
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001924s ]
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007827s ]
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002972s ]
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003182s ]
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Common/verify/ | INFO: Run CheckRoute Behavior [ RunTime:0.004140s ]
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.004483s ]
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Common/verify/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003601s ]
+[ 2014-11-14T21:15:51+08:00 ] /test/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003822s ]
+[ 2014-11-14T21:15:52+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2014-11-14T21:15:52+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.003441s ]
+[ 2014-11-14T21:15:52+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.003747s ]
+[ 2014-11-14T21:15:52+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2014-11-14T21:15:52+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003546s ]
+[ 2014-11-14T21:15:52+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003842s ]
+[ 2014-11-14T21:15:52+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2014-11-14T21:15:52+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.002268s ]
+[ 2014-11-14T21:15:52+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.002645s ]
+[ 2014-11-14T21:15:52+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2014-11-14T21:15:52+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.043772s ]
+[ 2014-11-14T21:15:52+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.044108s ]
+[ 2014-11-14T21:15:52+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2014-11-14T21:15:52+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.001737s ]
+[ 2014-11-14T21:15:52+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.002037s ]
+[ 2014-11-14T21:15:52+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001226s ]
+[ 2014-11-14T21:15:52+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.001974s ]
+[ 2014-11-14T21:15:52+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007568s ]
+[ 2014-11-14T21:15:52+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2014-11-14T21:15:52+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.002093s ]
+[ 2014-11-14T21:15:52+08:00 ] /test/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.002335s ]

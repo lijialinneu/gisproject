@@ -1,0 +1,1501 @@
+[ 2015-02-16T09:38:19+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T09:38:19+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.158090s ]
+[ 2015-02-16T09:38:19+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.193318s ]
+[ 2015-02-16T09:38:19+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T09:38:19+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.113941s ]
+[ 2015-02-16T09:38:19+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.114154s ]
+[ 2015-02-16T09:38:19+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T09:38:20+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T09:38:20+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.647878s ]
+[ 2015-02-16T09:38:20+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.648071s ]
+[ 2015-02-16T09:38:20+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T09:38:20+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.030082s ]
+[ 2015-02-16T09:38:20+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.005771s ]
+[ 2015-02-16T09:38:20+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.021561s ]
+[ 2015-02-16T09:38:20+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.005277s ]
+[ 2015-02-16T09:38:20+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.063166s ]
+[ 2015-02-16T09:38:20+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T09:38:20+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.007865s ]
+[ 2015-02-16T09:38:20+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.008020s ]
+[ 2015-02-16T10:05:10+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:05:10+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004278s ]
+[ 2015-02-16T10:05:10+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004465s ]
+[ 2015-02-16T10:05:10+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:05:10+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.018992s ]
+[ 2015-02-16T10:05:10+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.019127s ]
+[ 2015-02-16T10:05:10+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:05:10+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:05:10+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.094169s ]
+[ 2015-02-16T10:05:10+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.094298s ]
+[ 2015-02-16T10:05:10+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:05:10+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003393s ]
+[ 2015-02-16T10:05:10+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.002900s ]
+[ 2015-02-16T10:05:10+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002776s ]
+[ 2015-02-16T10:05:10+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004778s ]
+[ 2015-02-16T10:05:10+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.014202s ]
+[ 2015-02-16T10:05:10+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:05:10+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003962s ]
+[ 2015-02-16T10:05:10+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004078s ]
+[ 2015-02-16T10:05:46+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:05:46+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001753s ]
+[ 2015-02-16T10:05:46+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002003s ]
+[ 2015-02-16T10:05:46+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:05:46+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001015s ]
+[ 2015-02-16T10:05:46+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001151s ]
+[ 2015-02-16T10:05:46+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:05:46+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:05:46+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.025755s ]
+[ 2015-02-16T10:05:46+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.025890s ]
+[ 2015-02-16T10:05:46+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:05:46+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.001087s ]
+[ 2015-02-16T10:05:46+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.001229s ]
+[ 2015-02-16T10:05:46+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.006964s ]
+[ 2015-02-16T10:05:46+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001272s ]
+[ 2015-02-16T10:05:46+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.010939s ]
+[ 2015-02-16T10:05:46+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:05:46+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001236s ]
+[ 2015-02-16T10:05:46+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001417s ]
+[ 2015-02-16T10:09:39+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:09:39+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004862s ]
+[ 2015-02-16T10:09:39+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005031s ]
+[ 2015-02-16T10:09:39+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:09:39+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.018977s ]
+[ 2015-02-16T10:09:39+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.019371s ]
+[ 2015-02-16T10:09:39+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:09:40+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:09:40+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.075858s ]
+[ 2015-02-16T10:09:40+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.076010s ]
+[ 2015-02-16T10:09:40+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:09:40+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003769s ]
+[ 2015-02-16T10:09:40+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003126s ]
+[ 2015-02-16T10:09:40+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002628s ]
+[ 2015-02-16T10:09:40+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003001s ]
+[ 2015-02-16T10:09:40+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013006s ]
+[ 2015-02-16T10:09:40+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:09:40+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003785s ]
+[ 2015-02-16T10:09:40+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003884s ]
+[ 2015-02-16T10:11:08+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:11:08+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003307s ]
+[ 2015-02-16T10:11:08+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003633s ]
+[ 2015-02-16T10:11:08+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:11:08+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004726s ]
+[ 2015-02-16T10:11:08+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.004885s ]
+[ 2015-02-16T10:11:08+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:11:08+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:11:08+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.058346s ]
+[ 2015-02-16T10:11:08+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.058492s ]
+[ 2015-02-16T10:11:08+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:11:08+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.002674s ]
+[ 2015-02-16T10:11:08+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003098s ]
+[ 2015-02-16T10:11:08+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002977s ]
+[ 2015-02-16T10:11:08+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003020s ]
+[ 2015-02-16T10:11:08+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012320s ]
+[ 2015-02-16T10:11:08+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:11:08+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003362s ]
+[ 2015-02-16T10:11:08+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003488s ]
+[ 2015-02-16T10:12:21+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:12:21+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001732s ]
+[ 2015-02-16T10:12:21+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001982s ]
+[ 2015-02-16T10:12:21+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:12:21+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001166s ]
+[ 2015-02-16T10:12:21+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001320s ]
+[ 2015-02-16T10:12:21+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:12:21+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:12:21+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.033552s ]
+[ 2015-02-16T10:12:21+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.033698s ]
+[ 2015-02-16T10:12:21+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:12:21+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.002397s ]
+[ 2015-02-16T10:12:21+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.001206s ]
+[ 2015-02-16T10:12:21+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000910s ]
+[ 2015-02-16T10:12:21+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001448s ]
+[ 2015-02-16T10:12:21+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006356s ]
+[ 2015-02-16T10:12:21+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:12:21+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001318s ]
+[ 2015-02-16T10:12:21+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001449s ]
+[ 2015-02-16T10:16:23+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:16:23+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003354s ]
+[ 2015-02-16T10:16:23+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003588s ]
+[ 2015-02-16T10:16:23+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:16:23+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004749s ]
+[ 2015-02-16T10:16:23+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005045s ]
+[ 2015-02-16T10:16:23+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:16:23+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:16:23+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.033360s ]
+[ 2015-02-16T10:16:23+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.033494s ]
+[ 2015-02-16T10:16:23+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:16:23+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.002904s ]
+[ 2015-02-16T10:16:23+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003513s ]
+[ 2015-02-16T10:16:23+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.004709s ]
+[ 2015-02-16T10:16:23+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.005566s ]
+[ 2015-02-16T10:16:23+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.017907s ]
+[ 2015-02-16T10:16:23+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:16:23+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.006827s ]
+[ 2015-02-16T10:16:23+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.007051s ]
+[ 2015-02-16T10:16:32+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:16:32+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003867s ]
+[ 2015-02-16T10:16:32+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004105s ]
+[ 2015-02-16T10:16:32+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:16:32+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004824s ]
+[ 2015-02-16T10:16:32+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.004987s ]
+[ 2015-02-16T10:16:32+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:16:32+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:16:32+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.034451s ]
+[ 2015-02-16T10:16:32+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.034598s ]
+[ 2015-02-16T10:16:32+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:16:32+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003104s ]
+[ 2015-02-16T10:16:32+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003509s ]
+[ 2015-02-16T10:16:32+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002633s ]
+[ 2015-02-16T10:16:32+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003196s ]
+[ 2015-02-16T10:16:32+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012972s ]
+[ 2015-02-16T10:16:32+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:16:32+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003211s ]
+[ 2015-02-16T10:16:32+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003350s ]
+[ 2015-02-16T10:16:38+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:16:38+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004459s ]
+[ 2015-02-16T10:16:38+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004715s ]
+[ 2015-02-16T10:16:38+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:16:38+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.005080s ]
+[ 2015-02-16T10:16:38+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005264s ]
+[ 2015-02-16T10:16:38+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:16:38+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:16:38+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.069154s ]
+[ 2015-02-16T10:16:38+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.069293s ]
+[ 2015-02-16T10:16:38+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:16:38+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003219s ]
+[ 2015-02-16T10:16:38+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003029s ]
+[ 2015-02-16T10:16:38+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002311s ]
+[ 2015-02-16T10:16:38+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002965s ]
+[ 2015-02-16T10:16:38+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011916s ]
+[ 2015-02-16T10:16:38+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:16:38+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002908s ]
+[ 2015-02-16T10:16:38+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003036s ]
+[ 2015-02-16T10:16:52+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:16:52+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001622s ]
+[ 2015-02-16T10:16:52+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001848s ]
+[ 2015-02-16T10:16:52+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:16:52+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001150s ]
+[ 2015-02-16T10:16:52+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001544s ]
+[ 2015-02-16T10:16:52+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:16:52+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:16:52+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.026271s ]
+[ 2015-02-16T10:16:52+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.026436s ]
+[ 2015-02-16T10:16:52+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:16:52+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.001096s ]
+[ 2015-02-16T10:16:52+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.001116s ]
+[ 2015-02-16T10:16:52+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000815s ]
+[ 2015-02-16T10:16:52+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001337s ]
+[ 2015-02-16T10:16:52+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004739s ]
+[ 2015-02-16T10:16:52+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:16:52+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001979s ]
+[ 2015-02-16T10:16:52+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002130s ]
+[ 2015-02-16T10:18:28+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:18:28+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003596s ]
+[ 2015-02-16T10:18:28+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003837s ]
+[ 2015-02-16T10:18:28+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:18:28+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.005417s ]
+[ 2015-02-16T10:18:28+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005619s ]
+[ 2015-02-16T10:18:28+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:18:28+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:18:28+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.059755s ]
+[ 2015-02-16T10:18:28+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.059960s ]
+[ 2015-02-16T10:18:28+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:18:28+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.004097s ]
+[ 2015-02-16T10:18:28+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003498s ]
+[ 2015-02-16T10:18:28+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002753s ]
+[ 2015-02-16T10:18:28+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003652s ]
+[ 2015-02-16T10:18:28+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.014579s ]
+[ 2015-02-16T10:18:28+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:18:28+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.004339s ]
+[ 2015-02-16T10:18:28+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004575s ]
+[ 2015-02-16T10:18:33+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:18:33+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001769s ]
+[ 2015-02-16T10:18:33+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002021s ]
+[ 2015-02-16T10:18:33+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:18:33+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001211s ]
+[ 2015-02-16T10:18:33+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001387s ]
+[ 2015-02-16T10:18:33+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:18:33+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:18:33+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.026737s ]
+[ 2015-02-16T10:18:33+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.026885s ]
+[ 2015-02-16T10:18:33+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:18:33+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.001120s ]
+[ 2015-02-16T10:18:33+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.001129s ]
+[ 2015-02-16T10:18:33+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000860s ]
+[ 2015-02-16T10:18:33+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001365s ]
+[ 2015-02-16T10:18:33+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004864s ]
+[ 2015-02-16T10:18:33+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:18:33+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001691s ]
+[ 2015-02-16T10:18:33+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001828s ]
+[ 2015-02-16T10:25:54+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:25:54+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.006726s ]
+[ 2015-02-16T10:25:54+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.006981s ]
+[ 2015-02-16T10:25:54+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:25:54+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.005212s ]
+[ 2015-02-16T10:25:54+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005386s ]
+[ 2015-02-16T10:25:54+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:25:54+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:25:54+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.040439s ]
+[ 2015-02-16T10:25:54+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.040590s ]
+[ 2015-02-16T10:25:54+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:25:54+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003435s ]
+[ 2015-02-16T10:25:54+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003436s ]
+[ 2015-02-16T10:25:54+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002840s ]
+[ 2015-02-16T10:25:54+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003631s ]
+[ 2015-02-16T10:25:54+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013775s ]
+[ 2015-02-16T10:25:54+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:25:54+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.037901s ]
+[ 2015-02-16T10:25:54+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.038081s ]
+[ 2015-02-16T10:25:56+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:25:56+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003479s ]
+[ 2015-02-16T10:25:56+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003704s ]
+[ 2015-02-16T10:25:56+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:25:56+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.005529s ]
+[ 2015-02-16T10:25:56+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005695s ]
+[ 2015-02-16T10:25:56+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:25:56+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:25:56+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.034802s ]
+[ 2015-02-16T10:25:56+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.034948s ]
+[ 2015-02-16T10:25:56+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:25:56+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.004314s ]
+[ 2015-02-16T10:25:56+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.002983s ]
+[ 2015-02-16T10:25:56+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002699s ]
+[ 2015-02-16T10:25:56+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003548s ]
+[ 2015-02-16T10:25:56+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013938s ]
+[ 2015-02-16T10:25:56+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:25:56+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.004271s ]
+[ 2015-02-16T10:25:56+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004655s ]
+[ 2015-02-16T10:26:40+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:26:40+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003954s ]
+[ 2015-02-16T10:26:40+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004298s ]
+[ 2015-02-16T10:26:40+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:26:40+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004969s ]
+[ 2015-02-16T10:26:40+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005192s ]
+[ 2015-02-16T10:26:40+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:26:40+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:26:40+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.056142s ]
+[ 2015-02-16T10:26:40+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.056273s ]
+[ 2015-02-16T10:26:40+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:26:40+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003214s ]
+[ 2015-02-16T10:26:40+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003101s ]
+[ 2015-02-16T10:26:40+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002342s ]
+[ 2015-02-16T10:26:40+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002865s ]
+[ 2015-02-16T10:26:40+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011914s ]
+[ 2015-02-16T10:26:40+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:26:40+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003522s ]
+[ 2015-02-16T10:26:40+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003654s ]
+[ 2015-02-16T10:26:50+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:26:50+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.005147s ]
+[ 2015-02-16T10:26:50+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005443s ]
+[ 2015-02-16T10:26:50+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:26:50+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.005666s ]
+[ 2015-02-16T10:26:50+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005865s ]
+[ 2015-02-16T10:26:50+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:26:50+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:26:50+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.040903s ]
+[ 2015-02-16T10:26:50+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.041054s ]
+[ 2015-02-16T10:26:50+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:26:50+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003303s ]
+[ 2015-02-16T10:26:50+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003148s ]
+[ 2015-02-16T10:26:50+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002816s ]
+[ 2015-02-16T10:26:50+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003365s ]
+[ 2015-02-16T10:26:50+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013079s ]
+[ 2015-02-16T10:26:50+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:26:50+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003215s ]
+[ 2015-02-16T10:26:50+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003357s ]
+[ 2015-02-16T10:28:05+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:28:05+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003550s ]
+[ 2015-02-16T10:28:05+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003792s ]
+[ 2015-02-16T10:28:05+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:28:05+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004063s ]
+[ 2015-02-16T10:28:05+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.004187s ]
+[ 2015-02-16T10:28:05+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:28:05+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:28:05+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.027868s ]
+[ 2015-02-16T10:28:05+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.027982s ]
+[ 2015-02-16T10:28:05+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:28:05+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.002351s ]
+[ 2015-02-16T10:28:05+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.002443s ]
+[ 2015-02-16T10:28:05+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003110s ]
+[ 2015-02-16T10:28:05+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002772s ]
+[ 2015-02-16T10:28:05+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.010998s ]
+[ 2015-02-16T10:28:05+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:28:05+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002685s ]
+[ 2015-02-16T10:28:05+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002792s ]
+[ 2015-02-16T10:28:15+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:28:15+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.005137s ]
+[ 2015-02-16T10:28:15+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005463s ]
+[ 2015-02-16T10:28:15+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:28:15+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.007144s ]
+[ 2015-02-16T10:28:15+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.007402s ]
+[ 2015-02-16T10:28:15+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:28:15+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:28:15+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.057930s ]
+[ 2015-02-16T10:28:15+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.058084s ]
+[ 2015-02-16T10:28:15+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:28:15+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003147s ]
+[ 2015-02-16T10:28:15+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.002746s ]
+[ 2015-02-16T10:28:15+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002365s ]
+[ 2015-02-16T10:28:15+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002846s ]
+[ 2015-02-16T10:28:15+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011520s ]
+[ 2015-02-16T10:28:15+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:28:15+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.004263s ]
+[ 2015-02-16T10:28:15+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004459s ]
+[ 2015-02-16T10:28:36+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:28:36+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003059s ]
+[ 2015-02-16T10:28:36+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003269s ]
+[ 2015-02-16T10:28:36+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:28:36+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004794s ]
+[ 2015-02-16T10:28:36+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.004945s ]
+[ 2015-02-16T10:28:36+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:28:36+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:28:36+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.032386s ]
+[ 2015-02-16T10:28:36+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.032518s ]
+[ 2015-02-16T10:28:36+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:28:36+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003451s ]
+[ 2015-02-16T10:28:36+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.002983s ]
+[ 2015-02-16T10:28:36+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002332s ]
+[ 2015-02-16T10:28:36+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002852s ]
+[ 2015-02-16T10:28:36+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011982s ]
+[ 2015-02-16T10:28:36+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:28:36+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002921s ]
+[ 2015-02-16T10:28:36+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003043s ]
+[ 2015-02-16T10:29:47+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:29:47+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003238s ]
+[ 2015-02-16T10:29:47+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003453s ]
+[ 2015-02-16T10:29:47+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:29:47+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.005590s ]
+[ 2015-02-16T10:29:47+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005798s ]
+[ 2015-02-16T10:29:47+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:29:47+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:29:47+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.034460s ]
+[ 2015-02-16T10:29:47+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.034592s ]
+[ 2015-02-16T10:29:47+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:29:47+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.002793s ]
+[ 2015-02-16T10:29:47+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.002619s ]
+[ 2015-02-16T10:29:47+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002276s ]
+[ 2015-02-16T10:29:47+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003805s ]
+[ 2015-02-16T10:29:47+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011843s ]
+[ 2015-02-16T10:29:47+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:29:47+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002960s ]
+[ 2015-02-16T10:29:47+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003088s ]
+[ 2015-02-16T10:30:50+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:30:50+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001655s ]
+[ 2015-02-16T10:30:50+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001892s ]
+[ 2015-02-16T10:30:50+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:30:50+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001323s ]
+[ 2015-02-16T10:30:50+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001488s ]
+[ 2015-02-16T10:30:50+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:30:50+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:30:50+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.068005s ]
+[ 2015-02-16T10:30:50+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.068163s ]
+[ 2015-02-16T10:30:50+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:30:50+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.001101s ]
+[ 2015-02-16T10:30:50+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.001123s ]
+[ 2015-02-16T10:30:50+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000746s ]
+[ 2015-02-16T10:30:50+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001855s ]
+[ 2015-02-16T10:30:50+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005201s ]
+[ 2015-02-16T10:30:50+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:30:50+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001377s ]
+[ 2015-02-16T10:30:50+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001598s ]
+[ 2015-02-16T10:32:35+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:32:35+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.018542s ]
+[ 2015-02-16T10:32:35+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.018805s ]
+[ 2015-02-16T10:32:35+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:32:35+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.008407s ]
+[ 2015-02-16T10:32:35+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.008614s ]
+[ 2015-02-16T10:32:35+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:32:35+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:32:35+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.039096s ]
+[ 2015-02-16T10:32:35+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.039245s ]
+[ 2015-02-16T10:32:35+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:32:35+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003026s ]
+[ 2015-02-16T10:32:35+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003119s ]
+[ 2015-02-16T10:32:35+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002765s ]
+[ 2015-02-16T10:32:35+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004482s ]
+[ 2015-02-16T10:32:35+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013820s ]
+[ 2015-02-16T10:32:35+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:32:35+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003946s ]
+[ 2015-02-16T10:32:35+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004119s ]
+[ 2015-02-16T10:32:40+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:32:40+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003497s ]
+[ 2015-02-16T10:32:40+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003734s ]
+[ 2015-02-16T10:32:40+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:32:40+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.005641s ]
+[ 2015-02-16T10:32:40+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005805s ]
+[ 2015-02-16T10:32:40+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:32:40+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:32:40+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.036203s ]
+[ 2015-02-16T10:32:40+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.036356s ]
+[ 2015-02-16T10:32:40+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:32:40+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003003s ]
+[ 2015-02-16T10:32:40+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003143s ]
+[ 2015-02-16T10:32:40+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002737s ]
+[ 2015-02-16T10:32:40+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004335s ]
+[ 2015-02-16T10:32:40+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013694s ]
+[ 2015-02-16T10:32:40+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:32:40+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003207s ]
+[ 2015-02-16T10:32:40+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003345s ]
+[ 2015-02-16T10:33:55+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:33:55+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004807s ]
+[ 2015-02-16T10:33:55+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005044s ]
+[ 2015-02-16T10:33:55+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:33:55+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004863s ]
+[ 2015-02-16T10:33:55+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005041s ]
+[ 2015-02-16T10:33:55+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:33:55+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:33:55+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.035928s ]
+[ 2015-02-16T10:33:55+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.036073s ]
+[ 2015-02-16T10:33:55+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:33:55+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003519s ]
+[ 2015-02-16T10:33:55+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003105s ]
+[ 2015-02-16T10:33:55+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002668s ]
+[ 2015-02-16T10:33:55+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003383s ]
+[ 2015-02-16T10:33:55+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013122s ]
+[ 2015-02-16T10:33:55+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:33:55+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003436s ]
+[ 2015-02-16T10:33:55+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003586s ]
+[ 2015-02-16T10:33:57+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:33:57+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001620s ]
+[ 2015-02-16T10:33:57+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001844s ]
+[ 2015-02-16T10:33:57+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:33:57+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001143s ]
+[ 2015-02-16T10:33:57+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001296s ]
+[ 2015-02-16T10:33:57+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:33:57+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:33:57+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.047384s ]
+[ 2015-02-16T10:33:57+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.047529s ]
+[ 2015-02-16T10:33:57+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:33:57+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.001093s ]
+[ 2015-02-16T10:33:57+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.001411s ]
+[ 2015-02-16T10:33:57+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000767s ]
+[ 2015-02-16T10:33:57+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001342s ]
+[ 2015-02-16T10:33:57+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005002s ]
+[ 2015-02-16T10:33:57+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:33:57+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001374s ]
+[ 2015-02-16T10:33:57+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001512s ]
+[ 2015-02-16T10:34:02+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:34:02+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001633s ]
+[ 2015-02-16T10:34:02+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001861s ]
+[ 2015-02-16T10:34:02+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:34:02+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004187s ]
+[ 2015-02-16T10:34:02+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.004388s ]
+[ 2015-02-16T10:34:02+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:34:02+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:34:02+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.025808s ]
+[ 2015-02-16T10:34:02+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.026060s ]
+[ 2015-02-16T10:34:02+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:34:02+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.001086s ]
+[ 2015-02-16T10:34:02+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.001450s ]
+[ 2015-02-16T10:34:02+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000990s ]
+[ 2015-02-16T10:34:02+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001795s ]
+[ 2015-02-16T10:34:02+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005802s ]
+[ 2015-02-16T10:34:02+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:34:02+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001540s ]
+[ 2015-02-16T10:34:02+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001681s ]
+[ 2015-02-16T10:34:59+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:34:59+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001683s ]
+[ 2015-02-16T10:34:59+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001925s ]
+[ 2015-02-16T10:34:59+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:34:59+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001214s ]
+[ 2015-02-16T10:34:59+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001386s ]
+[ 2015-02-16T10:34:59+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:34:59+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:34:59+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.046139s ]
+[ 2015-02-16T10:34:59+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.046303s ]
+[ 2015-02-16T10:34:59+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:34:59+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.001183s ]
+[ 2015-02-16T10:34:59+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.001233s ]
+[ 2015-02-16T10:34:59+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000830s ]
+[ 2015-02-16T10:34:59+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001406s ]
+[ 2015-02-16T10:34:59+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005063s ]
+[ 2015-02-16T10:34:59+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:34:59+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001474s ]
+[ 2015-02-16T10:34:59+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001624s ]
+[ 2015-02-16T10:35:44+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:35:44+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001737s ]
+[ 2015-02-16T10:35:44+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001969s ]
+[ 2015-02-16T10:35:44+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:35:44+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003007s ]
+[ 2015-02-16T10:35:44+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003172s ]
+[ 2015-02-16T10:35:44+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:35:44+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:35:44+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.053660s ]
+[ 2015-02-16T10:35:44+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.053809s ]
+[ 2015-02-16T10:35:44+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:35:44+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.001104s ]
+[ 2015-02-16T10:35:44+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.001122s ]
+[ 2015-02-16T10:35:44+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000746s ]
+[ 2015-02-16T10:35:44+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001373s ]
+[ 2015-02-16T10:35:44+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004718s ]
+[ 2015-02-16T10:35:44+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:35:44+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001370s ]
+[ 2015-02-16T10:35:44+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001503s ]
+[ 2015-02-16T10:36:40+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:36:40+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001940s ]
+[ 2015-02-16T10:36:40+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002191s ]
+[ 2015-02-16T10:36:40+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:36:40+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001302s ]
+[ 2015-02-16T10:36:40+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001479s ]
+[ 2015-02-16T10:36:40+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:36:40+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:36:40+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.033848s ]
+[ 2015-02-16T10:36:40+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.033992s ]
+[ 2015-02-16T10:36:40+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:36:40+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.001097s ]
+[ 2015-02-16T10:36:40+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.001183s ]
+[ 2015-02-16T10:36:40+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000760s ]
+[ 2015-02-16T10:36:40+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001354s ]
+[ 2015-02-16T10:36:40+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004770s ]
+[ 2015-02-16T10:36:40+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:36:40+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001569s ]
+[ 2015-02-16T10:36:40+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001707s ]
+[ 2015-02-16T10:36:56+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:36:56+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.005123s ]
+[ 2015-02-16T10:36:56+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005362s ]
+[ 2015-02-16T10:36:56+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:36:56+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004658s ]
+[ 2015-02-16T10:36:56+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.004818s ]
+[ 2015-02-16T10:36:56+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:36:56+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:36:56+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.041584s ]
+[ 2015-02-16T10:36:56+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.041719s ]
+[ 2015-02-16T10:36:56+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:36:56+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.002749s ]
+[ 2015-02-16T10:36:56+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.002831s ]
+[ 2015-02-16T10:36:56+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.005545s ]
+[ 2015-02-16T10:36:56+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002976s ]
+[ 2015-02-16T10:36:56+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.014492s ]
+[ 2015-02-16T10:36:56+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:36:56+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003079s ]
+[ 2015-02-16T10:36:56+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003211s ]
+[ 2015-02-16T10:36:58+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:36:58+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001675s ]
+[ 2015-02-16T10:36:58+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001907s ]
+[ 2015-02-16T10:36:58+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:36:58+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003661s ]
+[ 2015-02-16T10:36:58+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003827s ]
+[ 2015-02-16T10:36:58+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:36:58+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:36:58+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.034168s ]
+[ 2015-02-16T10:36:58+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.034337s ]
+[ 2015-02-16T10:36:58+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:36:58+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.001089s ]
+[ 2015-02-16T10:36:58+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.001109s ]
+[ 2015-02-16T10:36:58+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000661s ]
+[ 2015-02-16T10:36:58+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001262s ]
+[ 2015-02-16T10:36:58+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004472s ]
+[ 2015-02-16T10:36:58+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:36:58+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001280s ]
+[ 2015-02-16T10:36:58+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001843s ]
+[ 2015-02-16T10:37:16+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:37:16+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001625s ]
+[ 2015-02-16T10:37:16+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001851s ]
+[ 2015-02-16T10:37:16+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:37:16+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001372s ]
+[ 2015-02-16T10:37:16+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001585s ]
+[ 2015-02-16T10:37:16+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:37:16+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:37:16+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.025430s ]
+[ 2015-02-16T10:37:16+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.025576s ]
+[ 2015-02-16T10:37:16+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:37:16+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.001139s ]
+[ 2015-02-16T10:37:16+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.001125s ]
+[ 2015-02-16T10:37:16+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000746s ]
+[ 2015-02-16T10:37:16+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002048s ]
+[ 2015-02-16T10:37:16+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005430s ]
+[ 2015-02-16T10:37:16+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:37:16+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001370s ]
+[ 2015-02-16T10:37:16+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001505s ]
+[ 2015-02-16T10:39:00+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:39:00+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.023562s ]
+[ 2015-02-16T10:39:00+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.023844s ]
+[ 2015-02-16T10:39:00+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:39:00+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004935s ]
+[ 2015-02-16T10:39:00+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005117s ]
+[ 2015-02-16T10:39:00+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:39:00+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:39:00+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.051892s ]
+[ 2015-02-16T10:39:00+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.052040s ]
+[ 2015-02-16T10:39:00+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:39:00+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003056s ]
+[ 2015-02-16T10:39:00+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003030s ]
+[ 2015-02-16T10:39:00+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002711s ]
+[ 2015-02-16T10:39:00+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004719s ]
+[ 2015-02-16T10:39:00+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013938s ]
+[ 2015-02-16T10:39:00+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:39:00+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003385s ]
+[ 2015-02-16T10:39:00+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003532s ]
+[ 2015-02-16T10:39:23+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:39:23+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002465s ]
+[ 2015-02-16T10:39:23+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002702s ]
+[ 2015-02-16T10:39:23+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:39:23+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001162s ]
+[ 2015-02-16T10:39:23+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001336s ]
+[ 2015-02-16T10:39:23+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:39:23+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:39:23+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.026865s ]
+[ 2015-02-16T10:39:23+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.027010s ]
+[ 2015-02-16T10:39:23+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:39:23+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.001082s ]
+[ 2015-02-16T10:39:23+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.001119s ]
+[ 2015-02-16T10:39:23+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000746s ]
+[ 2015-02-16T10:39:23+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001344s ]
+[ 2015-02-16T10:39:23+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004666s ]
+[ 2015-02-16T10:39:23+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:39:23+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001360s ]
+[ 2015-02-16T10:39:23+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001493s ]
+[ 2015-02-16T10:39:37+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:39:37+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.006371s ]
+[ 2015-02-16T10:39:37+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.006619s ]
+[ 2015-02-16T10:39:37+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:39:37+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004882s ]
+[ 2015-02-16T10:39:37+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005051s ]
+[ 2015-02-16T10:39:37+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:39:37+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:39:37+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.047824s ]
+[ 2015-02-16T10:39:37+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.047971s ]
+[ 2015-02-16T10:39:37+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:39:37+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003158s ]
+[ 2015-02-16T10:39:37+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003666s ]
+[ 2015-02-16T10:39:37+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002629s ]
+[ 2015-02-16T10:39:37+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003654s ]
+[ 2015-02-16T10:39:37+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013516s ]
+[ 2015-02-16T10:39:37+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:39:37+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003233s ]
+[ 2015-02-16T10:39:37+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003370s ]
+[ 2015-02-16T10:40:30+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:40:30+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.010170s ]
+[ 2015-02-16T10:40:30+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.010431s ]
+[ 2015-02-16T10:40:30+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:40:30+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.005444s ]
+[ 2015-02-16T10:40:30+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005983s ]
+[ 2015-02-16T10:40:30+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:40:30+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:40:30+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.036566s ]
+[ 2015-02-16T10:40:30+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.036715s ]
+[ 2015-02-16T10:40:30+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:40:30+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.002946s ]
+[ 2015-02-16T10:40:30+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003338s ]
+[ 2015-02-16T10:40:30+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002753s ]
+[ 2015-02-16T10:40:30+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003205s ]
+[ 2015-02-16T10:40:30+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012653s ]
+[ 2015-02-16T10:40:30+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:40:30+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003221s ]
+[ 2015-02-16T10:40:30+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003362s ]
+[ 2015-02-16T10:42:23+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:42:23+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003719s ]
+[ 2015-02-16T10:42:23+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003984s ]
+[ 2015-02-16T10:42:23+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:42:23+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.008211s ]
+[ 2015-02-16T10:42:23+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.008494s ]
+[ 2015-02-16T10:42:23+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:42:23+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:42:23+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.043369s ]
+[ 2015-02-16T10:42:23+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.043548s ]
+[ 2015-02-16T10:42:23+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:42:23+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.002683s ]
+[ 2015-02-16T10:42:23+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.002830s ]
+[ 2015-02-16T10:42:23+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002464s ]
+[ 2015-02-16T10:42:23+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004088s ]
+[ 2015-02-16T10:42:23+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012454s ]
+[ 2015-02-16T10:42:23+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:42:23+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002879s ]
+[ 2015-02-16T10:42:23+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003006s ]
+[ 2015-02-16T10:42:55+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:42:55+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.044785s ]
+[ 2015-02-16T10:42:55+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.045047s ]
+[ 2015-02-16T10:42:55+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:42:55+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.008657s ]
+[ 2015-02-16T10:42:55+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.008865s ]
+[ 2015-02-16T10:42:55+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:42:55+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:42:55+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.035590s ]
+[ 2015-02-16T10:42:55+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.035736s ]
+[ 2015-02-16T10:42:55+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:42:55+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003131s ]
+[ 2015-02-16T10:42:55+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.002730s ]
+[ 2015-02-16T10:42:55+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002478s ]
+[ 2015-02-16T10:42:55+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004392s ]
+[ 2015-02-16T10:42:55+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013140s ]
+[ 2015-02-16T10:42:55+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:42:55+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002855s ]
+[ 2015-02-16T10:42:55+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002991s ]
+[ 2015-02-16T10:43:30+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:43:30+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.027863s ]
+[ 2015-02-16T10:43:30+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.028129s ]
+[ 2015-02-16T10:43:30+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:43:30+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.010775s ]
+[ 2015-02-16T10:43:30+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.011819s ]
+[ 2015-02-16T10:43:30+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:43:30+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:43:30+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.041248s ]
+[ 2015-02-16T10:43:30+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.041452s ]
+[ 2015-02-16T10:43:30+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:43:30+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003037s ]
+[ 2015-02-16T10:43:30+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.004092s ]
+[ 2015-02-16T10:43:30+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002766s ]
+[ 2015-02-16T10:43:30+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003344s ]
+[ 2015-02-16T10:43:30+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013666s ]
+[ 2015-02-16T10:43:30+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:43:30+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.004438s ]
+[ 2015-02-16T10:43:30+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004590s ]
+[ 2015-02-16T10:45:40+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:45:40+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.006467s ]
+[ 2015-02-16T10:45:40+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.006738s ]
+[ 2015-02-16T10:45:40+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:45:40+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.005224s ]
+[ 2015-02-16T10:45:40+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005429s ]
+[ 2015-02-16T10:45:40+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:45:40+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:45:40+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.052402s ]
+[ 2015-02-16T10:45:40+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.052550s ]
+[ 2015-02-16T10:45:40+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:45:40+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003315s ]
+[ 2015-02-16T10:45:40+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003068s ]
+[ 2015-02-16T10:45:40+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002638s ]
+[ 2015-02-16T10:45:40+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003131s ]
+[ 2015-02-16T10:45:40+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012688s ]
+[ 2015-02-16T10:45:40+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:45:40+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.004416s ]
+[ 2015-02-16T10:45:40+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004576s ]
+[ 2015-02-16T10:51:25+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:51:25+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003486s ]
+[ 2015-02-16T10:51:25+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003726s ]
+[ 2015-02-16T10:51:25+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:51:25+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.005244s ]
+[ 2015-02-16T10:51:25+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005448s ]
+[ 2015-02-16T10:51:25+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:51:25+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:51:25+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.041818s ]
+[ 2015-02-16T10:51:25+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.041977s ]
+[ 2015-02-16T10:51:25+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:51:25+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003193s ]
+[ 2015-02-16T10:51:25+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003248s ]
+[ 2015-02-16T10:51:25+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003378s ]
+[ 2015-02-16T10:51:25+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003219s ]
+[ 2015-02-16T10:51:25+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013470s ]
+[ 2015-02-16T10:51:25+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:51:25+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.004414s ]
+[ 2015-02-16T10:51:25+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.009854s ]
+[ 2015-02-16T10:56:44+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:56:44+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003598s ]
+[ 2015-02-16T10:56:44+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003842s ]
+[ 2015-02-16T10:56:44+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:56:44+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004825s ]
+[ 2015-02-16T10:56:44+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.004989s ]
+[ 2015-02-16T10:56:44+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:56:44+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:56:44+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.044116s ]
+[ 2015-02-16T10:56:44+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.044269s ]
+[ 2015-02-16T10:56:44+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:56:44+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.004205s ]
+[ 2015-02-16T10:56:44+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.002987s ]
+[ 2015-02-16T10:56:44+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002603s ]
+[ 2015-02-16T10:56:44+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003223s ]
+[ 2015-02-16T10:56:44+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013420s ]
+[ 2015-02-16T10:56:44+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:56:44+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003268s ]
+[ 2015-02-16T10:56:44+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003476s ]
+[ 2015-02-16T10:56:48+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:56:48+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003679s ]
+[ 2015-02-16T10:56:48+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004664s ]
+[ 2015-02-16T10:56:48+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:56:48+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004860s ]
+[ 2015-02-16T10:56:48+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005029s ]
+[ 2015-02-16T10:56:48+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:56:48+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:56:48+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.038388s ]
+[ 2015-02-16T10:56:48+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.038552s ]
+[ 2015-02-16T10:56:48+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:56:48+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003830s ]
+[ 2015-02-16T10:56:48+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003188s ]
+[ 2015-02-16T10:56:48+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002700s ]
+[ 2015-02-16T10:56:48+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004906s ]
+[ 2015-02-16T10:56:48+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.015060s ]
+[ 2015-02-16T10:56:48+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:56:48+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003260s ]
+[ 2015-02-16T10:56:48+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003405s ]
+[ 2015-02-16T10:56:52+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:56:52+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003578s ]
+[ 2015-02-16T10:56:52+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003814s ]
+[ 2015-02-16T10:56:52+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:56:52+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.005359s ]
+[ 2015-02-16T10:56:52+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005552s ]
+[ 2015-02-16T10:56:52+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:56:52+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:56:52+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.037261s ]
+[ 2015-02-16T10:56:52+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.037459s ]
+[ 2015-02-16T10:56:52+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:56:52+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.004093s ]
+[ 2015-02-16T10:56:52+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003029s ]
+[ 2015-02-16T10:56:52+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002663s ]
+[ 2015-02-16T10:56:52+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004587s ]
+[ 2015-02-16T10:56:52+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.014833s ]
+[ 2015-02-16T10:56:52+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:56:52+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003313s ]
+[ 2015-02-16T10:56:52+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003457s ]
+[ 2015-02-16T10:58:11+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:58:11+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002360s ]
+[ 2015-02-16T10:58:11+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002616s ]
+[ 2015-02-16T10:58:11+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:58:11+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001741s ]
+[ 2015-02-16T10:58:11+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001907s ]
+[ 2015-02-16T10:58:11+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:58:11+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:58:11+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.027927s ]
+[ 2015-02-16T10:58:11+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.028080s ]
+[ 2015-02-16T10:58:11+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:58:11+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.001964s ]
+[ 2015-02-16T10:58:11+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.001335s ]
+[ 2015-02-16T10:58:11+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000766s ]
+[ 2015-02-16T10:58:11+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001352s ]
+[ 2015-02-16T10:58:11+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005815s ]
+[ 2015-02-16T10:58:11+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:58:11+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002071s ]
+[ 2015-02-16T10:58:11+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002219s ]
+[ 2015-02-16T10:59:15+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:59:15+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003648s ]
+[ 2015-02-16T10:59:15+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003884s ]
+[ 2015-02-16T10:59:15+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:59:15+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.005442s ]
+[ 2015-02-16T10:59:15+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005636s ]
+[ 2015-02-16T10:59:15+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:59:15+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:59:15+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.049954s ]
+[ 2015-02-16T10:59:15+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.050112s ]
+[ 2015-02-16T10:59:15+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:59:15+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003096s ]
+[ 2015-02-16T10:59:15+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.004817s ]
+[ 2015-02-16T10:59:15+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002937s ]
+[ 2015-02-16T10:59:15+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003618s ]
+[ 2015-02-16T10:59:15+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.014973s ]
+[ 2015-02-16T10:59:15+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:59:15+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.004121s ]
+[ 2015-02-16T10:59:15+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004694s ]
+[ 2015-02-16T10:59:57+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T10:59:57+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004394s ]
+[ 2015-02-16T10:59:57+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004671s ]
+[ 2015-02-16T10:59:57+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T10:59:57+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.010786s ]
+[ 2015-02-16T10:59:57+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.011056s ]
+[ 2015-02-16T10:59:57+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T10:59:57+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T10:59:57+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.040088s ]
+[ 2015-02-16T10:59:57+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.040244s ]
+[ 2015-02-16T10:59:57+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T10:59:57+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.004736s ]
+[ 2015-02-16T10:59:57+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003362s ]
+[ 2015-02-16T10:59:57+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002640s ]
+[ 2015-02-16T10:59:57+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003190s ]
+[ 2015-02-16T10:59:57+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.014586s ]
+[ 2015-02-16T10:59:57+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T10:59:57+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003265s ]
+[ 2015-02-16T10:59:57+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003410s ]
+[ 2015-02-16T11:01:45+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T11:01:45+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003717s ]
+[ 2015-02-16T11:01:45+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003974s ]
+[ 2015-02-16T11:01:45+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T11:01:45+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.007308s ]
+[ 2015-02-16T11:01:45+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.007538s ]
+[ 2015-02-16T11:01:45+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T11:01:45+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 20 行.
+[ 2015-02-16T11:01:45+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.081485s ]
+[ 2015-02-16T11:01:45+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.081642s ]
+[ 2015-02-16T11:01:45+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T11:01:45+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003553s ]
+[ 2015-02-16T11:01:45+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.004331s ]
+[ 2015-02-16T11:01:45+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003432s ]
+[ 2015-02-16T11:01:45+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004328s ]
+[ 2015-02-16T11:01:45+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.016661s ]
+[ 2015-02-16T11:01:45+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T11:01:45+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.019903s ]
+[ 2015-02-16T11:01:45+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.020081s ]
+[ 2015-02-16T11:02:17+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T11:02:17+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003474s ]
+[ 2015-02-16T11:02:17+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003703s ]
+[ 2015-02-16T11:02:17+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T11:02:17+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004764s ]
+[ 2015-02-16T11:02:17+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.004933s ]
+[ 2015-02-16T11:02:17+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T11:02:17+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T11:02:17+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.041510s ]
+[ 2015-02-16T11:02:17+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.041753s ]
+[ 2015-02-16T11:02:17+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T11:02:17+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003003s ]
+[ 2015-02-16T11:02:17+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003424s ]
+[ 2015-02-16T11:02:17+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002392s ]
+[ 2015-02-16T11:02:17+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002894s ]
+[ 2015-02-16T11:02:17+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012107s ]
+[ 2015-02-16T11:02:17+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T11:02:17+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002824s ]
+[ 2015-02-16T11:02:17+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002949s ]
+[ 2015-02-16T11:02:30+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T11:02:30+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003640s ]
+[ 2015-02-16T11:02:30+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003884s ]
+[ 2015-02-16T11:02:30+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T11:02:30+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.005757s ]
+[ 2015-02-16T11:02:30+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005956s ]
+[ 2015-02-16T11:02:30+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T11:02:30+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T11:02:30+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.036716s ]
+[ 2015-02-16T11:02:30+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.036869s ]
+[ 2015-02-16T11:02:30+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T11:02:30+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003757s ]
+[ 2015-02-16T11:02:30+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003645s ]
+[ 2015-02-16T11:02:30+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002734s ]
+[ 2015-02-16T11:02:30+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003198s ]
+[ 2015-02-16T11:02:30+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013762s ]
+[ 2015-02-16T11:02:30+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T11:02:30+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003397s ]
+[ 2015-02-16T11:02:30+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003544s ]
+[ 2015-02-16T11:02:57+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T11:02:57+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.010623s ]
+[ 2015-02-16T11:02:57+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.011419s ]
+[ 2015-02-16T11:02:57+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T11:02:57+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.007002s ]
+[ 2015-02-16T11:02:57+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.007215s ]
+[ 2015-02-16T11:02:57+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T11:02:57+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T11:02:57+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.043128s ]
+[ 2015-02-16T11:02:57+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.043361s ]
+[ 2015-02-16T11:02:57+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T11:02:57+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.004504s ]
+[ 2015-02-16T11:02:57+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003136s ]
+[ 2015-02-16T11:02:57+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003029s ]
+[ 2015-02-16T11:02:57+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004319s ]
+[ 2015-02-16T11:02:57+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.015566s ]
+[ 2015-02-16T11:02:57+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T11:02:57+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.005356s ]
+[ 2015-02-16T11:02:57+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.005647s ]
+[ 2015-02-16T11:03:32+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T11:03:32+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001760s ]
+[ 2015-02-16T11:03:32+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002323s ]
+[ 2015-02-16T11:03:32+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T11:03:32+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001146s ]
+[ 2015-02-16T11:03:32+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001304s ]
+[ 2015-02-16T11:03:32+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T11:03:32+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T11:03:32+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.040364s ]
+[ 2015-02-16T11:03:32+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.040518s ]
+[ 2015-02-16T11:03:32+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T11:03:32+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.000994s ]
+[ 2015-02-16T11:03:32+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.001096s ]
+[ 2015-02-16T11:03:32+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000678s ]
+[ 2015-02-16T11:03:32+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001687s ]
+[ 2015-02-16T11:03:32+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004843s ]
+[ 2015-02-16T11:03:32+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T11:03:32+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001334s ]
+[ 2015-02-16T11:03:32+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001468s ]
+[ 2015-02-16T11:03:34+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T11:03:34+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002394s ]
+[ 2015-02-16T11:03:34+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002750s ]
+[ 2015-02-16T11:03:34+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T11:03:34+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001172s ]
+[ 2015-02-16T11:03:34+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001351s ]
+[ 2015-02-16T11:03:34+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T11:03:34+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T11:03:34+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.037666s ]
+[ 2015-02-16T11:03:34+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.037816s ]
+[ 2015-02-16T11:03:34+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T11:03:34+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.002987s ]
+[ 2015-02-16T11:03:34+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.002674s ]
+[ 2015-02-16T11:03:34+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001082s ]
+[ 2015-02-16T11:03:34+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002739s ]
+[ 2015-02-16T11:03:34+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.010086s ]
+[ 2015-02-16T11:03:34+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T11:03:34+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001484s ]
+[ 2015-02-16T11:03:34+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001669s ]
+[ 2015-02-16T11:04:05+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T11:04:05+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.005407s ]
+[ 2015-02-16T11:04:05+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005660s ]
+[ 2015-02-16T11:04:05+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T11:04:05+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.006072s ]
+[ 2015-02-16T11:04:05+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.006661s ]
+[ 2015-02-16T11:04:05+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T11:04:05+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T11:04:05+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.037553s ]
+[ 2015-02-16T11:04:05+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.037695s ]
+[ 2015-02-16T11:04:05+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T11:04:05+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003362s ]
+[ 2015-02-16T11:04:05+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003633s ]
+[ 2015-02-16T11:04:05+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003264s ]
+[ 2015-02-16T11:04:05+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003372s ]
+[ 2015-02-16T11:04:05+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.014124s ]
+[ 2015-02-16T11:04:05+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T11:04:05+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.009497s ]
+[ 2015-02-16T11:04:05+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.009658s ]
+[ 2015-02-16T11:04:35+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T11:04:35+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004336s ]
+[ 2015-02-16T11:04:35+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004630s ]
+[ 2015-02-16T11:04:35+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T11:04:35+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.005513s ]
+[ 2015-02-16T11:04:35+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005718s ]
+[ 2015-02-16T11:04:35+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T11:04:35+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T11:04:35+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.037811s ]
+[ 2015-02-16T11:04:35+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.038073s ]
+[ 2015-02-16T11:04:35+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T11:04:35+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003727s ]
+[ 2015-02-16T11:04:35+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003542s ]
+[ 2015-02-16T11:04:35+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002645s ]
+[ 2015-02-16T11:04:35+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.006842s ]
+[ 2015-02-16T11:04:35+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.017677s ]
+[ 2015-02-16T11:04:35+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T11:04:35+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003319s ]
+[ 2015-02-16T11:04:35+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003574s ]
+[ 2015-02-16T11:06:26+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T11:06:26+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003548s ]
+[ 2015-02-16T11:06:26+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003786s ]
+[ 2015-02-16T11:06:26+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T11:06:26+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.005744s ]
+[ 2015-02-16T11:06:26+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005937s ]
+[ 2015-02-16T11:06:26+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T11:06:26+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T11:06:26+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.079798s ]
+[ 2015-02-16T11:06:26+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.079952s ]
+[ 2015-02-16T11:06:26+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T11:06:26+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.002981s ]
+[ 2015-02-16T11:06:26+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003043s ]
+[ 2015-02-16T11:06:26+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002685s ]
+[ 2015-02-16T11:06:26+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004445s ]
+[ 2015-02-16T11:06:26+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013578s ]
+[ 2015-02-16T11:06:26+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T11:06:26+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.028409s ]
+[ 2015-02-16T11:06:26+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.029956s ]
+[ 2015-02-16T11:08:23+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T11:08:23+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.005115s ]
+[ 2015-02-16T11:08:23+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005367s ]
+[ 2015-02-16T11:08:23+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T11:08:23+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.006215s ]
+[ 2015-02-16T11:08:23+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.006414s ]
+[ 2015-02-16T11:08:23+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T11:08:23+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T11:08:23+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.038970s ]
+[ 2015-02-16T11:08:23+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.039124s ]
+[ 2015-02-16T11:08:23+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T11:08:23+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003874s ]
+[ 2015-02-16T11:08:23+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003165s ]
+[ 2015-02-16T11:08:23+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002868s ]
+[ 2015-02-16T11:08:23+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003262s ]
+[ 2015-02-16T11:08:23+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013665s ]
+[ 2015-02-16T11:08:23+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T11:08:23+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003440s ]
+[ 2015-02-16T11:08:23+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003643s ]
+[ 2015-02-16T13:29:27+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T13:29:27+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.013005s ]
+[ 2015-02-16T13:29:27+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.013239s ]
+[ 2015-02-16T13:29:27+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T13:29:27+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.019876s ]
+[ 2015-02-16T13:29:27+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.020085s ]
+[ 2015-02-16T13:29:27+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T13:29:27+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T13:29:27+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.159265s ]
+[ 2015-02-16T13:29:27+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.159422s ]
+[ 2015-02-16T13:29:27+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T13:29:27+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.014149s ]
+[ 2015-02-16T13:29:27+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.004067s ]
+[ 2015-02-16T13:29:27+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003613s ]
+[ 2015-02-16T13:29:27+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004468s ]
+[ 2015-02-16T13:29:27+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.026683s ]
+[ 2015-02-16T13:29:27+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T13:29:27+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.004526s ]
+[ 2015-02-16T13:29:27+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004673s ]
+[ 2015-02-16T13:34:02+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T13:34:02+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.023042s ]
+[ 2015-02-16T13:34:02+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.023363s ]
+[ 2015-02-16T13:34:02+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T13:34:02+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.009708s ]
+[ 2015-02-16T13:34:02+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.010016s ]
+[ 2015-02-16T13:34:02+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T13:34:02+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T13:34:02+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.047900s ]
+[ 2015-02-16T13:34:02+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.048130s ]
+[ 2015-02-16T13:34:02+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T13:34:02+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003039s ]
+[ 2015-02-16T13:34:02+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003009s ]
+[ 2015-02-16T13:34:02+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002650s ]
+[ 2015-02-16T13:34:02+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003768s ]
+[ 2015-02-16T13:34:02+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012908s ]
+[ 2015-02-16T13:34:02+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T13:34:02+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003889s ]
+[ 2015-02-16T13:34:02+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004098s ]
+[ 2015-02-16T13:39:32+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T13:39:32+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004159s ]
+[ 2015-02-16T13:39:32+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004431s ]
+[ 2015-02-16T13:39:32+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T13:39:32+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.039132s ]
+[ 2015-02-16T13:39:32+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.039308s ]
+[ 2015-02-16T13:39:32+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T13:39:32+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T13:39:32+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.073216s ]
+[ 2015-02-16T13:39:32+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.073355s ]
+[ 2015-02-16T13:39:32+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T13:39:32+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.002813s ]
+[ 2015-02-16T13:39:32+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.002722s ]
+[ 2015-02-16T13:39:32+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002455s ]
+[ 2015-02-16T13:39:32+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002917s ]
+[ 2015-02-16T13:39:32+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011301s ]
+[ 2015-02-16T13:39:32+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T13:39:32+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.004058s ]
+[ 2015-02-16T13:39:32+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004204s ]
+[ 2015-02-16T13:45:06+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T13:45:06+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.030721s ]
+[ 2015-02-16T13:45:06+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.031020s ]
+[ 2015-02-16T13:45:06+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T13:45:06+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.006285s ]
+[ 2015-02-16T13:45:06+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.006477s ]
+[ 2015-02-16T13:45:06+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T13:45:06+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T13:45:06+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.057379s ]
+[ 2015-02-16T13:45:06+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.057533s ]
+[ 2015-02-16T13:45:06+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T13:45:06+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003888s ]
+[ 2015-02-16T13:45:06+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003074s ]
+[ 2015-02-16T13:45:06+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002893s ]
+[ 2015-02-16T13:45:06+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003260s ]
+[ 2015-02-16T13:45:06+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013558s ]
+[ 2015-02-16T13:45:06+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T13:45:06+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.004513s ]
+[ 2015-02-16T13:45:06+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004674s ]
+[ 2015-02-16T13:45:26+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T13:45:26+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004097s ]
+[ 2015-02-16T13:45:26+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004363s ]
+[ 2015-02-16T13:45:26+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T13:45:26+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.005062s ]
+[ 2015-02-16T13:45:26+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005263s ]
+[ 2015-02-16T13:45:26+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T13:45:26+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T13:45:26+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.038502s ]
+[ 2015-02-16T13:45:26+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.038682s ]
+[ 2015-02-16T13:45:26+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T13:45:26+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003742s ]
+[ 2015-02-16T13:45:26+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003963s ]
+[ 2015-02-16T13:45:26+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002551s ]
+[ 2015-02-16T13:45:26+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003141s ]
+[ 2015-02-16T13:45:26+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013857s ]
+[ 2015-02-16T13:45:26+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T13:45:26+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003952s ]
+[ 2015-02-16T13:45:26+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004136s ]
+[ 2015-02-16T13:46:34+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T13:46:34+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003541s ]
+[ 2015-02-16T13:46:34+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003775s ]
+[ 2015-02-16T13:46:34+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T13:46:34+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.008732s ]
+[ 2015-02-16T13:46:34+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.008923s ]
+[ 2015-02-16T13:46:34+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T13:46:34+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T13:46:34+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.037927s ]
+[ 2015-02-16T13:46:34+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.038529s ]
+[ 2015-02-16T13:46:34+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T13:46:34+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003721s ]
+[ 2015-02-16T13:46:34+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003042s ]
+[ 2015-02-16T13:46:34+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002765s ]
+[ 2015-02-16T13:46:34+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003295s ]
+[ 2015-02-16T13:46:34+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013232s ]
+[ 2015-02-16T13:46:34+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T13:46:34+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003672s ]
+[ 2015-02-16T13:46:34+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003820s ]
+[ 2015-02-16T13:49:21+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T13:49:21+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004618s ]
+[ 2015-02-16T13:49:21+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004872s ]
+[ 2015-02-16T13:49:21+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T13:49:21+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.005683s ]
+[ 2015-02-16T13:49:21+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005885s ]
+[ 2015-02-16T13:49:21+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T13:49:21+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T13:49:21+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.080512s ]
+[ 2015-02-16T13:49:21+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.080668s ]
+[ 2015-02-16T13:49:21+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T13:49:21+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.002785s ]
+[ 2015-02-16T13:49:21+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.002782s ]
+[ 2015-02-16T13:49:21+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002598s ]
+[ 2015-02-16T13:49:21+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003126s ]
+[ 2015-02-16T13:49:21+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011826s ]
+[ 2015-02-16T13:49:21+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T13:49:21+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.004210s ]
+[ 2015-02-16T13:49:21+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004372s ]
+[ 2015-02-16T13:50:26+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T13:50:26+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.007919s ]
+[ 2015-02-16T13:50:26+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.008185s ]
+[ 2015-02-16T13:50:26+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T13:50:26+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.006887s ]
+[ 2015-02-16T13:50:26+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.007222s ]
+[ 2015-02-16T13:50:26+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T13:50:26+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T13:50:26+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.043362s ]
+[ 2015-02-16T13:50:26+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.043519s ]
+[ 2015-02-16T13:50:26+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T13:50:26+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003939s ]
+[ 2015-02-16T13:50:26+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003627s ]
+[ 2015-02-16T13:50:26+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002754s ]
+[ 2015-02-16T13:50:26+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003954s ]
+[ 2015-02-16T13:50:26+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.015245s ]
+[ 2015-02-16T13:50:26+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T13:50:26+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.005696s ]
+[ 2015-02-16T13:50:26+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.005937s ]
+[ 2015-02-16T13:55:44+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T13:55:44+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003652s ]
+[ 2015-02-16T13:55:44+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003904s ]
+[ 2015-02-16T13:55:44+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T13:55:44+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.005975s ]
+[ 2015-02-16T13:55:44+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.006271s ]
+[ 2015-02-16T13:55:44+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T13:55:44+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T13:55:44+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.043670s ]
+[ 2015-02-16T13:55:44+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.043952s ]
+[ 2015-02-16T13:55:44+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T13:55:44+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003471s ]
+[ 2015-02-16T13:55:44+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.002745s ]
+[ 2015-02-16T13:55:44+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002291s ]
+[ 2015-02-16T13:55:44+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002847s ]
+[ 2015-02-16T13:55:44+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.054292s ]
+[ 2015-02-16T13:55:44+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T13:55:44+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002971s ]
+[ 2015-02-16T13:55:44+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003101s ]
+[ 2015-02-16T13:56:04+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T13:56:04+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.144257s ]
+[ 2015-02-16T13:56:04+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.144523s ]
+[ 2015-02-16T13:56:04+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T13:56:04+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001813s ]
+[ 2015-02-16T13:56:04+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002073s ]
+[ 2015-02-16T13:56:04+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T13:56:04+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T13:56:04+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.029933s ]
+[ 2015-02-16T13:56:04+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.030086s ]
+[ 2015-02-16T13:56:04+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T13:56:04+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.001187s ]
+[ 2015-02-16T13:56:04+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.001171s ]
+[ 2015-02-16T13:56:04+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000753s ]
+[ 2015-02-16T13:56:04+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001457s ]
+[ 2015-02-16T13:56:04+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005017s ]
+[ 2015-02-16T13:56:04+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T13:56:04+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001473s ]
+[ 2015-02-16T13:56:04+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001611s ]
+[ 2015-02-16T14:09:35+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T14:09:35+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004388s ]
+[ 2015-02-16T14:09:35+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004599s ]
+[ 2015-02-16T14:09:35+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T14:09:35+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.018909s ]
+[ 2015-02-16T14:09:35+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.019064s ]
+[ 2015-02-16T14:09:35+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T14:09:35+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T14:09:35+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.060269s ]
+[ 2015-02-16T14:09:35+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.060406s ]
+[ 2015-02-16T14:09:35+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T14:09:35+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003915s ]
+[ 2015-02-16T14:09:35+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003176s ]
+[ 2015-02-16T14:09:35+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002711s ]
+[ 2015-02-16T14:09:35+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003650s ]
+[ 2015-02-16T14:09:35+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013753s ]
+[ 2015-02-16T14:09:35+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T14:09:35+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003478s ]
+[ 2015-02-16T14:09:35+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003641s ]
+[ 2015-02-16T14:10:06+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T14:10:06+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001768s ]
+[ 2015-02-16T14:10:06+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002020s ]
+[ 2015-02-16T14:10:06+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T14:10:06+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001157s ]
+[ 2015-02-16T14:10:06+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001326s ]
+[ 2015-02-16T14:10:06+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T14:10:07+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T14:10:07+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.051589s ]
+[ 2015-02-16T14:10:07+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.051743s ]
+[ 2015-02-16T14:10:07+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T14:10:07+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.001182s ]
+[ 2015-02-16T14:10:07+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.001011s ]
+[ 2015-02-16T14:10:07+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000672s ]
+[ 2015-02-16T14:10:07+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002493s ]
+[ 2015-02-16T14:10:07+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005761s ]
+[ 2015-02-16T14:10:07+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T14:10:07+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001362s ]
+[ 2015-02-16T14:10:07+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001494s ]
+[ 2015-02-16T14:10:19+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T14:10:19+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003529s ]
+[ 2015-02-16T14:10:19+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003761s ]
+[ 2015-02-16T14:10:19+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T14:10:19+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.005881s ]
+[ 2015-02-16T14:10:19+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.006056s ]
+[ 2015-02-16T14:10:19+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T14:10:19+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T14:10:19+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.043050s ]
+[ 2015-02-16T14:10:19+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.043201s ]
+[ 2015-02-16T14:10:19+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T14:10:19+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003056s ]
+[ 2015-02-16T14:10:19+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003118s ]
+[ 2015-02-16T14:10:19+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002867s ]
+[ 2015-02-16T14:10:19+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003233s ]
+[ 2015-02-16T14:10:19+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012699s ]
+[ 2015-02-16T14:10:19+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T14:10:19+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003291s ]
+[ 2015-02-16T14:10:19+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003437s ]
+[ 2015-02-16T14:10:27+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T14:10:27+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001535s ]
+[ 2015-02-16T14:10:27+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001750s ]
+[ 2015-02-16T14:10:27+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T14:10:27+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001482s ]
+[ 2015-02-16T14:10:27+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001674s ]
+[ 2015-02-16T14:10:27+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T14:10:27+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T14:10:27+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.025506s ]
+[ 2015-02-16T14:10:27+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.025697s ]
+[ 2015-02-16T14:10:27+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T14:10:27+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.001455s ]
+[ 2015-02-16T14:10:27+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.001111s ]
+[ 2015-02-16T14:10:27+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000671s ]
+[ 2015-02-16T14:10:27+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001209s ]
+[ 2015-02-16T14:10:27+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004908s ]
+[ 2015-02-16T14:10:27+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T14:10:27+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001528s ]
+[ 2015-02-16T14:10:27+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001740s ]
+[ 2015-02-16T14:10:34+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T14:10:34+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001713s ]
+[ 2015-02-16T14:10:34+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001957s ]
+[ 2015-02-16T14:10:34+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T14:10:34+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001218s ]
+[ 2015-02-16T14:10:34+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001398s ]
+[ 2015-02-16T14:10:34+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T14:10:34+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T14:10:34+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.032103s ]
+[ 2015-02-16T14:10:34+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.032267s ]
+[ 2015-02-16T14:10:34+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T14:10:34+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.001230s ]
+[ 2015-02-16T14:10:34+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.002937s ]
+[ 2015-02-16T14:10:34+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000887s ]
+[ 2015-02-16T14:10:34+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001358s ]
+[ 2015-02-16T14:10:34+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006852s ]
+[ 2015-02-16T14:10:34+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T14:10:34+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003192s ]
+[ 2015-02-16T14:10:34+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003339s ]
+[ 2015-02-16T14:10:59+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T14:10:59+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.066437s ]
+[ 2015-02-16T14:10:59+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.066725s ]
+[ 2015-02-16T14:10:59+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T14:10:59+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.007834s ]
+[ 2015-02-16T14:10:59+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.008063s ]
+[ 2015-02-16T14:10:59+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T14:10:59+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T14:10:59+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.050987s ]
+[ 2015-02-16T14:10:59+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.051130s ]
+[ 2015-02-16T14:10:59+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T14:10:59+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.002699s ]
+[ 2015-02-16T14:10:59+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.002654s ]
+[ 2015-02-16T14:10:59+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002367s ]
+[ 2015-02-16T14:10:59+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003597s ]
+[ 2015-02-16T14:10:59+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011696s ]
+[ 2015-02-16T14:10:59+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T14:10:59+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002876s ]
+[ 2015-02-16T14:10:59+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003000s ]
+[ 2015-02-16T14:32:04+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T14:32:04+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003828s ]
+[ 2015-02-16T14:32:04+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004055s ]
+[ 2015-02-16T14:32:04+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T14:32:04+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004601s ]
+[ 2015-02-16T14:32:04+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.004795s ]
+[ 2015-02-16T14:32:04+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T14:32:04+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T14:32:04+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.036162s ]
+[ 2015-02-16T14:32:04+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.036373s ]
+[ 2015-02-16T14:32:04+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T14:32:04+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.004879s ]
+[ 2015-02-16T14:32:04+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003273s ]
+[ 2015-02-16T14:32:04+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002442s ]
+[ 2015-02-16T14:32:04+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003656s ]
+[ 2015-02-16T14:32:04+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.014641s ]
+[ 2015-02-16T14:32:04+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T14:32:04+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003840s ]
+[ 2015-02-16T14:32:04+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003969s ]
+[ 2015-02-16T14:34:09+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T14:34:09+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.051633s ]
+[ 2015-02-16T14:34:09+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.053059s ]
+[ 2015-02-16T14:34:09+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T14:34:09+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.013528s ]
+[ 2015-02-16T14:34:09+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.014252s ]
+[ 2015-02-16T14:34:09+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T14:34:09+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T14:34:09+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.040092s ]
+[ 2015-02-16T14:34:09+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.040264s ]
+[ 2015-02-16T14:34:09+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T14:34:09+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.002779s ]
+[ 2015-02-16T14:34:09+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003468s ]
+[ 2015-02-16T14:34:09+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002633s ]
+[ 2015-02-16T14:34:09+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003038s ]
+[ 2015-02-16T14:34:09+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012271s ]
+[ 2015-02-16T14:34:09+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T14:34:09+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003651s ]
+[ 2015-02-16T14:34:09+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003836s ]
+[ 2015-02-16T14:34:23+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T14:34:23+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004941s ]
+[ 2015-02-16T14:34:23+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005196s ]
+[ 2015-02-16T14:34:23+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T14:34:23+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.005245s ]
+[ 2015-02-16T14:34:23+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005949s ]
+[ 2015-02-16T14:34:23+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T14:34:23+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T14:34:23+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.042145s ]
+[ 2015-02-16T14:34:23+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.042628s ]
+[ 2015-02-16T14:34:23+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T14:34:23+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003014s ]
+[ 2015-02-16T14:34:23+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.005428s ]
+[ 2015-02-16T14:34:23+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003090s ]
+[ 2015-02-16T14:34:23+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.014201s ]
+[ 2015-02-16T14:34:23+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.026382s ]
+[ 2015-02-16T14:34:23+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T14:34:23+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003862s ]
+[ 2015-02-16T14:34:23+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004013s ]
+[ 2015-02-16T15:56:40+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T15:56:40+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.058320s ]
+[ 2015-02-16T15:56:40+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.060187s ]
+[ 2015-02-16T15:56:40+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T15:56:40+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.024722s ]
+[ 2015-02-16T15:56:40+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.024912s ]
+[ 2015-02-16T15:56:40+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T15:56:40+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T15:56:40+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.284826s ]
+[ 2015-02-16T15:56:40+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.284981s ]
+[ 2015-02-16T15:56:40+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T15:56:40+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.009139s ]
+[ 2015-02-16T15:56:40+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003729s ]
+[ 2015-02-16T15:56:40+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002935s ]
+[ 2015-02-16T15:56:40+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004857s ]
+[ 2015-02-16T15:56:40+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.021015s ]
+[ 2015-02-16T15:56:40+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T15:56:40+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003823s ]
+[ 2015-02-16T15:56:40+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003926s ]
+[ 2015-02-16T16:22:52+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T16:22:52+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.006339s ]
+[ 2015-02-16T16:22:52+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.006732s ]
+[ 2015-02-16T16:22:52+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T16:22:52+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.005722s ]
+[ 2015-02-16T16:22:52+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.006233s ]
+[ 2015-02-16T16:22:52+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T16:22:52+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T16:22:52+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.104522s ]
+[ 2015-02-16T16:22:52+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.104701s ]
+[ 2015-02-16T16:22:52+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T16:22:52+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.004531s ]
+[ 2015-02-16T16:22:52+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003841s ]
+[ 2015-02-16T16:22:53+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.004085s ]
+[ 2015-02-16T16:22:53+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003867s ]
+[ 2015-02-16T16:22:53+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.017084s ]
+[ 2015-02-16T16:22:53+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T16:22:53+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.005121s ]
+[ 2015-02-16T16:22:53+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.005276s ]
+[ 2015-02-16T16:24:50+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-16T16:24:50+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002967s ]
+[ 2015-02-16T16:24:50+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.014683s ]
+[ 2015-02-16T16:24:50+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-16T16:24:50+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001071s ]
+[ 2015-02-16T16:24:50+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001207s ]
+[ 2015-02-16T16:24:50+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-16T16:24:50+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-02-16T16:24:50+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.023788s ]
+[ 2015-02-16T16:24:50+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.023920s ]
+[ 2015-02-16T16:24:50+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-16T16:24:50+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.001156s ]
+[ 2015-02-16T16:24:50+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.001008s ]
+[ 2015-02-16T16:24:50+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000737s ]
+[ 2015-02-16T16:24:50+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002031s ]
+[ 2015-02-16T16:24:50+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005286s ]
+[ 2015-02-16T16:24:50+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-16T16:24:50+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001246s ]
+[ 2015-02-16T16:24:50+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001366s ]

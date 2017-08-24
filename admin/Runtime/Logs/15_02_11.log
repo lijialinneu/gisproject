@@ -1,0 +1,1512 @@
+[ 2015-02-11T00:39:54+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T00:39:54+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.044328s ]
+[ 2015-02-11T00:39:54+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.044553s ]
+[ 2015-02-11T00:39:54+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T00:39:54+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001763s ]
+[ 2015-02-11T00:39:54+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001905s ]
+[ 2015-02-11T00:39:54+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T00:39:54+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003306s ]
+[ 2015-02-11T00:39:54+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003486s ]
+[ 2015-02-11T00:39:54+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T00:39:54+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.046551s ]
+[ 2015-02-11T00:39:54+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.046739s ]
+[ 2015-02-11T00:39:54+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T00:39:54+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.001134s ]
+[ 2015-02-11T00:39:54+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.001429s ]
+[ 2015-02-11T00:39:54+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000757s ]
+[ 2015-02-11T00:39:54+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001416s ]
+[ 2015-02-11T00:39:54+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005123s ]
+[ 2015-02-11T00:39:54+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T00:39:54+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001376s ]
+[ 2015-02-11T00:39:54+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001508s ]
+[ 2015-02-11T00:39:55+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T00:39:55+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Run CheckRoute Behavior [ RunTime:0.002527s ]
+[ 2015-02-11T00:39:55+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002760s ]
+[ 2015-02-11T00:39:55+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T00:39:55+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001664s ]
+[ 2015-02-11T00:39:55+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001804s ]
+[ 2015-02-11T00:39:56+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T00:39:56+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.006604s ]
+[ 2015-02-11T00:39:56+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.006931s ]
+[ 2015-02-11T00:39:56+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T00:39:56+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001586s ]
+[ 2015-02-11T00:39:56+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001741s ]
+[ 2015-02-11T00:39:56+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T00:39:56+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.004948s ]
+[ 2015-02-11T00:39:56+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.005142s ]
+[ 2015-02-11T00:39:56+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T00:39:56+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.160969s ]
+[ 2015-02-11T00:39:56+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.161161s ]
+[ 2015-02-11T00:39:56+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T00:39:56+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.003098s ]
+[ 2015-02-11T00:39:56+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.045677s ]
+[ 2015-02-11T00:39:56+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002763s ]
+[ 2015-02-11T00:39:56+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.003327s ]
+[ 2015-02-11T00:39:56+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.055316s ]
+[ 2015-02-11T00:39:56+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T00:39:56+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.003548s ]
+[ 2015-02-11T00:39:56+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.003686s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.002626s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002899s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001591s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001736s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001145s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001298s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.027025s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.027206s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.001112s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.001241s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000745s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001352s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004832s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001542s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001676s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.002321s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.002500s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001435s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001560s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.001044s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.001185s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.032601s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.032774s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.000979s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.001084s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000667s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.001235s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004361s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.001244s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.001373s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Run CheckRoute Behavior [ RunTime:0.004187s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.072977s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002538s ]
+[ 2015-02-11T00:40:14+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002747s ]
+[ 2015-02-11T00:40:24+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T00:40:24+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run CheckRoute Behavior [ RunTime:0.002309s ]
+[ 2015-02-11T00:40:24+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ route_check ] --END-- [ RunTime:0.002510s ]
+[ 2015-02-11T00:40:24+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T00:40:24+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001386s ]
+[ 2015-02-11T00:40:24+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001505s ]
+[ 2015-02-11T00:40:24+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T00:40:24+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run LocationTemplate Behavior [ RunTime:0.025825s ]
+[ 2015-02-11T00:40:24+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_template ] --END-- [ RunTime:0.025972s ]
+[ 2015-02-11T00:40:24+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T00:40:24+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run ParseTemplate Behavior [ RunTime:0.035347s ]
+[ 2015-02-11T00:40:24+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.035514s ]
+[ 2015-02-11T00:40:24+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T00:40:24+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run ContentReplace Behavior [ RunTime:0.000974s ]
+[ 2015-02-11T00:40:24+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run TokenBuild Behavior [ RunTime:0.000991s ]
+[ 2015-02-11T00:40:24+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000652s ]
+[ 2015-02-11T00:40:24+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run ShowRuntime Behavior [ RunTime:0.001179s ]
+[ 2015-02-11T00:40:24+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004132s ]
+[ 2015-02-11T00:40:24+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T00:40:24+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001289s ]
+[ 2015-02-11T00:40:24+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_end ] --END-- [ RunTime:0.001405s ]
+[ 2015-02-11T00:40:25+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T00:40:25+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.003834s ]
+[ 2015-02-11T00:40:25+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.004079s ]
+[ 2015-02-11T00:40:25+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T00:40:25+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003650s ]
+[ 2015-02-11T00:40:25+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003806s ]
+[ 2015-02-11T00:40:25+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T00:40:25+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.005102s ]
+[ 2015-02-11T00:40:25+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.005272s ]
+[ 2015-02-11T00:40:25+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T00:40:25+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.046978s ]
+[ 2015-02-11T00:40:25+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.047157s ]
+[ 2015-02-11T00:40:25+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T00:40:25+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.002972s ]
+[ 2015-02-11T00:40:25+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.002969s ]
+[ 2015-02-11T00:40:25+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002594s ]
+[ 2015-02-11T00:40:25+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.003197s ]
+[ 2015-02-11T00:40:25+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012119s ]
+[ 2015-02-11T00:40:25+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T00:40:25+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.003394s ]
+[ 2015-02-11T00:40:25+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.003529s ]
+[ 2015-02-11T00:40:28+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T00:40:28+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.005347s ]
+[ 2015-02-11T00:40:28+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.005615s ]
+[ 2015-02-11T00:40:28+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T00:40:28+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003721s ]
+[ 2015-02-11T00:40:28+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003875s ]
+[ 2015-02-11T00:40:28+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T00:40:28+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.005441s ]
+[ 2015-02-11T00:40:28+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.005606s ]
+[ 2015-02-11T00:40:28+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T00:40:28+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 166 行.
+[ 2015-02-11T00:40:28+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.071573s ]
+[ 2015-02-11T00:40:28+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.071723s ]
+[ 2015-02-11T00:40:28+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T00:40:28+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.003140s ]
+[ 2015-02-11T00:40:28+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.003311s ]
+[ 2015-02-11T00:40:28+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003052s ]
+[ 2015-02-11T00:40:28+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.003395s ]
+[ 2015-02-11T00:40:28+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013357s ]
+[ 2015-02-11T00:40:28+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T00:40:28+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003579s ]
+[ 2015-02-11T00:40:28+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003748s ]
+[ 2015-02-11T00:40:29+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T00:42:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T00:42:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.003012s ]
+[ 2015-02-11T00:42:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.003268s ]
+[ 2015-02-11T00:42:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T00:42:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002333s ]
+[ 2015-02-11T00:42:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002527s ]
+[ 2015-02-11T00:42:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T00:42:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.001890s ]
+[ 2015-02-11T00:42:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.002069s ]
+[ 2015-02-11T00:42:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T00:42:03+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 166 行.
+[ 2015-02-11T00:42:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.026875s ]
+[ 2015-02-11T00:42:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.027007s ]
+[ 2015-02-11T00:42:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T00:42:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.001053s ]
+[ 2015-02-11T00:42:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.001144s ]
+[ 2015-02-11T00:42:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000664s ]
+[ 2015-02-11T00:42:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.001652s ]
+[ 2015-02-11T00:42:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004851s ]
+[ 2015-02-11T00:42:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T00:42:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.001512s ]
+[ 2015-02-11T00:42:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.001719s ]
+[ 2015-02-11T00:42:04+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T00:42:40+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T00:42:40+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.005146s ]
+[ 2015-02-11T00:42:40+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.005384s ]
+[ 2015-02-11T00:42:40+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T00:42:40+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003701s ]
+[ 2015-02-11T00:42:40+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003859s ]
+[ 2015-02-11T00:42:40+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T00:42:40+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.005753s ]
+[ 2015-02-11T00:42:40+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.005936s ]
+[ 2015-02-11T00:42:40+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T00:42:40+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 166 行.
+[ 2015-02-11T00:42:40+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.039838s ]
+[ 2015-02-11T00:42:40+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.039988s ]
+[ 2015-02-11T00:42:40+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T00:42:40+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.003093s ]
+[ 2015-02-11T00:42:40+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.003165s ]
+[ 2015-02-11T00:42:40+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002778s ]
+[ 2015-02-11T00:42:40+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.003246s ]
+[ 2015-02-11T00:42:40+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012679s ]
+[ 2015-02-11T00:42:40+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T00:42:40+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003395s ]
+[ 2015-02-11T00:42:40+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003542s ]
+[ 2015-02-11T00:42:41+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T00:43:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T00:43:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.004193s ]
+[ 2015-02-11T00:43:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.004419s ]
+[ 2015-02-11T00:43:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T00:43:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003377s ]
+[ 2015-02-11T00:43:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003532s ]
+[ 2015-02-11T00:43:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T00:43:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.004812s ]
+[ 2015-02-11T00:43:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.004959s ]
+[ 2015-02-11T00:43:03+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T00:43:04+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 166 行.
+[ 2015-02-11T00:43:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.056563s ]
+[ 2015-02-11T00:43:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.056695s ]
+[ 2015-02-11T00:43:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T00:43:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.002738s ]
+[ 2015-02-11T00:43:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.002806s ]
+[ 2015-02-11T00:43:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002296s ]
+[ 2015-02-11T00:43:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.002851s ]
+[ 2015-02-11T00:43:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011028s ]
+[ 2015-02-11T00:43:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T00:43:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003268s ]
+[ 2015-02-11T00:43:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003465s ]
+[ 2015-02-11T00:43:04+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T00:43:37+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T00:43:37+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.002586s ]
+[ 2015-02-11T00:43:37+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.002825s ]
+[ 2015-02-11T00:43:37+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T00:43:37+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001946s ]
+[ 2015-02-11T00:43:37+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002096s ]
+[ 2015-02-11T00:43:37+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T00:43:37+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.001852s ]
+[ 2015-02-11T00:43:37+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.002022s ]
+[ 2015-02-11T00:43:37+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T00:43:37+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 166 行.
+[ 2015-02-11T00:43:37+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.030740s ]
+[ 2015-02-11T00:43:37+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.030998s ]
+[ 2015-02-11T00:43:37+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T00:43:37+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.001227s ]
+[ 2015-02-11T00:43:37+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.001322s ]
+[ 2015-02-11T00:43:37+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000762s ]
+[ 2015-02-11T00:43:37+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.001542s ]
+[ 2015-02-11T00:43:37+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005258s ]
+[ 2015-02-11T00:43:37+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T00:43:37+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.001563s ]
+[ 2015-02-11T00:43:37+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.001715s ]
+[ 2015-02-11T00:43:38+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T00:48:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T00:48:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.006693s ]
+[ 2015-02-11T00:48:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.006948s ]
+[ 2015-02-11T00:48:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T00:48:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003716s ]
+[ 2015-02-11T00:48:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003868s ]
+[ 2015-02-11T00:48:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T00:48:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.005929s ]
+[ 2015-02-11T00:48:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.006221s ]
+[ 2015-02-11T00:48:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T00:48:08+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 166 行.
+[ 2015-02-11T00:48:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.059232s ]
+[ 2015-02-11T00:48:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.059382s ]
+[ 2015-02-11T00:48:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T00:48:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.003380s ]
+[ 2015-02-11T00:48:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.003957s ]
+[ 2015-02-11T00:48:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002923s ]
+[ 2015-02-11T00:48:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.003525s ]
+[ 2015-02-11T00:48:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.014257s ]
+[ 2015-02-11T00:48:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T00:48:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.005619s ]
+[ 2015-02-11T00:48:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.005795s ]
+[ 2015-02-11T00:48:09+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T00:48:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T00:48:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.004397s ]
+[ 2015-02-11T00:48:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.004630s ]
+[ 2015-02-11T00:48:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T00:48:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003478s ]
+[ 2015-02-11T00:48:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003625s ]
+[ 2015-02-11T00:48:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T00:48:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.005751s ]
+[ 2015-02-11T00:48:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.005936s ]
+[ 2015-02-11T00:48:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T00:48:31+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 166 行.
+[ 2015-02-11T00:48:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.060674s ]
+[ 2015-02-11T00:48:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.060828s ]
+[ 2015-02-11T00:48:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T00:48:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.003155s ]
+[ 2015-02-11T00:48:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.003763s ]
+[ 2015-02-11T00:48:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002613s ]
+[ 2015-02-11T00:48:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.003452s ]
+[ 2015-02-11T00:48:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013395s ]
+[ 2015-02-11T00:48:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T00:48:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003605s ]
+[ 2015-02-11T00:48:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003772s ]
+[ 2015-02-11T00:48:31+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T00:50:33+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T00:50:33+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.004983s ]
+[ 2015-02-11T00:50:33+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.005315s ]
+[ 2015-02-11T00:50:33+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T00:50:33+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003784s ]
+[ 2015-02-11T00:50:33+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003949s ]
+[ 2015-02-11T00:50:33+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T00:50:33+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.006199s ]
+[ 2015-02-11T00:50:33+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.006399s ]
+[ 2015-02-11T00:50:33+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T00:50:33+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 166 行.
+[ 2015-02-11T00:50:33+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.042572s ]
+[ 2015-02-11T00:50:33+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.042724s ]
+[ 2015-02-11T00:50:33+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T00:50:33+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.003038s ]
+[ 2015-02-11T00:50:33+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.004861s ]
+[ 2015-02-11T00:50:33+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002630s ]
+[ 2015-02-11T00:50:33+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.003419s ]
+[ 2015-02-11T00:50:33+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.014359s ]
+[ 2015-02-11T00:50:33+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T00:50:33+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003297s ]
+[ 2015-02-11T00:50:33+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003451s ]
+[ 2015-02-11T00:50:33+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T00:55:26+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T00:55:26+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.004321s ]
+[ 2015-02-11T00:55:26+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.004681s ]
+[ 2015-02-11T00:55:26+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T00:55:26+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003511s ]
+[ 2015-02-11T00:55:26+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003659s ]
+[ 2015-02-11T00:55:26+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T00:55:26+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.005780s ]
+[ 2015-02-11T00:55:26+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.005958s ]
+[ 2015-02-11T00:55:26+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T00:55:26+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 166 行.
+[ 2015-02-11T00:55:26+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.035677s ]
+[ 2015-02-11T00:55:26+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.035819s ]
+[ 2015-02-11T00:55:26+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T00:55:26+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.002939s ]
+[ 2015-02-11T00:55:26+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.002798s ]
+[ 2015-02-11T00:55:26+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002279s ]
+[ 2015-02-11T00:55:26+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.002978s ]
+[ 2015-02-11T00:55:26+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011342s ]
+[ 2015-02-11T00:55:26+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T00:55:26+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003141s ]
+[ 2015-02-11T00:55:26+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003284s ]
+[ 2015-02-11T00:55:27+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T00:56:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T00:56:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.005267s ]
+[ 2015-02-11T00:56:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.005514s ]
+[ 2015-02-11T00:56:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T00:56:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004445s ]
+[ 2015-02-11T00:56:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004611s ]
+[ 2015-02-11T00:56:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T00:56:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.005247s ]
+[ 2015-02-11T00:56:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.005413s ]
+[ 2015-02-11T00:56:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T00:56:04+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 166 行.
+[ 2015-02-11T00:56:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.034697s ]
+[ 2015-02-11T00:56:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.034830s ]
+[ 2015-02-11T00:56:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T00:56:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.002833s ]
+[ 2015-02-11T00:56:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.002806s ]
+[ 2015-02-11T00:56:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002290s ]
+[ 2015-02-11T00:56:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.002979s ]
+[ 2015-02-11T00:56:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011252s ]
+[ 2015-02-11T00:56:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T00:56:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003195s ]
+[ 2015-02-11T00:56:04+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003334s ]
+[ 2015-02-11T00:56:04+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T00:56:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T00:56:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.004443s ]
+[ 2015-02-11T00:56:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.004685s ]
+[ 2015-02-11T00:56:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T00:56:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.107734s ]
+[ 2015-02-11T00:56:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.107875s ]
+[ 2015-02-11T00:56:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T00:56:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.005215s ]
+[ 2015-02-11T00:56:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.005384s ]
+[ 2015-02-11T00:56:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T00:56:31+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 166 行.
+[ 2015-02-11T00:56:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.049804s ]
+[ 2015-02-11T00:56:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.049937s ]
+[ 2015-02-11T00:56:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T00:56:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.002685s ]
+[ 2015-02-11T00:56:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.002860s ]
+[ 2015-02-11T00:56:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002322s ]
+[ 2015-02-11T00:56:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.003076s ]
+[ 2015-02-11T00:56:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011292s ]
+[ 2015-02-11T00:56:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T00:56:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003272s ]
+[ 2015-02-11T00:56:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003411s ]
+[ 2015-02-11T00:56:32+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T00:56:43+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T00:56:43+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.002804s ]
+[ 2015-02-11T00:56:43+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.003043s ]
+[ 2015-02-11T00:56:43+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T00:56:43+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001751s ]
+[ 2015-02-11T00:56:43+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001911s ]
+[ 2015-02-11T00:56:43+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T00:56:43+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.006052s ]
+[ 2015-02-11T00:56:43+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.006254s ]
+[ 2015-02-11T00:56:43+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T00:56:43+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 166 行.
+[ 2015-02-11T00:56:43+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.041006s ]
+[ 2015-02-11T00:56:43+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.041156s ]
+[ 2015-02-11T00:56:43+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T00:56:43+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.003056s ]
+[ 2015-02-11T00:56:43+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.003257s ]
+[ 2015-02-11T00:56:43+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002842s ]
+[ 2015-02-11T00:56:43+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.003339s ]
+[ 2015-02-11T00:56:43+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012945s ]
+[ 2015-02-11T00:56:43+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T00:56:43+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003560s ]
+[ 2015-02-11T00:56:43+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003717s ]
+[ 2015-02-11T00:56:43+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T00:56:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T00:56:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.005825s ]
+[ 2015-02-11T00:56:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.006074s ]
+[ 2015-02-11T00:56:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T00:56:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.013548s ]
+[ 2015-02-11T00:56:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.013718s ]
+[ 2015-02-11T00:56:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T00:56:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.005968s ]
+[ 2015-02-11T00:56:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.006154s ]
+[ 2015-02-11T00:56:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T00:56:53+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 166 行.
+[ 2015-02-11T00:56:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.062230s ]
+[ 2015-02-11T00:56:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.062389s ]
+[ 2015-02-11T00:56:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T00:56:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.002852s ]
+[ 2015-02-11T00:56:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.004394s ]
+[ 2015-02-11T00:56:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002347s ]
+[ 2015-02-11T00:56:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.003158s ]
+[ 2015-02-11T00:56:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013124s ]
+[ 2015-02-11T00:56:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T00:56:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003102s ]
+[ 2015-02-11T00:56:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003243s ]
+[ 2015-02-11T00:56:54+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T00:57:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T00:57:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.002610s ]
+[ 2015-02-11T00:57:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.002841s ]
+[ 2015-02-11T00:57:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T00:57:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001763s ]
+[ 2015-02-11T00:57:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001912s ]
+[ 2015-02-11T00:57:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T00:57:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.005707s ]
+[ 2015-02-11T00:57:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.005886s ]
+[ 2015-02-11T00:57:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T00:57:16+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 166 行.
+[ 2015-02-11T00:57:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.039277s ]
+[ 2015-02-11T00:57:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.039425s ]
+[ 2015-02-11T00:57:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T00:57:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.003538s ]
+[ 2015-02-11T00:57:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.003252s ]
+[ 2015-02-11T00:57:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002754s ]
+[ 2015-02-11T00:57:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.003482s ]
+[ 2015-02-11T00:57:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013574s ]
+[ 2015-02-11T00:57:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T00:57:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003773s ]
+[ 2015-02-11T00:57:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003934s ]
+[ 2015-02-11T00:57:17+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T00:58:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T00:58:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.022081s ]
+[ 2015-02-11T00:58:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.022424s ]
+[ 2015-02-11T00:58:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T00:58:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003949s ]
+[ 2015-02-11T00:58:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004116s ]
+[ 2015-02-11T00:58:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T00:58:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.006228s ]
+[ 2015-02-11T00:58:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.006441s ]
+[ 2015-02-11T00:58:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T00:58:13+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 166 行.
+[ 2015-02-11T00:58:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.041593s ]
+[ 2015-02-11T00:58:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.041746s ]
+[ 2015-02-11T00:58:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T00:58:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.003107s ]
+[ 2015-02-11T00:58:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.003270s ]
+[ 2015-02-11T00:58:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002596s ]
+[ 2015-02-11T00:58:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.003300s ]
+[ 2015-02-11T00:58:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012666s ]
+[ 2015-02-11T00:58:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T00:58:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003298s ]
+[ 2015-02-11T00:58:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003458s ]
+[ 2015-02-11T00:58:14+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T00:58:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T00:58:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.005012s ]
+[ 2015-02-11T00:58:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.005273s ]
+[ 2015-02-11T00:58:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T00:58:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003626s ]
+[ 2015-02-11T00:58:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003778s ]
+[ 2015-02-11T00:58:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T00:58:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.001952s ]
+[ 2015-02-11T00:58:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.002129s ]
+[ 2015-02-11T00:58:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T00:58:53+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 185 行.
+[ 2015-02-11T00:58:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.034190s ]
+[ 2015-02-11T00:58:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.034336s ]
+[ 2015-02-11T00:58:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T00:58:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.001211s ]
+[ 2015-02-11T00:58:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.001302s ]
+[ 2015-02-11T00:58:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000746s ]
+[ 2015-02-11T00:58:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.001399s ]
+[ 2015-02-11T00:58:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005037s ]
+[ 2015-02-11T00:58:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T00:58:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.001381s ]
+[ 2015-02-11T00:58:53+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.001524s ]
+[ 2015-02-11T00:58:54+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T00:59:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T00:59:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.004529s ]
+[ 2015-02-11T00:59:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.004767s ]
+[ 2015-02-11T00:59:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T00:59:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003446s ]
+[ 2015-02-11T00:59:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003591s ]
+[ 2015-02-11T00:59:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T00:59:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.005805s ]
+[ 2015-02-11T00:59:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.005982s ]
+[ 2015-02-11T00:59:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T00:59:38+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 185 行.
+[ 2015-02-11T00:59:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.041276s ]
+[ 2015-02-11T00:59:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.041427s ]
+[ 2015-02-11T00:59:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T00:59:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.003254s ]
+[ 2015-02-11T00:59:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.003444s ]
+[ 2015-02-11T00:59:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003490s ]
+[ 2015-02-11T00:59:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.003294s ]
+[ 2015-02-11T00:59:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.014003s ]
+[ 2015-02-11T00:59:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T00:59:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003379s ]
+[ 2015-02-11T00:59:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003550s ]
+[ 2015-02-11T00:59:39+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T00:59:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T00:59:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.006091s ]
+[ 2015-02-11T00:59:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.006445s ]
+[ 2015-02-11T00:59:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T00:59:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003584s ]
+[ 2015-02-11T00:59:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003727s ]
+[ 2015-02-11T00:59:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T00:59:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.005975s ]
+[ 2015-02-11T00:59:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.006174s ]
+[ 2015-02-11T00:59:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T00:59:50+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 185 行.
+[ 2015-02-11T00:59:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.114150s ]
+[ 2015-02-11T00:59:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.114294s ]
+[ 2015-02-11T00:59:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T00:59:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.002800s ]
+[ 2015-02-11T00:59:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.002759s ]
+[ 2015-02-11T00:59:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002292s ]
+[ 2015-02-11T00:59:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.002899s ]
+[ 2015-02-11T00:59:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011094s ]
+[ 2015-02-11T00:59:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T00:59:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003089s ]
+[ 2015-02-11T00:59:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003232s ]
+[ 2015-02-11T00:59:50+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:00:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:00:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.002333s ]
+[ 2015-02-11T01:00:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.002614s ]
+[ 2015-02-11T01:00:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:00:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001565s ]
+[ 2015-02-11T01:00:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001705s ]
+[ 2015-02-11T01:00:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:00:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.005490s ]
+[ 2015-02-11T01:00:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.005656s ]
+[ 2015-02-11T01:00:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:00:05+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 185 行.
+[ 2015-02-11T01:00:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.035617s ]
+[ 2015-02-11T01:00:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.035750s ]
+[ 2015-02-11T01:00:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:00:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.002838s ]
+[ 2015-02-11T01:00:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.003003s ]
+[ 2015-02-11T01:00:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002685s ]
+[ 2015-02-11T01:00:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.002903s ]
+[ 2015-02-11T01:00:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011792s ]
+[ 2015-02-11T01:00:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:00:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003236s ]
+[ 2015-02-11T01:00:05+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003378s ]
+[ 2015-02-11T01:00:06+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:00:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:00:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.004348s ]
+[ 2015-02-11T01:00:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.004558s ]
+[ 2015-02-11T01:00:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:00:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003623s ]
+[ 2015-02-11T01:00:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003776s ]
+[ 2015-02-11T01:00:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:00:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.005180s ]
+[ 2015-02-11T01:00:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.005345s ]
+[ 2015-02-11T01:00:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:00:17+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 185 行.
+[ 2015-02-11T01:00:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.034298s ]
+[ 2015-02-11T01:00:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.034431s ]
+[ 2015-02-11T01:00:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:00:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.002711s ]
+[ 2015-02-11T01:00:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.002901s ]
+[ 2015-02-11T01:00:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002386s ]
+[ 2015-02-11T01:00:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.002903s ]
+[ 2015-02-11T01:00:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011267s ]
+[ 2015-02-11T01:00:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:00:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003333s ]
+[ 2015-02-11T01:00:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003473s ]
+[ 2015-02-11T01:00:18+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:01:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:01:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.002515s ]
+[ 2015-02-11T01:01:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.002742s ]
+[ 2015-02-11T01:01:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:01:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001602s ]
+[ 2015-02-11T01:01:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001736s ]
+[ 2015-02-11T01:01:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:01:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.001922s ]
+[ 2015-02-11T01:01:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.002083s ]
+[ 2015-02-11T01:01:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:01:24+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 185 行.
+[ 2015-02-11T01:01:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.030389s ]
+[ 2015-02-11T01:01:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.030546s ]
+[ 2015-02-11T01:01:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:01:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.001406s ]
+[ 2015-02-11T01:01:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.001392s ]
+[ 2015-02-11T01:01:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000797s ]
+[ 2015-02-11T01:01:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.001458s ]
+[ 2015-02-11T01:01:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005468s ]
+[ 2015-02-11T01:01:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:01:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.001434s ]
+[ 2015-02-11T01:01:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.001677s ]
+[ 2015-02-11T01:01:25+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:01:59+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:01:59+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.004811s ]
+[ 2015-02-11T01:01:59+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.005080s ]
+[ 2015-02-11T01:01:59+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:01:59+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003630s ]
+[ 2015-02-11T01:01:59+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003772s ]
+[ 2015-02-11T01:01:59+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:01:59+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.009944s ]
+[ 2015-02-11T01:01:59+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.010145s ]
+[ 2015-02-11T01:01:59+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:01:59+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 185 行.
+[ 2015-02-11T01:01:59+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.041613s ]
+[ 2015-02-11T01:01:59+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.041805s ]
+[ 2015-02-11T01:01:59+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:01:59+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.002734s ]
+[ 2015-02-11T01:01:59+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.002764s ]
+[ 2015-02-11T01:01:59+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002366s ]
+[ 2015-02-11T01:01:59+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.002871s ]
+[ 2015-02-11T01:01:59+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011082s ]
+[ 2015-02-11T01:01:59+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:01:59+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003094s ]
+[ 2015-02-11T01:01:59+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003242s ]
+[ 2015-02-11T01:02:00+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:02:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:02:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.006741s ]
+[ 2015-02-11T01:02:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.006990s ]
+[ 2015-02-11T01:02:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:02:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003911s ]
+[ 2015-02-11T01:02:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004078s ]
+[ 2015-02-11T01:02:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:02:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.005971s ]
+[ 2015-02-11T01:02:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.006162s ]
+[ 2015-02-11T01:02:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:02:14+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 185 行.
+[ 2015-02-11T01:02:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.045256s ]
+[ 2015-02-11T01:02:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.045405s ]
+[ 2015-02-11T01:02:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:02:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.005507s ]
+[ 2015-02-11T01:02:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.003140s ]
+[ 2015-02-11T01:02:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002588s ]
+[ 2015-02-11T01:02:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.003201s ]
+[ 2015-02-11T01:02:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.014831s ]
+[ 2015-02-11T01:02:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:02:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003736s ]
+[ 2015-02-11T01:02:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003901s ]
+[ 2015-02-11T01:02:15+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:02:20+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:02:20+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.002695s ]
+[ 2015-02-11T01:02:20+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.002927s ]
+[ 2015-02-11T01:02:20+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:02:20+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001734s ]
+[ 2015-02-11T01:02:20+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001874s ]
+[ 2015-02-11T01:02:20+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:02:20+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.001827s ]
+[ 2015-02-11T01:02:20+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.001983s ]
+[ 2015-02-11T01:02:20+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:02:20+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 185 行.
+[ 2015-02-11T01:02:20+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.030934s ]
+[ 2015-02-11T01:02:20+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.031086s ]
+[ 2015-02-11T01:02:20+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:02:20+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.001284s ]
+[ 2015-02-11T01:02:20+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.001297s ]
+[ 2015-02-11T01:02:20+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000745s ]
+[ 2015-02-11T01:02:20+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.001526s ]
+[ 2015-02-11T01:02:20+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005252s ]
+[ 2015-02-11T01:02:20+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:02:20+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.001478s ]
+[ 2015-02-11T01:02:20+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.001697s ]
+[ 2015-02-11T01:02:21+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:02:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:02:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.002826s ]
+[ 2015-02-11T01:02:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.003112s ]
+[ 2015-02-11T01:02:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:02:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001770s ]
+[ 2015-02-11T01:02:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001929s ]
+[ 2015-02-11T01:02:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:02:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.006566s ]
+[ 2015-02-11T01:02:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.006768s ]
+[ 2015-02-11T01:02:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:02:50+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 185 行.
+[ 2015-02-11T01:02:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.042878s ]
+[ 2015-02-11T01:02:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.043093s ]
+[ 2015-02-11T01:02:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:02:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.003450s ]
+[ 2015-02-11T01:02:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.003300s ]
+[ 2015-02-11T01:02:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002672s ]
+[ 2015-02-11T01:02:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.003298s ]
+[ 2015-02-11T01:02:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013143s ]
+[ 2015-02-11T01:02:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:02:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003298s ]
+[ 2015-02-11T01:02:50+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003445s ]
+[ 2015-02-11T01:02:50+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:03:48+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:03:48+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.002661s ]
+[ 2015-02-11T01:03:48+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.002901s ]
+[ 2015-02-11T01:03:48+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:03:48+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001717s ]
+[ 2015-02-11T01:03:48+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001859s ]
+[ 2015-02-11T01:03:48+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:03:48+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.001864s ]
+[ 2015-02-11T01:03:48+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.002030s ]
+[ 2015-02-11T01:03:48+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:03:48+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 185 行.
+[ 2015-02-11T01:03:48+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.039388s ]
+[ 2015-02-11T01:03:48+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.039538s ]
+[ 2015-02-11T01:03:48+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:03:48+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.001370s ]
+[ 2015-02-11T01:03:48+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.001389s ]
+[ 2015-02-11T01:03:48+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000763s ]
+[ 2015-02-11T01:03:48+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.001431s ]
+[ 2015-02-11T01:03:48+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005396s ]
+[ 2015-02-11T01:03:48+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:03:48+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.001543s ]
+[ 2015-02-11T01:03:48+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.001692s ]
+[ 2015-02-11T01:03:49+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:04:10+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:04:10+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.002748s ]
+[ 2015-02-11T01:04:10+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.002993s ]
+[ 2015-02-11T01:04:10+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:04:10+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001726s ]
+[ 2015-02-11T01:04:10+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001891s ]
+[ 2015-02-11T01:04:10+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:04:10+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.002101s ]
+[ 2015-02-11T01:04:10+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.002288s ]
+[ 2015-02-11T01:04:10+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:04:10+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 185 行.
+[ 2015-02-11T01:04:10+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.039773s ]
+[ 2015-02-11T01:04:10+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.039924s ]
+[ 2015-02-11T01:04:10+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:04:10+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.001217s ]
+[ 2015-02-11T01:04:10+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.001296s ]
+[ 2015-02-11T01:04:10+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000745s ]
+[ 2015-02-11T01:04:10+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.001486s ]
+[ 2015-02-11T01:04:10+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005136s ]
+[ 2015-02-11T01:04:10+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:04:10+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.001613s ]
+[ 2015-02-11T01:04:10+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.001765s ]
+[ 2015-02-11T01:04:10+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:04:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:04:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.002711s ]
+[ 2015-02-11T01:04:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.002995s ]
+[ 2015-02-11T01:04:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:04:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001633s ]
+[ 2015-02-11T01:04:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001773s ]
+[ 2015-02-11T01:04:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:04:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.005637s ]
+[ 2015-02-11T01:04:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.005796s ]
+[ 2015-02-11T01:04:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:04:24+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 185 行.
+[ 2015-02-11T01:04:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.042597s ]
+[ 2015-02-11T01:04:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.042747s ]
+[ 2015-02-11T01:04:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:04:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.003166s ]
+[ 2015-02-11T01:04:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.003185s ]
+[ 2015-02-11T01:04:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002827s ]
+[ 2015-02-11T01:04:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.003325s ]
+[ 2015-02-11T01:04:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012961s ]
+[ 2015-02-11T01:04:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:04:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003565s ]
+[ 2015-02-11T01:04:24+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003721s ]
+[ 2015-02-11T01:04:25+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:06:34+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:06:34+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.004771s ]
+[ 2015-02-11T01:06:34+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.005060s ]
+[ 2015-02-11T01:06:34+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:06:34+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003917s ]
+[ 2015-02-11T01:06:34+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004080s ]
+[ 2015-02-11T01:06:34+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:06:34+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.007923s ]
+[ 2015-02-11T01:06:34+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.008126s ]
+[ 2015-02-11T01:06:34+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:06:34+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 185 行.
+[ 2015-02-11T01:06:34+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.042067s ]
+[ 2015-02-11T01:06:34+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.042222s ]
+[ 2015-02-11T01:06:34+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:06:34+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.003095s ]
+[ 2015-02-11T01:06:34+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.003398s ]
+[ 2015-02-11T01:06:34+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002632s ]
+[ 2015-02-11T01:06:34+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.003420s ]
+[ 2015-02-11T01:06:34+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012950s ]
+[ 2015-02-11T01:06:34+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:06:34+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003409s ]
+[ 2015-02-11T01:06:34+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003559s ]
+[ 2015-02-11T01:06:35+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:07:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:07:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.003875s ]
+[ 2015-02-11T01:07:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.004086s ]
+[ 2015-02-11T01:07:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:07:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003390s ]
+[ 2015-02-11T01:07:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003527s ]
+[ 2015-02-11T01:07:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:07:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.005103s ]
+[ 2015-02-11T01:07:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.005250s ]
+[ 2015-02-11T01:07:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:07:13+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 185 行.
+[ 2015-02-11T01:07:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.113276s ]
+[ 2015-02-11T01:07:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.113409s ]
+[ 2015-02-11T01:07:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:07:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.002770s ]
+[ 2015-02-11T01:07:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.002819s ]
+[ 2015-02-11T01:07:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002298s ]
+[ 2015-02-11T01:07:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.002886s ]
+[ 2015-02-11T01:07:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011116s ]
+[ 2015-02-11T01:07:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:07:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003240s ]
+[ 2015-02-11T01:07:13+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003385s ]
+[ 2015-02-11T01:07:14+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:08:11+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:08:11+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.002638s ]
+[ 2015-02-11T01:08:11+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.002875s ]
+[ 2015-02-11T01:08:11+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:08:11+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001827s ]
+[ 2015-02-11T01:08:11+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001989s ]
+[ 2015-02-11T01:08:11+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:08:11+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.001949s ]
+[ 2015-02-11T01:08:11+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.002138s ]
+[ 2015-02-11T01:08:11+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:08:11+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 185 行.
+[ 2015-02-11T01:08:11+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.031764s ]
+[ 2015-02-11T01:08:11+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.031916s ]
+[ 2015-02-11T01:08:11+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:08:11+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.001309s ]
+[ 2015-02-11T01:08:11+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.001374s ]
+[ 2015-02-11T01:08:11+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000821s ]
+[ 2015-02-11T01:08:11+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.001526s ]
+[ 2015-02-11T01:08:11+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005533s ]
+[ 2015-02-11T01:08:11+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:08:11+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.001616s ]
+[ 2015-02-11T01:08:11+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.001813s ]
+[ 2015-02-11T01:08:11+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:08:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:08:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.004404s ]
+[ 2015-02-11T01:08:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.004640s ]
+[ 2015-02-11T01:08:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:08:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003593s ]
+[ 2015-02-11T01:08:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003735s ]
+[ 2015-02-11T01:08:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:08:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.005729s ]
+[ 2015-02-11T01:08:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.005896s ]
+[ 2015-02-11T01:08:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:08:38+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 185 行.
+[ 2015-02-11T01:08:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.100838s ]
+[ 2015-02-11T01:08:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.100961s ]
+[ 2015-02-11T01:08:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:08:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.002821s ]
+[ 2015-02-11T01:08:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.002974s ]
+[ 2015-02-11T01:08:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002284s ]
+[ 2015-02-11T01:08:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.002985s ]
+[ 2015-02-11T01:08:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011397s ]
+[ 2015-02-11T01:08:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:08:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003266s ]
+[ 2015-02-11T01:08:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003408s ]
+[ 2015-02-11T01:08:39+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:09:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:09:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.002467s ]
+[ 2015-02-11T01:09:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.002688s ]
+[ 2015-02-11T01:09:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:09:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001635s ]
+[ 2015-02-11T01:09:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001774s ]
+[ 2015-02-11T01:09:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:09:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.002125s ]
+[ 2015-02-11T01:09:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.002303s ]
+[ 2015-02-11T01:09:14+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:09:15+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 186 行.
+[ 2015-02-11T01:09:15+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.031931s ]
+[ 2015-02-11T01:09:15+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.032083s ]
+[ 2015-02-11T01:09:15+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:09:15+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.001243s ]
+[ 2015-02-11T01:09:15+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.001310s ]
+[ 2015-02-11T01:09:15+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000683s ]
+[ 2015-02-11T01:09:15+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.001258s ]
+[ 2015-02-11T01:09:15+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004851s ]
+[ 2015-02-11T01:09:15+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:09:15+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.001321s ]
+[ 2015-02-11T01:09:15+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.001453s ]
+[ 2015-02-11T01:09:15+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:09:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:09:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.002609s ]
+[ 2015-02-11T01:09:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.002831s ]
+[ 2015-02-11T01:09:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:09:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001587s ]
+[ 2015-02-11T01:09:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001723s ]
+[ 2015-02-11T01:09:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:09:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.001956s ]
+[ 2015-02-11T01:09:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.002125s ]
+[ 2015-02-11T01:09:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:09:31+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 186 行.
+[ 2015-02-11T01:09:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.034035s ]
+[ 2015-02-11T01:09:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.034228s ]
+[ 2015-02-11T01:09:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:09:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.001211s ]
+[ 2015-02-11T01:09:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.001328s ]
+[ 2015-02-11T01:09:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000759s ]
+[ 2015-02-11T01:09:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.001443s ]
+[ 2015-02-11T01:09:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005137s ]
+[ 2015-02-11T01:09:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:09:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.001548s ]
+[ 2015-02-11T01:09:31+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.001699s ]
+[ 2015-02-11T01:09:32+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:10:25+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:10:25+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.006116s ]
+[ 2015-02-11T01:10:25+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.006364s ]
+[ 2015-02-11T01:10:25+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:10:25+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003789s ]
+[ 2015-02-11T01:10:25+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003937s ]
+[ 2015-02-11T01:10:25+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:10:25+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.006073s ]
+[ 2015-02-11T01:10:25+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.006269s ]
+[ 2015-02-11T01:10:25+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:10:25+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 187 行.
+[ 2015-02-11T01:10:25+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.131192s ]
+[ 2015-02-11T01:10:25+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.131315s ]
+[ 2015-02-11T01:10:25+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:10:25+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.002744s ]
+[ 2015-02-11T01:10:25+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.002871s ]
+[ 2015-02-11T01:10:25+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002456s ]
+[ 2015-02-11T01:10:25+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.003042s ]
+[ 2015-02-11T01:10:25+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011471s ]
+[ 2015-02-11T01:10:25+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:10:25+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003162s ]
+[ 2015-02-11T01:10:25+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003304s ]
+[ 2015-02-11T01:10:25+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:10:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:10:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.004801s ]
+[ 2015-02-11T01:10:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.005041s ]
+[ 2015-02-11T01:10:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:10:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003906s ]
+[ 2015-02-11T01:10:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004053s ]
+[ 2015-02-11T01:10:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:10:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.005762s ]
+[ 2015-02-11T01:10:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.005944s ]
+[ 2015-02-11T01:10:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:10:41+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 187 行.
+[ 2015-02-11T01:10:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.039236s ]
+[ 2015-02-11T01:10:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.039388s ]
+[ 2015-02-11T01:10:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:10:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.003053s ]
+[ 2015-02-11T01:10:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.003149s ]
+[ 2015-02-11T01:10:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002711s ]
+[ 2015-02-11T01:10:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.003332s ]
+[ 2015-02-11T01:10:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012634s ]
+[ 2015-02-11T01:10:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:10:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003648s ]
+[ 2015-02-11T01:10:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003803s ]
+[ 2015-02-11T01:10:41+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:11:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:11:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.006415s ]
+[ 2015-02-11T01:11:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.006665s ]
+[ 2015-02-11T01:11:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:11:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003714s ]
+[ 2015-02-11T01:11:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003878s ]
+[ 2015-02-11T01:11:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:11:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.005672s ]
+[ 2015-02-11T01:11:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.005848s ]
+[ 2015-02-11T01:11:16+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:11:17+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 186 行.
+[ 2015-02-11T01:11:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.040310s ]
+[ 2015-02-11T01:11:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.040455s ]
+[ 2015-02-11T01:11:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:11:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.003102s ]
+[ 2015-02-11T01:11:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.002887s ]
+[ 2015-02-11T01:11:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002463s ]
+[ 2015-02-11T01:11:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.002986s ]
+[ 2015-02-11T01:11:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011833s ]
+[ 2015-02-11T01:11:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:11:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.002880s ]
+[ 2015-02-11T01:11:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003125s ]
+[ 2015-02-11T01:11:17+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:11:30+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:11:30+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.005000s ]
+[ 2015-02-11T01:11:30+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.005244s ]
+[ 2015-02-11T01:11:30+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:11:30+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003756s ]
+[ 2015-02-11T01:11:30+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003918s ]
+[ 2015-02-11T01:11:30+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:11:30+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.005758s ]
+[ 2015-02-11T01:11:30+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.005928s ]
+[ 2015-02-11T01:11:30+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:11:30+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 186 行.
+[ 2015-02-11T01:11:30+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.041925s ]
+[ 2015-02-11T01:11:30+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.042075s ]
+[ 2015-02-11T01:11:30+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:11:30+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.003160s ]
+[ 2015-02-11T01:11:30+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.003526s ]
+[ 2015-02-11T01:11:30+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002684s ]
+[ 2015-02-11T01:11:30+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.003552s ]
+[ 2015-02-11T01:11:30+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013366s ]
+[ 2015-02-11T01:11:30+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:11:30+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003627s ]
+[ 2015-02-11T01:11:30+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003788s ]
+[ 2015-02-11T01:11:31+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:12:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:12:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.004605s ]
+[ 2015-02-11T01:12:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.004847s ]
+[ 2015-02-11T01:12:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:12:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003616s ]
+[ 2015-02-11T01:12:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003764s ]
+[ 2015-02-11T01:12:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:12:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.005852s ]
+[ 2015-02-11T01:12:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.006058s ]
+[ 2015-02-11T01:12:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:12:08+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 186 行.
+[ 2015-02-11T01:12:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.043719s ]
+[ 2015-02-11T01:12:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.043961s ]
+[ 2015-02-11T01:12:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:12:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.003528s ]
+[ 2015-02-11T01:12:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.003210s ]
+[ 2015-02-11T01:12:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002703s ]
+[ 2015-02-11T01:12:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.003385s ]
+[ 2015-02-11T01:12:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013283s ]
+[ 2015-02-11T01:12:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:12:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003680s ]
+[ 2015-02-11T01:12:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003841s ]
+[ 2015-02-11T01:12:09+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:12:55+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:12:55+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.002576s ]
+[ 2015-02-11T01:12:55+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.002809s ]
+[ 2015-02-11T01:12:55+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:12:55+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001628s ]
+[ 2015-02-11T01:12:55+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001767s ]
+[ 2015-02-11T01:12:55+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:12:55+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.001880s ]
+[ 2015-02-11T01:12:55+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.002052s ]
+[ 2015-02-11T01:12:55+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:12:55+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 186 行.
+[ 2015-02-11T01:12:55+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.035300s ]
+[ 2015-02-11T01:12:55+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.035449s ]
+[ 2015-02-11T01:12:55+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:12:55+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.001249s ]
+[ 2015-02-11T01:12:55+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.001350s ]
+[ 2015-02-11T01:12:55+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000769s ]
+[ 2015-02-11T01:12:55+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.001459s ]
+[ 2015-02-11T01:12:55+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005219s ]
+[ 2015-02-11T01:12:55+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:12:55+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.001603s ]
+[ 2015-02-11T01:12:55+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.001750s ]
+[ 2015-02-11T01:12:55+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:13:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:13:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.004674s ]
+[ 2015-02-11T01:13:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.004914s ]
+[ 2015-02-11T01:13:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:13:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003916s ]
+[ 2015-02-11T01:13:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004093s ]
+[ 2015-02-11T01:13:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:13:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.006079s ]
+[ 2015-02-11T01:13:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.006280s ]
+[ 2015-02-11T01:13:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:13:08+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 186 行.
+[ 2015-02-11T01:13:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.056734s ]
+[ 2015-02-11T01:13:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.056882s ]
+[ 2015-02-11T01:13:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:13:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.003100s ]
+[ 2015-02-11T01:13:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.003390s ]
+[ 2015-02-11T01:13:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002603s ]
+[ 2015-02-11T01:13:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.003262s ]
+[ 2015-02-11T01:13:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012866s ]
+[ 2015-02-11T01:13:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:13:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003618s ]
+[ 2015-02-11T01:13:08+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003782s ]
+[ 2015-02-11T01:13:09+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:27:45+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:27:45+08:00 ] /gisproject/admin.php/Login/index | INFO: Run CheckRoute Behavior [ RunTime:0.002542s ]
+[ 2015-02-11T01:27:45+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002769s ]
+[ 2015-02-11T01:27:45+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:27:45+08:00 ] /gisproject/admin.php/Login/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001578s ]
+[ 2015-02-11T01:27:45+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001713s ]
+[ 2015-02-11T01:27:45+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:27:45+08:00 ] /gisproject/admin.php/Login/index | INFO: Run LocationTemplate Behavior [ RunTime:0.004703s ]
+[ 2015-02-11T01:27:45+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.004861s ]
+[ 2015-02-11T01:27:45+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:27:45+08:00 ] /gisproject/admin.php/Login/index | INFO: Run ParseTemplate Behavior [ RunTime:0.104540s ]
+[ 2015-02-11T01:27:45+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.104730s ]
+[ 2015-02-11T01:27:45+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:27:45+08:00 ] /gisproject/admin.php/Login/index | INFO: Run ContentReplace Behavior [ RunTime:0.019364s ]
+[ 2015-02-11T01:27:45+08:00 ] /gisproject/admin.php/Login/index | INFO: Run TokenBuild Behavior [ RunTime:0.004069s ]
+[ 2015-02-11T01:27:45+08:00 ] /gisproject/admin.php/Login/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003658s ]
+[ 2015-02-11T01:27:45+08:00 ] /gisproject/admin.php/Login/index | INFO: Run ShowRuntime Behavior [ RunTime:0.005227s ]
+[ 2015-02-11T01:27:45+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.032801s ]
+[ 2015-02-11T01:27:45+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:27:45+08:00 ] /gisproject/admin.php/Login/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.005267s ]
+[ 2015-02-11T01:27:45+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.005504s ]
+[ 2015-02-11T01:27:46+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:27:46+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Run CheckRoute Behavior [ RunTime:0.002463s ]
+[ 2015-02-11T01:27:46+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002684s ]
+[ 2015-02-11T01:27:46+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:27:46+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001732s ]
+[ 2015-02-11T01:27:46+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001870s ]
+[ 2015-02-11T01:27:46+08:00 ] /gisproject/admin.php/Login/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.002506s ]
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002738s ]
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001846s ]
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001996s ]
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001505s ]
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001685s ]
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.024410s ]
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.024596s ]
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.001126s ]
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.001270s ]
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001047s ]
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001410s ]
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005243s ]
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001360s ]
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001498s ]
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Run CheckRoute Behavior [ RunTime:0.002691s ]
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002958s ]
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001750s ]
+[ 2015-02-11T01:27:53+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001911s ]
+[ 2015-02-11T01:27:54+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:27:54+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.002780s ]
+[ 2015-02-11T01:27:54+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.003038s ]
+[ 2015-02-11T01:27:54+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:27:54+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001883s ]
+[ 2015-02-11T01:27:54+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002068s ]
+[ 2015-02-11T01:27:54+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:27:54+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.006775s ]
+[ 2015-02-11T01:27:54+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.007004s ]
+[ 2015-02-11T01:27:54+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:27:54+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.041407s ]
+[ 2015-02-11T01:27:54+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.041637s ]
+[ 2015-02-11T01:27:54+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:27:54+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.003364s ]
+[ 2015-02-11T01:27:54+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.003834s ]
+[ 2015-02-11T01:27:54+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002230s ]
+[ 2015-02-11T01:27:54+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.002775s ]
+[ 2015-02-11T01:27:54+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012683s ]
+[ 2015-02-11T01:27:54+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:27:54+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.002534s ]
+[ 2015-02-11T01:27:54+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.002642s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run CheckRoute Behavior [ RunTime:0.002617s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ route_check ] --END-- [ RunTime:0.002843s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001602s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001740s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run LocationTemplate Behavior [ RunTime:0.005356s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_template ] --END-- [ RunTime:0.005589s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run ParseTemplate Behavior [ RunTime:0.055629s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.055827s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run ContentReplace Behavior [ RunTime:0.003017s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run TokenBuild Behavior [ RunTime:0.003522s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002661s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run ShowRuntime Behavior [ RunTime:0.003545s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013153s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run ShowPageTrace Behavior [ RunTime:0.003417s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_end ] --END-- [ RunTime:0.003568s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.002393s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.002597s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001729s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001892s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.001476s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.001643s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.024121s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.024301s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.001061s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.001084s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000682s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.001223s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004384s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.001205s ]
+[ 2015-02-11T01:32:33+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.001321s ]
+[ 2015-02-11T01:32:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:32:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.002619s ]
+[ 2015-02-11T01:32:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.002843s ]
+[ 2015-02-11T01:32:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:32:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001589s ]
+[ 2015-02-11T01:32:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001726s ]
+[ 2015-02-11T01:32:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:32:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.004127s ]
+[ 2015-02-11T01:32:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.004302s ]
+[ 2015-02-11T01:32:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:32:38+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 186 行.
+[ 2015-02-11T01:32:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.088463s ]
+[ 2015-02-11T01:32:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.088605s ]
+[ 2015-02-11T01:32:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:32:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.001304s ]
+[ 2015-02-11T01:32:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.001192s ]
+[ 2015-02-11T01:32:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000683s ]
+[ 2015-02-11T01:32:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.001397s ]
+[ 2015-02-11T01:32:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004932s ]
+[ 2015-02-11T01:32:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:32:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.001414s ]
+[ 2015-02-11T01:32:38+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.001545s ]
+[ 2015-02-11T01:32:39+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:32:45+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:32:45+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.002307s ]
+[ 2015-02-11T01:32:45+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.002519s ]
+[ 2015-02-11T01:32:45+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:32:45+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001494s ]
+[ 2015-02-11T01:32:45+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001631s ]
+[ 2015-02-11T01:32:45+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:32:45+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.001648s ]
+[ 2015-02-11T01:32:45+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.001798s ]
+[ 2015-02-11T01:32:45+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:32:45+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 186 行.
+[ 2015-02-11T01:32:45+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.027951s ]
+[ 2015-02-11T01:32:45+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.028084s ]
+[ 2015-02-11T01:32:45+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:32:45+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.001258s ]
+[ 2015-02-11T01:32:45+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.001239s ]
+[ 2015-02-11T01:32:45+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000859s ]
+[ 2015-02-11T01:32:45+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.001331s ]
+[ 2015-02-11T01:32:45+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005074s ]
+[ 2015-02-11T01:32:45+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:32:45+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.001406s ]
+[ 2015-02-11T01:32:45+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.001547s ]
+[ 2015-02-11T01:32:46+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:33:18+08:00 ] /gisproject/admin.php/Index/showaddgishttp://127.0.0.1/gisproject/admin.php/Index/showaddgis | ERR: (ThinkException) 非法操作showaddgishttp:
+[ 2015-02-11T01:34:10+08:00 ] /gisproject/admin.php/Index/showaddgishttp://127.0.0.1/gisproject/admin.php/Index/showaddgis | ERR: (ThinkException) 非法操作showaddgishttp:
+[ 2015-02-11T01:34:17+08:00 ] /gisproject/admin.php/Index/showaddgishttp://127.0.0.1/gisproject/admin.php/Index/showaddgis | ERR: (ThinkException) 非法操作showaddgishttp:
+[ 2015-02-11T01:34:28+08:00 ] /gisproject/admin.php/Index/showaddgishttp:// | ERR: (ThinkException) 非法操作showaddgishttp:
+[ 2015-02-11T01:34:47+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:34:47+08:00 ] /gisproject/admin.php/Login/index | INFO: Run CheckRoute Behavior [ RunTime:0.002265s ]
+[ 2015-02-11T01:34:47+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002469s ]
+[ 2015-02-11T01:34:47+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:34:47+08:00 ] /gisproject/admin.php/Login/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001519s ]
+[ 2015-02-11T01:34:47+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001647s ]
+[ 2015-02-11T01:34:47+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:34:47+08:00 ] /gisproject/admin.php/Login/index | INFO: Run LocationTemplate Behavior [ RunTime:0.004372s ]
+[ 2015-02-11T01:34:47+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.004532s ]
+[ 2015-02-11T01:34:47+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:34:47+08:00 ] /gisproject/admin.php/Login/index | INFO: Run ParseTemplate Behavior [ RunTime:0.032249s ]
+[ 2015-02-11T01:34:47+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.032411s ]
+[ 2015-02-11T01:34:47+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:34:47+08:00 ] /gisproject/admin.php/Login/index | INFO: Run ContentReplace Behavior [ RunTime:0.002731s ]
+[ 2015-02-11T01:34:47+08:00 ] /gisproject/admin.php/Login/index | INFO: Run TokenBuild Behavior [ RunTime:0.003034s ]
+[ 2015-02-11T01:34:47+08:00 ] /gisproject/admin.php/Login/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002328s ]
+[ 2015-02-11T01:34:47+08:00 ] /gisproject/admin.php/Login/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002873s ]
+[ 2015-02-11T01:34:47+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011333s ]
+[ 2015-02-11T01:34:47+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:34:47+08:00 ] /gisproject/admin.php/Login/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.003193s ]
+[ 2015-02-11T01:34:47+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.003332s ]
+[ 2015-02-11T01:34:48+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:34:48+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Run CheckRoute Behavior [ RunTime:0.003617s ]
+[ 2015-02-11T01:34:48+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.003948s ]
+[ 2015-02-11T01:34:48+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:34:48+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002323s ]
+[ 2015-02-11T01:34:48+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002584s ]
+[ 2015-02-11T01:34:48+08:00 ] /gisproject/admin.php/Login/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:34:51+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:34:51+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.002327s ]
+[ 2015-02-11T01:34:51+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.002548s ]
+[ 2015-02-11T01:34:51+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:34:51+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001638s ]
+[ 2015-02-11T01:34:51+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001773s ]
+[ 2015-02-11T01:34:51+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined index:  adminname functions.php 第 441 行.
+[ 2015-02-11T01:34:51+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:34:51+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.003633s ]
+[ 2015-02-11T01:34:51+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.003795s ]
+[ 2015-02-11T01:34:51+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:34:51+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 186 行.
+[ 2015-02-11T01:34:51+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.030878s ]
+[ 2015-02-11T01:34:51+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.031016s ]
+[ 2015-02-11T01:34:51+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:34:51+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.001083s ]
+[ 2015-02-11T01:34:51+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.001352s ]
+[ 2015-02-11T01:34:51+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000730s ]
+[ 2015-02-11T01:34:51+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.001420s ]
+[ 2015-02-11T01:34:51+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004998s ]
+[ 2015-02-11T01:34:51+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:34:51+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.001365s ]
+[ 2015-02-11T01:34:51+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.001588s ]
+[ 2015-02-11T01:34:51+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Login/index | INFO: Run CheckRoute Behavior [ RunTime:0.028124s ]
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.028387s ]
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Login/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001512s ]
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001640s ]
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Login/index | INFO: Run LocationTemplate Behavior [ RunTime:0.004573s ]
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.004719s ]
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Login/index | INFO: Run ParseTemplate Behavior [ RunTime:0.031163s ]
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.031334s ]
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Login/index | INFO: Run ContentReplace Behavior [ RunTime:0.008038s ]
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Login/index | INFO: Run TokenBuild Behavior [ RunTime:0.003253s ]
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Login/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.008060s ]
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Login/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002863s ]
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.022869s ]
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Login/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.002869s ]
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Login/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.002988s ]
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Run CheckRoute Behavior [ RunTime:0.004863s ]
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.005187s ]
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002308s ]
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002552s ]
+[ 2015-02-11T01:35:14+08:00 ] /gisproject/admin.php/Login/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:35:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:35:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.002168s ]
+[ 2015-02-11T01:35:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.002369s ]
+[ 2015-02-11T01:35:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:35:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001465s ]
+[ 2015-02-11T01:35:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001780s ]
+[ 2015-02-11T01:35:17+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined index:  adminname functions.php 第 441 行.
+[ 2015-02-11T01:35:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:35:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.003394s ]
+[ 2015-02-11T01:35:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.003532s ]
+[ 2015-02-11T01:35:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:35:17+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 186 行.
+[ 2015-02-11T01:35:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.029988s ]
+[ 2015-02-11T01:35:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.030117s ]
+[ 2015-02-11T01:35:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:35:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.001045s ]
+[ 2015-02-11T01:35:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.001284s ]
+[ 2015-02-11T01:35:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000667s ]
+[ 2015-02-11T01:35:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.001272s ]
+[ 2015-02-11T01:35:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004603s ]
+[ 2015-02-11T01:35:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:35:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.001301s ]
+[ 2015-02-11T01:35:17+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.001515s ]
+[ 2015-02-11T01:35:18+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.004534s ]
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.004764s ]
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003452s ]
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003596s ]
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004876s ]
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005069s ]
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.033305s ]
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.033485s ]
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.003179s ]
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.003092s ]
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002595s ]
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003288s ]
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012547s ]
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003290s ]
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003426s ]
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Run CheckRoute Behavior [ RunTime:0.003842s ]
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.004230s ]
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002185s ]
+[ 2015-02-11T01:36:24+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002397s ]
+[ 2015-02-11T01:36:25+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:36:25+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.002531s ]
+[ 2015-02-11T01:36:25+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.002844s ]
+[ 2015-02-11T01:36:25+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:36:25+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001452s ]
+[ 2015-02-11T01:36:25+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001581s ]
+[ 2015-02-11T01:36:25+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:36:25+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.001065s ]
+[ 2015-02-11T01:36:25+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.001219s ]
+[ 2015-02-11T01:36:25+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:36:25+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.024221s ]
+[ 2015-02-11T01:36:25+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.024386s ]
+[ 2015-02-11T01:36:25+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:36:25+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.001408s ]
+[ 2015-02-11T01:36:25+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.001702s ]
+[ 2015-02-11T01:36:25+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000947s ]
+[ 2015-02-11T01:36:25+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.001961s ]
+[ 2015-02-11T01:36:25+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006502s ]
+[ 2015-02-11T01:36:25+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:36:25+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.001812s ]
+[ 2015-02-11T01:36:25+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.001992s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run CheckRoute Behavior [ RunTime:0.002519s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ route_check ] --END-- [ RunTime:0.002746s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001776s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001925s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run LocationTemplate Behavior [ RunTime:0.004828s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_template ] --END-- [ RunTime:0.005033s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run ParseTemplate Behavior [ RunTime:0.031531s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.031710s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run ContentReplace Behavior [ RunTime:0.002725s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run TokenBuild Behavior [ RunTime:0.003816s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002420s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run ShowRuntime Behavior [ RunTime:0.002913s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012255s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002939s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_end ] --END-- [ RunTime:0.003066s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.007065s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.007407s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002240s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002464s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.001512s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.001743s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.030724s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.030928s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.001047s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.001165s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000691s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.001349s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004630s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.001484s ]
+[ 2015-02-11T01:38:19+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.001663s ]
+[ 2015-02-11T01:38:23+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:38:23+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.002573s ]
+[ 2015-02-11T01:38:23+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.002812s ]
+[ 2015-02-11T01:38:23+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:38:23+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001912s ]
+[ 2015-02-11T01:38:23+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002076s ]
+[ 2015-02-11T01:38:23+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:38:23+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.003922s ]
+[ 2015-02-11T01:38:23+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.004102s ]
+[ 2015-02-11T01:38:23+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:38:23+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 186 行.
+[ 2015-02-11T01:38:23+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.032075s ]
+[ 2015-02-11T01:38:23+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.032247s ]
+[ 2015-02-11T01:38:23+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:38:23+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.001349s ]
+[ 2015-02-11T01:38:23+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.001399s ]
+[ 2015-02-11T01:38:23+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000793s ]
+[ 2015-02-11T01:38:23+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.001575s ]
+[ 2015-02-11T01:38:23+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005532s ]
+[ 2015-02-11T01:38:23+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:38:23+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.001448s ]
+[ 2015-02-11T01:38:23+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.001593s ]
+[ 2015-02-11T01:38:23+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:38:29+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:38:29+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.003982s ]
+[ 2015-02-11T01:38:29+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.004189s ]
+[ 2015-02-11T01:38:29+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:38:29+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003034s ]
+[ 2015-02-11T01:38:29+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003159s ]
+[ 2015-02-11T01:38:29+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:38:29+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.005619s ]
+[ 2015-02-11T01:38:29+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.005816s ]
+[ 2015-02-11T01:38:29+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:38:29+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 186 行.
+[ 2015-02-11T01:38:29+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.036132s ]
+[ 2015-02-11T01:38:29+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.036268s ]
+[ 2015-02-11T01:38:29+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:38:29+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.002806s ]
+[ 2015-02-11T01:38:29+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.002935s ]
+[ 2015-02-11T01:38:29+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002527s ]
+[ 2015-02-11T01:38:29+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.002963s ]
+[ 2015-02-11T01:38:29+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011679s ]
+[ 2015-02-11T01:38:29+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:38:29+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.002991s ]
+[ 2015-02-11T01:38:29+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003131s ]
+[ 2015-02-11T01:38:29+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2015-02-11T01:38:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --START--
+[ 2015-02-11T01:38:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run CheckRoute Behavior [ RunTime:0.004204s ]
+[ 2015-02-11T01:38:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ route_check ] --END-- [ RunTime:0.004426s ]
+[ 2015-02-11T01:38:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --START--
+[ 2015-02-11T01:38:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003432s ]
+[ 2015-02-11T01:38:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003583s ]
+[ 2015-02-11T01:38:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --START--
+[ 2015-02-11T01:38:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run LocationTemplate Behavior [ RunTime:0.005513s ]
+[ 2015-02-11T01:38:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_template ] --END-- [ RunTime:0.005703s ]
+[ 2015-02-11T01:38:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --START--
+[ 2015-02-11T01:38:41+08:00 ] /gisproject/admin.php/Index/showaddgis | NOTIC: [8] Undefined variable: page_method f15d73b8f43c102e28c75452e78e4c9c.php 第 186 行.
+[ 2015-02-11T01:38:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ParseTemplate Behavior [ RunTime:0.037695s ]
+[ 2015-02-11T01:38:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.037832s ]
+[ 2015-02-11T01:38:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --START--
+[ 2015-02-11T01:38:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ContentReplace Behavior [ RunTime:0.002905s ]
+[ 2015-02-11T01:38:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run TokenBuild Behavior [ RunTime:0.003397s ]
+[ 2015-02-11T01:38:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002494s ]
+[ 2015-02-11T01:38:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowRuntime Behavior [ RunTime:0.003548s ]
+[ 2015-02-11T01:38:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012778s ]
+[ 2015-02-11T01:38:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --START--
+[ 2015-02-11T01:38:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003046s ]
+[ 2015-02-11T01:38:41+08:00 ] /gisproject/admin.php/Index/showaddgis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003190s ]
+[ 2015-02-11T01:38:42+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources

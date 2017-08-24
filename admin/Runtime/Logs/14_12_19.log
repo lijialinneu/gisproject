@@ -1,0 +1,224 @@
+[ 2014-12-19T17:17:30+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2014-12-19T17:17:30+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.028734s ]
+[ 2014-12-19T17:17:30+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.029110s ]
+[ 2014-12-19T17:17:30+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-19T17:17:30+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004997s ]
+[ 2014-12-19T17:17:30+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005198s ]
+[ 2014-12-19T17:17:30+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2014-12-19T17:17:30+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.007732s ]
+[ 2014-12-19T17:17:30+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.007981s ]
+[ 2014-12-19T17:17:30+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2014-12-19T17:17:30+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.097580s ]
+[ 2014-12-19T17:17:30+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.097850s ]
+[ 2014-12-19T17:17:30+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2014-12-19T17:17:30+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.004115s ]
+[ 2014-12-19T17:17:30+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.004701s ]
+[ 2014-12-19T17:17:30+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003571s ]
+[ 2014-12-19T17:17:30+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004733s ]
+[ 2014-12-19T17:17:30+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.017659s ]
+[ 2014-12-19T17:17:30+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2014-12-19T17:17:30+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.005009s ]
+[ 2014-12-19T17:17:30+08:00 ] /gisproject/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.005199s ]
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ route_check ] --START--
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Run CheckRoute Behavior [ RunTime:0.003026s ]
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.003320s ]
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002051s ]
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002246s ]
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.005839s ]
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.006170s ]
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.005172s ]
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005397s ]
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.006930s ]
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.007223s ]
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.093623s ]
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.093912s ]
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.004566s ]
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.005181s ]
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.004205s ]
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.006361s ]
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.021044s ]
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.007598s ]
+[ 2014-12-19T17:17:31+08:00 ] /gisproject/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.007873s ]
+[ 2014-12-19T17:17:40+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ route_check ] --START--
+[ 2014-12-19T17:17:40+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run CheckRoute Behavior [ RunTime:0.003667s ]
+[ 2014-12-19T17:17:40+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ route_check ] --END-- [ RunTime:0.004033s ]
+[ 2014-12-19T17:17:40+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ app_begin ] --START--
+[ 2014-12-19T17:17:40+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002463s ]
+[ 2014-12-19T17:17:40+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002685s ]
+[ 2014-12-19T17:17:40+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_template ] --START--
+[ 2014-12-19T17:17:40+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run LocationTemplate Behavior [ RunTime:0.023744s ]
+[ 2014-12-19T17:17:40+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_template ] --END-- [ RunTime:0.024018s ]
+[ 2014-12-19T17:17:40+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_parse ] --START--
+[ 2014-12-19T17:17:40+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2014-12-19T17:17:40+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run ParseTemplate Behavior [ RunTime:0.040040s ]
+[ 2014-12-19T17:17:40+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.040230s ]
+[ 2014-12-19T17:17:40+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_filter ] --START--
+[ 2014-12-19T17:17:40+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run ContentReplace Behavior [ RunTime:0.001433s ]
+[ 2014-12-19T17:17:40+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run TokenBuild Behavior [ RunTime:0.001626s ]
+[ 2014-12-19T17:17:40+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001121s ]
+[ 2014-12-19T17:17:40+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run ShowRuntime Behavior [ RunTime:0.002039s ]
+[ 2014-12-19T17:17:40+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006826s ]
+[ 2014-12-19T17:17:40+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_end ] --START--
+[ 2014-12-19T17:17:40+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002095s ]
+[ 2014-12-19T17:17:40+08:00 ] /gisproject/admin.php/Index/index/adminname/ruby97 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002322s ]
+[ 2014-12-19T17:17:41+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2014-12-19T17:17:41+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.015392s ]
+[ 2014-12-19T17:17:41+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.015774s ]
+[ 2014-12-19T17:17:41+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2014-12-19T17:17:41+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002450s ]
+[ 2014-12-19T17:17:41+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002680s ]
+[ 2014-12-19T17:17:41+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2014-12-19T17:17:41+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.004013s ]
+[ 2014-12-19T17:17:41+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.004253s ]
+[ 2014-12-19T17:17:41+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2014-12-19T17:17:41+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2014-12-19T17:17:41+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.041403s ]
+[ 2014-12-19T17:17:41+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.041617s ]
+[ 2014-12-19T17:17:41+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2014-12-19T17:17:41+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.002828s ]
+[ 2014-12-19T17:17:41+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.001757s ]
+[ 2014-12-19T17:17:41+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001264s ]
+[ 2014-12-19T17:17:41+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.002164s ]
+[ 2014-12-19T17:17:41+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008705s ]
+[ 2014-12-19T17:17:41+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2014-12-19T17:17:41+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.002004s ]
+[ 2014-12-19T17:17:41+08:00 ] /gisproject/admin.php/Index/index/adminname/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.002209s ]
+[ 2014-12-19T17:17:44+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Tag[ route_check ] --START--
+[ 2014-12-19T17:17:44+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Run CheckRoute Behavior [ RunTime:0.003449s ]
+[ 2014-12-19T17:17:44+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Tag[ route_check ] --END-- [ RunTime:0.003774s ]
+[ 2014-12-19T17:17:44+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Tag[ app_begin ] --START--
+[ 2014-12-19T17:17:44+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Run ReadHtmlCache Behavior [ RunTime:0.005161s ]
+[ 2014-12-19T17:17:44+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005420s ]
+[ 2014-12-19T17:17:44+08:00 ] /gisproject/admin.php/Index/showmanageuser | SQL: SHOW COLUMNS FROM `tb_user` [ RunTime:0.121183s ]
+[ 2014-12-19T17:17:44+08:00 ] /gisproject/admin.php/Index/showmanageuser | SQL: SELECT COUNT(*) AS tp_count FROM `tb_user` LIMIT 1   [ RunTime:0.024596s ]
+[ 2014-12-19T17:17:44+08:00 ] /gisproject/admin.php/Index/showmanageuser | SQL: SELECT `userid`,`username`,`useremail` FROM `tb_user` ORDER BY userid asc LIMIT 0,5   [ RunTime:0.052445s ]
+[ 2014-12-19T17:17:44+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Tag[ view_template ] --START--
+[ 2014-12-19T17:17:44+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Run LocationTemplate Behavior [ RunTime:0.004956s ]
+[ 2014-12-19T17:17:44+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Tag[ view_template ] --END-- [ RunTime:0.005151s ]
+[ 2014-12-19T17:17:44+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Tag[ view_parse ] --START--
+[ 2014-12-19T17:17:45+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Run ParseTemplate Behavior [ RunTime:0.131308s ]
+[ 2014-12-19T17:17:45+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Tag[ view_parse ] --END-- [ RunTime:0.131548s ]
+[ 2014-12-19T17:17:45+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Tag[ view_filter ] --START--
+[ 2014-12-19T17:17:45+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Run ContentReplace Behavior [ RunTime:0.001636s ]
+[ 2014-12-19T17:17:45+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Run TokenBuild Behavior [ RunTime:0.001536s ]
+[ 2014-12-19T17:17:45+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000985s ]
+[ 2014-12-19T17:17:45+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Run ShowRuntime Behavior [ RunTime:0.001829s ]
+[ 2014-12-19T17:17:45+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006524s ]
+[ 2014-12-19T17:17:45+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Tag[ view_end ] --START--
+[ 2014-12-19T17:17:45+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Run ShowPageTrace Behavior [ RunTime:0.002648s ]
+[ 2014-12-19T17:17:45+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Tag[ view_end ] --END-- [ RunTime:0.002894s ]
+[ 2014-12-19T17:17:45+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Tag[ route_check ] --START--
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Run CheckRoute Behavior [ RunTime:0.003510s ]
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Tag[ route_check ] --END-- [ RunTime:0.003865s ]
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Tag[ app_begin ] --START--
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002311s ]
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002518s ]
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.013033s ]
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | SQL: SELECT COUNT(*) AS tp_count FROM `tb_point` LIMIT 1   [ RunTime:0.004998s ]
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point  [ RunTime:0.001583s ]
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Tag[ view_template ] --START--
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Run LocationTemplate Behavior [ RunTime:0.005756s ]
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Tag[ view_template ] --END-- [ RunTime:0.006013s ]
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Tag[ view_parse ] --START--
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant introduce - assumed 'introduce' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant text - assumed 'text' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant introduce - assumed 'introduce' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant text - assumed 'text' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant introduce - assumed 'introduce' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant text - assumed 'text' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant introduce - assumed 'introduce' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant text - assumed 'text' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant introduce - assumed 'introduce' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant text - assumed 'text' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant introduce - assumed 'introduce' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant text - assumed 'text' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant introduce - assumed 'introduce' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant text - assumed 'text' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant introduce - assumed 'introduce' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant text - assumed 'text' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Run ParseTemplate Behavior [ RunTime:0.061137s ]
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.061352s ]
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Tag[ view_filter ] --START--
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Run ContentReplace Behavior [ RunTime:0.001836s ]
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Run TokenBuild Behavior [ RunTime:0.001618s ]
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000981s ]
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Run ShowRuntime Behavior [ RunTime:0.001869s ]
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006845s ]
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Tag[ view_end ] --START--
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Run ShowPageTrace Behavior [ RunTime:0.003190s ]
+[ 2014-12-19T17:19:05+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Tag[ view_end ] --END-- [ RunTime:0.003426s ]
+[ 2014-12-19T17:19:06+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2014-12-19T17:20:14+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Tag[ route_check ] --START--
+[ 2014-12-19T17:20:14+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Run CheckRoute Behavior [ RunTime:0.005861s ]
+[ 2014-12-19T17:20:14+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Tag[ route_check ] --END-- [ RunTime:0.006193s ]
+[ 2014-12-19T17:20:14+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Tag[ app_begin ] --START--
+[ 2014-12-19T17:20:14+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Run ReadHtmlCache Behavior [ RunTime:0.008332s ]
+[ 2014-12-19T17:20:14+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Tag[ app_begin ] --END-- [ RunTime:0.008558s ]
+[ 2014-12-19T17:20:14+08:00 ] /gisproject/admin.php/Index/showmanageuser | SQL: SHOW COLUMNS FROM `tb_user` [ RunTime:0.013074s ]
+[ 2014-12-19T17:20:14+08:00 ] /gisproject/admin.php/Index/showmanageuser | SQL: SELECT COUNT(*) AS tp_count FROM `tb_user` LIMIT 1   [ RunTime:0.005075s ]
+[ 2014-12-19T17:20:14+08:00 ] /gisproject/admin.php/Index/showmanageuser | SQL: SELECT `userid`,`username`,`useremail` FROM `tb_user` ORDER BY userid asc LIMIT 0,5   [ RunTime:0.001241s ]
+[ 2014-12-19T17:20:14+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Tag[ view_template ] --START--
+[ 2014-12-19T17:20:14+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Run LocationTemplate Behavior [ RunTime:0.007857s ]
+[ 2014-12-19T17:20:14+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Tag[ view_template ] --END-- [ RunTime:0.008120s ]
+[ 2014-12-19T17:20:14+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Tag[ view_parse ] --START--
+[ 2014-12-19T17:20:14+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Run ParseTemplate Behavior [ RunTime:0.048099s ]
+[ 2014-12-19T17:20:14+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Tag[ view_parse ] --END-- [ RunTime:0.048310s ]
+[ 2014-12-19T17:20:14+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Tag[ view_filter ] --START--
+[ 2014-12-19T17:20:14+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Run ContentReplace Behavior [ RunTime:0.003408s ]
+[ 2014-12-19T17:20:14+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Run TokenBuild Behavior [ RunTime:0.003447s ]
+[ 2014-12-19T17:20:14+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003185s ]
+[ 2014-12-19T17:20:14+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Run ShowRuntime Behavior [ RunTime:0.004244s ]
+[ 2014-12-19T17:20:14+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Tag[ view_filter ] --END-- [ RunTime:0.014804s ]
+[ 2014-12-19T17:20:14+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Tag[ view_end ] --START--
+[ 2014-12-19T17:20:14+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Run ShowPageTrace Behavior [ RunTime:0.006433s ]
+[ 2014-12-19T17:20:14+08:00 ] /gisproject/admin.php/Index/showmanageuser | INFO: Tag[ view_end ] --END-- [ RunTime:0.006661s ]
+[ 2014-12-19T17:20:14+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Tag[ route_check ] --START--
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Run CheckRoute Behavior [ RunTime:0.003518s ]
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Tag[ route_check ] --END-- [ RunTime:0.004392s ]
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Tag[ app_begin ] --START--
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002324s ]
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002540s ]
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.016034s ]
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | SQL: SELECT COUNT(*) AS tp_count FROM `tb_point` LIMIT 1   [ RunTime:0.003408s ]
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point  [ RunTime:0.002392s ]
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Tag[ view_template ] --START--
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Run LocationTemplate Behavior [ RunTime:0.002765s ]
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Tag[ view_template ] --END-- [ RunTime:0.002990s ]
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Tag[ view_parse ] --START--
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant introduce - assumed 'introduce' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant text - assumed 'text' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant introduce - assumed 'introduce' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant text - assumed 'text' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant introduce - assumed 'introduce' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant text - assumed 'text' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant introduce - assumed 'introduce' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant text - assumed 'text' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant introduce - assumed 'introduce' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant text - assumed 'text' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant introduce - assumed 'introduce' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant text - assumed 'text' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant introduce - assumed 'introduce' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant text - assumed 'text' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant introduce - assumed 'introduce' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | NOTIC: [8] Use of undefined constant text - assumed 'text' c02ad00cab08c9825ee4d3e4d07a0c6f.php 第 126 行.
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Run ParseTemplate Behavior [ RunTime:0.115927s ]
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.116121s ]
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Tag[ view_filter ] --START--
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Run ContentReplace Behavior [ RunTime:0.001574s ]
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Run TokenBuild Behavior [ RunTime:0.001421s ]
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000864s ]
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Run ShowRuntime Behavior [ RunTime:0.001616s ]
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005940s ]
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Tag[ view_end ] --START--
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Run ShowPageTrace Behavior [ RunTime:0.001866s ]
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/showmanagegis | INFO: Tag[ view_end ] --END-- [ RunTime:0.002148s ]
+[ 2014-12-19T17:20:22+08:00 ] /gisproject/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources

@@ -1,0 +1,181 @@
+[ 2015-01-28T14:58:14+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-01-28T14:58:14+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.036666s ]
+[ 2015-01-28T14:58:14+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.061020s ]
+[ 2015-01-28T14:58:14+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-01-28T14:58:14+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.025647s ]
+[ 2015-01-28T14:58:14+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.025826s ]
+[ 2015-01-28T14:58:14+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-01-28T14:58:15+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-01-28T14:58:15+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.213544s ]
+[ 2015-01-28T14:58:15+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.213679s ]
+[ 2015-01-28T14:58:15+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-01-28T14:58:15+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.012964s ]
+[ 2015-01-28T14:58:15+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003521s ]
+[ 2015-01-28T14:58:15+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003332s ]
+[ 2015-01-28T14:58:15+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004650s ]
+[ 2015-01-28T14:58:15+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.024870s ]
+[ 2015-01-28T14:58:15+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-01-28T14:58:15+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003740s ]
+[ 2015-01-28T14:58:15+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003836s ]
+[ 2015-01-28T14:58:39+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2015-01-28T14:58:39+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003144s ]
+[ 2015-01-28T14:58:39+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003364s ]
+[ 2015-01-28T14:58:39+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2015-01-28T14:58:39+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004292s ]
+[ 2015-01-28T14:58:39+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.004455s ]
+[ 2015-01-28T14:58:39+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2015-01-28T14:58:40+08:00 ] /gisproject/ | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-01-28T14:58:40+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.058729s ]
+[ 2015-01-28T14:58:40+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.058867s ]
+[ 2015-01-28T14:58:40+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2015-01-28T14:58:40+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.002646s ]
+[ 2015-01-28T14:58:40+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003049s ]
+[ 2015-01-28T14:58:40+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002296s ]
+[ 2015-01-28T14:58:40+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003691s ]
+[ 2015-01-28T14:58:40+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012025s ]
+[ 2015-01-28T14:58:40+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2015-01-28T14:58:40+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002849s ]
+[ 2015-01-28T14:58:40+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002970s ]
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Login/index | INFO: Tag[ route_check ] --START--
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Login/index | INFO: Run CheckRoute Behavior [ RunTime:0.002716s ]
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Login/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002951s ]
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Login/index | INFO: Tag[ app_begin ] --START--
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Login/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002647s ]
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Login/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002805s ]
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Login/index | INFO: Tag[ view_template ] --START--
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Login/index | INFO: Run LocationTemplate Behavior [ RunTime:0.019921s ]
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Login/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.020116s ]
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Login/index | INFO: Tag[ view_parse ] --START--
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Login/index | INFO: Run ParseTemplate Behavior [ RunTime:0.053507s ]
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Login/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.053700s ]
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Login/index | INFO: Tag[ view_filter ] --START--
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Login/index | INFO: Run ContentReplace Behavior [ RunTime:0.003121s ]
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Login/index | INFO: Run TokenBuild Behavior [ RunTime:0.003094s ]
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Login/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002621s ]
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Login/index | INFO: Run ShowRuntime Behavior [ RunTime:0.003209s ]
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Login/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012425s ]
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Login/index | INFO: Tag[ view_end ] --START--
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Login/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.003859s ]
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Login/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.004004s ]
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Common/verify/ | INFO: Tag[ route_check ] --START--
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Common/verify/ | INFO: Run CheckRoute Behavior [ RunTime:0.002237s ]
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Common/verify/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002450s ]
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Common/verify/ | INFO: Tag[ app_begin ] --START--
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Common/verify/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002610s ]
+[ 2015-01-28T15:23:39+08:00 ] /gisproject/index.php/Common/verify/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002742s ]
+[ 2015-01-28T15:23:57+08:00 ] /gisproject/index.php/Index/index/username/ | INFO: Tag[ route_check ] --START--
+[ 2015-01-28T15:23:57+08:00 ] /gisproject/index.php/Index/index/username/ | INFO: Run CheckRoute Behavior [ RunTime:0.002393s ]
+[ 2015-01-28T15:23:57+08:00 ] /gisproject/index.php/Index/index/username/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002602s ]
+[ 2015-01-28T15:23:57+08:00 ] /gisproject/index.php/Index/index/username/ | INFO: Tag[ app_begin ] --START--
+[ 2015-01-28T15:23:57+08:00 ] /gisproject/index.php/Index/index/username/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001413s ]
+[ 2015-01-28T15:23:57+08:00 ] /gisproject/index.php/Index/index/username/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001534s ]
+[ 2015-01-28T15:23:57+08:00 ] /gisproject/index.php/Index/index/username/ | INFO: Tag[ view_template ] --START--
+[ 2015-01-28T15:23:57+08:00 ] /gisproject/index.php/Index/index/username/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003658s ]
+[ 2015-01-28T15:23:57+08:00 ] /gisproject/index.php/Index/index/username/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003833s ]
+[ 2015-01-28T15:23:57+08:00 ] /gisproject/index.php/Index/index/username/ | INFO: Tag[ view_parse ] --START--
+[ 2015-01-28T15:23:57+08:00 ] /gisproject/index.php/Index/index/username/ | INFO: Run ParseTemplate Behavior [ RunTime:0.024784s ]
+[ 2015-01-28T15:23:57+08:00 ] /gisproject/index.php/Index/index/username/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.024955s ]
+[ 2015-01-28T15:23:57+08:00 ] /gisproject/index.php/Index/index/username/ | INFO: Tag[ view_filter ] --START--
+[ 2015-01-28T15:23:57+08:00 ] /gisproject/index.php/Index/index/username/ | INFO: Run ContentReplace Behavior [ RunTime:0.001021s ]
+[ 2015-01-28T15:23:57+08:00 ] /gisproject/index.php/Index/index/username/ | INFO: Run TokenBuild Behavior [ RunTime:0.001088s ]
+[ 2015-01-28T15:23:57+08:00 ] /gisproject/index.php/Index/index/username/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000688s ]
+[ 2015-01-28T15:23:57+08:00 ] /gisproject/index.php/Index/index/username/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001212s ]
+[ 2015-01-28T15:23:57+08:00 ] /gisproject/index.php/Index/index/username/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004341s ]
+[ 2015-01-28T15:23:57+08:00 ] /gisproject/index.php/Index/index/username/ | INFO: Tag[ view_end ] --START--
+[ 2015-01-28T15:23:57+08:00 ] /gisproject/index.php/Index/index/username/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001255s ]
+[ 2015-01-28T15:23:57+08:00 ] /gisproject/index.php/Index/index/username/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001373s ]
+[ 2015-01-28T15:24:03+08:00 ] /gisproject/index.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2015-01-28T15:24:03+08:00 ] /gisproject/index.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002559s ]
+[ 2015-01-28T15:24:03+08:00 ] /gisproject/index.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002799s ]
+[ 2015-01-28T15:24:03+08:00 ] /gisproject/index.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2015-01-28T15:24:03+08:00 ] /gisproject/index.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001662s ]
+[ 2015-01-28T15:24:03+08:00 ] /gisproject/index.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001817s ]
+[ 2015-01-28T15:24:03+08:00 ] /gisproject/index.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2015-01-28T15:24:03+08:00 ] /gisproject/index.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.006419s ]
+[ 2015-01-28T15:24:03+08:00 ] /gisproject/index.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.006605s ]
+[ 2015-01-28T15:24:03+08:00 ] /gisproject/index.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2015-01-28T15:24:03+08:00 ] /gisproject/index.php/Index/index | NOTIC: [8] Undefined index:  username d046431aa157c89f3a1c30c426be003b.php 第 21 行.
+[ 2015-01-28T15:24:03+08:00 ] /gisproject/index.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.048473s ]
+[ 2015-01-28T15:24:03+08:00 ] /gisproject/index.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.048606s ]
+[ 2015-01-28T15:24:03+08:00 ] /gisproject/index.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2015-01-28T15:24:03+08:00 ] /gisproject/index.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.002774s ]
+[ 2015-01-28T15:24:03+08:00 ] /gisproject/index.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.003080s ]
+[ 2015-01-28T15:24:03+08:00 ] /gisproject/index.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002529s ]
+[ 2015-01-28T15:24:03+08:00 ] /gisproject/index.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.003094s ]
+[ 2015-01-28T15:24:03+08:00 ] /gisproject/index.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011836s ]
+[ 2015-01-28T15:24:03+08:00 ] /gisproject/index.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2015-01-28T15:24:03+08:00 ] /gisproject/index.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.002906s ]
+[ 2015-01-28T15:24:03+08:00 ] /gisproject/index.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.003027s ]
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Login/index | INFO: Tag[ route_check ] --START--
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Login/index | INFO: Run CheckRoute Behavior [ RunTime:0.003072s ]
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Login/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003327s ]
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Login/index | INFO: Tag[ app_begin ] --START--
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Login/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001570s ]
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Login/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001738s ]
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Login/index | INFO: Tag[ view_template ] --START--
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Login/index | INFO: Run LocationTemplate Behavior [ RunTime:0.004523s ]
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Login/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.004674s ]
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Login/index | INFO: Tag[ view_parse ] --START--
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Login/index | INFO: Run ParseTemplate Behavior [ RunTime:0.029081s ]
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Login/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.029250s ]
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Login/index | INFO: Tag[ view_filter ] --START--
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Login/index | INFO: Run ContentReplace Behavior [ RunTime:0.002893s ]
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Login/index | INFO: Run TokenBuild Behavior [ RunTime:0.002943s ]
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Login/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002605s ]
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Login/index | INFO: Run ShowRuntime Behavior [ RunTime:0.003101s ]
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Login/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011948s ]
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Login/index | INFO: Tag[ view_end ] --START--
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Login/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.002939s ]
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Login/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.003243s ]
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Common/verify/ | INFO: Tag[ route_check ] --START--
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Common/verify/ | INFO: Run CheckRoute Behavior [ RunTime:0.002225s ]
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Common/verify/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002442s ]
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Common/verify/ | INFO: Tag[ app_begin ] --START--
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Common/verify/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001863s ]
+[ 2015-01-28T15:26:25+08:00 ] /gisproject/index.php/Common/verify/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002005s ]
+[ 2015-01-28T15:26:29+08:00 ] /gisproject/index.php/Getpwd/index | INFO: Tag[ route_check ] --START--
+[ 2015-01-28T15:26:29+08:00 ] /gisproject/index.php/Getpwd/index | INFO: Run CheckRoute Behavior [ RunTime:0.002307s ]
+[ 2015-01-28T15:26:29+08:00 ] /gisproject/index.php/Getpwd/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002519s ]
+[ 2015-01-28T15:26:29+08:00 ] /gisproject/index.php/Getpwd/index | INFO: Tag[ app_begin ] --START--
+[ 2015-01-28T15:26:29+08:00 ] /gisproject/index.php/Getpwd/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001524s ]
+[ 2015-01-28T15:26:29+08:00 ] /gisproject/index.php/Getpwd/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001655s ]
+[ 2015-01-28T15:26:29+08:00 ] /gisproject/index.php/Getpwd/index | INFO: Tag[ view_template ] --START--
+[ 2015-01-28T15:26:29+08:00 ] /gisproject/index.php/Getpwd/index | INFO: Run LocationTemplate Behavior [ RunTime:0.024145s ]
+[ 2015-01-28T15:26:29+08:00 ] /gisproject/index.php/Getpwd/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.024339s ]
+[ 2015-01-28T15:26:29+08:00 ] /gisproject/index.php/Getpwd/index | INFO: Tag[ view_parse ] --START--
+[ 2015-01-28T15:26:29+08:00 ] /gisproject/index.php/Getpwd/index | INFO: Run ParseTemplate Behavior [ RunTime:0.048098s ]
+[ 2015-01-28T15:26:29+08:00 ] /gisproject/index.php/Getpwd/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.048276s ]
+[ 2015-01-28T15:26:29+08:00 ] /gisproject/index.php/Getpwd/index | INFO: Tag[ view_filter ] --START--
+[ 2015-01-28T15:26:29+08:00 ] /gisproject/index.php/Getpwd/index | INFO: Run ContentReplace Behavior [ RunTime:0.001043s ]
+[ 2015-01-28T15:26:29+08:00 ] /gisproject/index.php/Getpwd/index | INFO: Run TokenBuild Behavior [ RunTime:0.001073s ]
+[ 2015-01-28T15:26:29+08:00 ] /gisproject/index.php/Getpwd/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000693s ]
+[ 2015-01-28T15:26:29+08:00 ] /gisproject/index.php/Getpwd/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002418s ]
+[ 2015-01-28T15:26:29+08:00 ] /gisproject/index.php/Getpwd/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005583s ]
+[ 2015-01-28T15:26:29+08:00 ] /gisproject/index.php/Getpwd/index | INFO: Tag[ view_end ] --START--
+[ 2015-01-28T15:26:29+08:00 ] /gisproject/index.php/Getpwd/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001558s ]
+[ 2015-01-28T15:26:29+08:00 ] /gisproject/index.php/Getpwd/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001941s ]
+[ 2015-01-28T15:26:34+08:00 ] /gisproject/index.php/Register/index | INFO: Tag[ route_check ] --START--
+[ 2015-01-28T15:26:34+08:00 ] /gisproject/index.php/Register/index | INFO: Run CheckRoute Behavior [ RunTime:0.002225s ]
+[ 2015-01-28T15:26:34+08:00 ] /gisproject/index.php/Register/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002436s ]
+[ 2015-01-28T15:26:34+08:00 ] /gisproject/index.php/Register/index | INFO: Tag[ app_begin ] --START--
+[ 2015-01-28T15:26:34+08:00 ] /gisproject/index.php/Register/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001606s ]
+[ 2015-01-28T15:26:34+08:00 ] /gisproject/index.php/Register/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001742s ]
+[ 2015-01-28T15:26:34+08:00 ] /gisproject/index.php/Register/index | SQL: SHOW COLUMNS FROM `tb_security` [ RunTime:0.049947s ]
+[ 2015-01-28T15:26:34+08:00 ] /gisproject/index.php/Register/index | SQL: SELECT * FROM `tb_security` ORDER BY sort desc,id desc  [ RunTime:0.009450s ]
+[ 2015-01-28T15:26:34+08:00 ] /gisproject/index.php/Register/index | SQL: SHOW COLUMNS FROM `tb_clause` [ RunTime:0.051026s ]
+[ 2015-01-28T15:26:34+08:00 ] /gisproject/index.php/Register/index | SQL: SELECT * FROM `tb_clause`  [ RunTime:0.048604s ]
+[ 2015-01-28T15:26:34+08:00 ] /gisproject/index.php/Register/index | INFO: Tag[ view_template ] --START--
+[ 2015-01-28T15:26:34+08:00 ] /gisproject/index.php/Register/index | INFO: Run LocationTemplate Behavior [ RunTime:0.020925s ]
+[ 2015-01-28T15:26:34+08:00 ] /gisproject/index.php/Register/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.021088s ]
+[ 2015-01-28T15:26:34+08:00 ] /gisproject/index.php/Register/index | INFO: Tag[ view_parse ] --START--
+[ 2015-01-28T15:26:34+08:00 ] /gisproject/index.php/Register/index | INFO: Run ParseTemplate Behavior [ RunTime:0.053052s ]
+[ 2015-01-28T15:26:34+08:00 ] /gisproject/index.php/Register/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.053248s ]
+[ 2015-01-28T15:26:34+08:00 ] /gisproject/index.php/Register/index | INFO: Tag[ view_filter ] --START--
+[ 2015-01-28T15:26:34+08:00 ] /gisproject/index.php/Register/index | INFO: Run ContentReplace Behavior [ RunTime:0.001100s ]
+[ 2015-01-28T15:26:34+08:00 ] /gisproject/index.php/Register/index | INFO: Run TokenBuild Behavior [ RunTime:0.001212s ]
+[ 2015-01-28T15:26:34+08:00 ] /gisproject/index.php/Register/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000679s ]
+[ 2015-01-28T15:26:34+08:00 ] /gisproject/index.php/Register/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001206s ]
+[ 2015-01-28T15:26:34+08:00 ] /gisproject/index.php/Register/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004637s ]
+[ 2015-01-28T15:26:34+08:00 ] /gisproject/index.php/Register/index | INFO: Tag[ view_end ] --START--
+[ 2015-01-28T15:26:34+08:00 ] /gisproject/index.php/Register/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001261s ]
+[ 2015-01-28T15:26:34+08:00 ] /gisproject/index.php/Register/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001416s ]

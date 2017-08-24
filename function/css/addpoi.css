@@ -1,0 +1,57 @@
+body,html{
+	background:#222;
+	color:#fff;	
+}
+a{
+	color:#fff;
+	text-decoration: none;
+}
+textarea{
+	   border:3px solid #f90;
+       font-size:12px;
+       font-family: Verdana, Arial, Helvetica, sans-serif;
+       padding:1px;
+       height:150px;
+       overflow-y:auto;
+       width:400px;
+       text-align:left;
+       padding:5px;
+       resize:none;
+}
+#content{
+	margin-top:50px;
+	margin-left:170px;
+	width:1000px;
+	height:300px;
+}
+#allmap {
+	width: 37%;
+	height: 300px;
+	overflow: hidden;
+	float: right;
+}
+#form{
+	width:63%;
+	height:300px;
+}
+
+/*#name,#timestamp,#longitude,#latitude,#type,
+#brief_introduce,
+#wiki,#panorama,#btn_submit
+*/
+input,select {
+	width:230px;
+	height:25px;
+	border:3px solid #f90;
+	margin:5px;
+	background-color:#fff;
+}
+
+#edit,#btn_submit{
+	margin-left:170px;
+}
+#btn_submit{
+	height:30px;
+	border:3px solid #f90;
+	background-color:#fff;
+}

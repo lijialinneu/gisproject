@@ -1,0 +1,525 @@
+[ 2014-12-29T09:03:41+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-29T09:03:41+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.037911s ]
+[ 2014-12-29T09:03:41+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.083496s ]
+[ 2014-12-29T09:03:42+08:00 ] /gisproject/ | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.159196s ]
+[ 2014-12-29T09:03:43+08:00 ] /gisproject/ | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point ORDER BY AsText(point),timestamp ASC  [ RunTime:0.088304s ]
+[ 2014-12-29T09:03:43+08:00 ] /gisproject/ | NOTIC: [8] Undefined offset:  17 IndexAction.class.php 第 30 行.
+[ 2014-12-29T09:03:43+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2014-12-29T09:03:43+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.020450s ]
+[ 2014-12-29T09:03:43+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.020670s ]
+[ 2014-12-29T09:03:43+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2014-12-29T09:03:43+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.111894s ]
+[ 2014-12-29T09:03:43+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.112139s ]
+[ 2014-12-29T09:03:43+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2014-12-29T09:03:43+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.016863s ]
+[ 2014-12-29T09:03:43+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.011442s ]
+[ 2014-12-29T09:03:43+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.005706s ]
+[ 2014-12-29T09:03:43+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.034821s ]
+[ 2014-12-29T09:03:43+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.069475s ]
+[ 2014-12-29T09:03:43+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2014-12-29T09:03:43+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.018314s ]
+[ 2014-12-29T09:03:43+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.018570s ]
+[ 2014-12-29T09:09:51+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-29T09:09:51+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003892s ]
+[ 2014-12-29T09:09:51+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004168s ]
+[ 2014-12-29T09:09:52+08:00 ] /gisproject/ | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.017624s ]
+[ 2014-12-29T09:09:52+08:00 ] /gisproject/ | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point ORDER BY AsText(point),timestamp ASC  [ RunTime:0.008150s ]
+[ 2014-12-29T09:09:52+08:00 ] /gisproject/ | NOTIC: [8] Undefined offset:  17 IndexAction.class.php 第 30 行.
+[ 2014-12-29T09:09:52+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2014-12-29T09:09:52+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.007281s ]
+[ 2014-12-29T09:09:52+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.007508s ]
+[ 2014-12-29T09:09:52+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2014-12-29T09:09:52+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.054179s ]
+[ 2014-12-29T09:09:52+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.054384s ]
+[ 2014-12-29T09:09:52+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2014-12-29T09:09:52+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003270s ]
+[ 2014-12-29T09:09:52+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003894s ]
+[ 2014-12-29T09:09:52+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002780s ]
+[ 2014-12-29T09:09:52+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003413s ]
+[ 2014-12-29T09:09:52+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013801s ]
+[ 2014-12-29T09:09:52+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2014-12-29T09:09:52+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003535s ]
+[ 2014-12-29T09:09:52+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003681s ]
+[ 2014-12-29T09:10:02+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-29T09:10:02+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001741s ]
+[ 2014-12-29T09:10:02+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2014-12-29T09:10:02+08:00 ] /gisproject/ | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.014799s ]
+[ 2014-12-29T09:10:02+08:00 ] /gisproject/ | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point ORDER BY AsText(point),timestamp ASC  [ RunTime:0.004343s ]
+[ 2014-12-29T09:10:02+08:00 ] /gisproject/ | NOTIC: [8] Undefined offset:  17 IndexAction.class.php 第 30 行.
+[ 2014-12-29T09:10:02+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2014-12-29T09:10:02+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002135s ]
+[ 2014-12-29T09:10:02+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002295s ]
+[ 2014-12-29T09:10:02+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2014-12-29T09:10:02+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.026449s ]
+[ 2014-12-29T09:10:02+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.026643s ]
+[ 2014-12-29T09:10:02+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2014-12-29T09:10:02+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.001257s ]
+[ 2014-12-29T09:10:02+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.001353s ]
+[ 2014-12-29T09:10:02+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000797s ]
+[ 2014-12-29T09:10:02+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001515s ]
+[ 2014-12-29T09:10:02+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005347s ]
+[ 2014-12-29T09:10:02+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2014-12-29T09:10:02+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001490s ]
+[ 2014-12-29T09:10:02+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001648s ]
+[ 2014-12-29T09:11:16+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-29T09:11:16+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.005524s ]
+[ 2014-12-29T09:11:16+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005867s ]
+[ 2014-12-29T09:11:16+08:00 ] /gisproject/ | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.013054s ]
+[ 2014-12-29T09:11:16+08:00 ] /gisproject/ | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point ORDER BY AsText(point),timestamp ASC  [ RunTime:0.007579s ]
+[ 2014-12-29T09:11:16+08:00 ] /gisproject/ | NOTIC: [8] Undefined offset:  17 IndexAction.class.php 第 30 行.
+[ 2014-12-29T09:11:16+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2014-12-29T09:11:16+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.008830s ]
+[ 2014-12-29T09:11:16+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.009111s ]
+[ 2014-12-29T09:11:16+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2014-12-29T09:11:16+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.060583s ]
+[ 2014-12-29T09:11:16+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.060824s ]
+[ 2014-12-29T09:11:16+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2014-12-29T09:11:16+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003727s ]
+[ 2014-12-29T09:11:16+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.004170s ]
+[ 2014-12-29T09:11:16+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003265s ]
+[ 2014-12-29T09:11:16+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004037s ]
+[ 2014-12-29T09:11:16+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.015680s ]
+[ 2014-12-29T09:11:16+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2014-12-29T09:11:16+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.004085s ]
+[ 2014-12-29T09:11:16+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004270s ]
+[ 2014-12-29T09:28:28+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-29T09:28:28+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004793s ]
+[ 2014-12-29T09:28:28+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005120s ]
+[ 2014-12-29T09:28:28+08:00 ] /gisproject/ | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.042379s ]
+[ 2014-12-29T09:28:28+08:00 ] /gisproject/ | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point ORDER BY AsText(point),timestamp ASC  [ RunTime:0.006643s ]
+[ 2014-12-29T09:28:28+08:00 ] /gisproject/ | NOTIC: [8] Undefined offset:  17 IndexAction.class.php 第 30 行.
+[ 2014-12-29T09:28:28+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2014-12-29T09:28:28+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.008729s ]
+[ 2014-12-29T09:28:28+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.008993s ]
+[ 2014-12-29T09:28:28+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2014-12-29T09:28:28+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.062804s ]
+[ 2014-12-29T09:28:28+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.063061s ]
+[ 2014-12-29T09:28:28+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2014-12-29T09:28:28+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003920s ]
+[ 2014-12-29T09:28:28+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.004142s ]
+[ 2014-12-29T09:28:28+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003187s ]
+[ 2014-12-29T09:28:28+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003926s ]
+[ 2014-12-29T09:28:28+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.015661s ]
+[ 2014-12-29T09:28:28+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2014-12-29T09:28:28+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003787s ]
+[ 2014-12-29T09:28:28+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003956s ]
+[ 2014-12-29T09:29:51+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-29T09:29:51+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.005221s ]
+[ 2014-12-29T09:29:51+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005569s ]
+[ 2014-12-29T09:29:52+08:00 ] /gisproject/ | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.011789s ]
+[ 2014-12-29T09:29:52+08:00 ] /gisproject/ | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point ORDER BY AsText(point),timestamp ASC  [ RunTime:0.006370s ]
+[ 2014-12-29T09:29:52+08:00 ] /gisproject/ | NOTIC: [8] Undefined offset:  17 IndexAction.class.php 第 30 行.
+[ 2014-12-29T09:29:52+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2014-12-29T09:29:52+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.008033s ]
+[ 2014-12-29T09:29:52+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.008257s ]
+[ 2014-12-29T09:29:52+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2014-12-29T09:29:52+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.040440s ]
+[ 2014-12-29T09:29:52+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.040658s ]
+[ 2014-12-29T09:29:52+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2014-12-29T09:29:52+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003561s ]
+[ 2014-12-29T09:29:52+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003902s ]
+[ 2014-12-29T09:29:52+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003105s ]
+[ 2014-12-29T09:29:52+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004401s ]
+[ 2014-12-29T09:29:52+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.015449s ]
+[ 2014-12-29T09:29:52+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2014-12-29T09:29:52+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.004394s ]
+[ 2014-12-29T09:29:52+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004589s ]
+[ 2014-12-29T09:30:31+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-29T09:30:31+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.005227s ]
+[ 2014-12-29T09:30:31+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005613s ]
+[ 2014-12-29T09:30:31+08:00 ] /gisproject/ | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.020261s ]
+[ 2014-12-29T09:30:31+08:00 ] /gisproject/ | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point ORDER BY AsText(point),timestamp ASC  [ RunTime:0.002886s ]
+[ 2014-12-29T09:30:31+08:00 ] /gisproject/ | NOTIC: [8] Undefined offset:  17 IndexAction.class.php 第 30 行.
+[ 2014-12-29T09:30:31+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2014-12-29T09:30:31+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.008263s ]
+[ 2014-12-29T09:30:31+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.008499s ]
+[ 2014-12-29T09:30:31+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2014-12-29T09:30:31+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.044637s ]
+[ 2014-12-29T09:30:31+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.044873s ]
+[ 2014-12-29T09:30:31+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2014-12-29T09:30:31+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003802s ]
+[ 2014-12-29T09:30:31+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003867s ]
+[ 2014-12-29T09:30:31+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003220s ]
+[ 2014-12-29T09:30:31+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004154s ]
+[ 2014-12-29T09:30:31+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.015539s ]
+[ 2014-12-29T09:30:31+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2014-12-29T09:30:31+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.004067s ]
+[ 2014-12-29T09:30:31+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004247s ]
+[ 2014-12-29T09:33:24+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-29T09:33:24+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.005230s ]
+[ 2014-12-29T09:33:24+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005587s ]
+[ 2014-12-29T09:33:25+08:00 ] /gisproject/ | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.015842s ]
+[ 2014-12-29T09:33:25+08:00 ] /gisproject/ | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point ORDER BY AsText(point),timestamp ASC  [ RunTime:0.008955s ]
+[ 2014-12-29T09:33:25+08:00 ] /gisproject/ | NOTIC: [8] Undefined offset:  17 IndexAction.class.php 第 30 行.
+[ 2014-12-29T09:33:25+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2014-12-29T09:33:25+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.007127s ]
+[ 2014-12-29T09:33:25+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.007319s ]
+[ 2014-12-29T09:33:25+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2014-12-29T09:33:25+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.041555s ]
+[ 2014-12-29T09:33:25+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.041772s ]
+[ 2014-12-29T09:33:25+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2014-12-29T09:33:25+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003924s ]
+[ 2014-12-29T09:33:25+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003769s ]
+[ 2014-12-29T09:33:25+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003489s ]
+[ 2014-12-29T09:33:25+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003958s ]
+[ 2014-12-29T09:33:25+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.015650s ]
+[ 2014-12-29T09:33:25+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2014-12-29T09:33:25+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.004081s ]
+[ 2014-12-29T09:33:25+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004266s ]
+[ 2014-12-29T09:34:34+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-29T09:34:34+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.005784s ]
+[ 2014-12-29T09:34:34+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.006237s ]
+[ 2014-12-29T09:34:34+08:00 ] /gisproject/ | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.011569s ]
+[ 2014-12-29T09:34:34+08:00 ] /gisproject/ | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point ORDER BY AsText(point),timestamp ASC  [ RunTime:0.006754s ]
+[ 2014-12-29T09:34:34+08:00 ] /gisproject/ | NOTIC: [8] Undefined offset:  17 IndexAction.class.php 第 30 行.
+[ 2014-12-29T09:34:34+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2014-12-29T09:34:34+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.007220s ]
+[ 2014-12-29T09:34:34+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.007407s ]
+[ 2014-12-29T09:34:34+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2014-12-29T09:34:34+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.061537s ]
+[ 2014-12-29T09:34:34+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.061780s ]
+[ 2014-12-29T09:34:34+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2014-12-29T09:34:34+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.004921s ]
+[ 2014-12-29T09:34:34+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.004597s ]
+[ 2014-12-29T09:34:34+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003155s ]
+[ 2014-12-29T09:34:34+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003863s ]
+[ 2014-12-29T09:34:34+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.017084s ]
+[ 2014-12-29T09:34:34+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2014-12-29T09:34:34+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003864s ]
+[ 2014-12-29T09:34:34+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004036s ]
+[ 2014-12-29T09:37:08+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-29T09:37:08+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.005609s ]
+[ 2014-12-29T09:37:08+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005986s ]
+[ 2014-12-29T09:37:08+08:00 ] /gisproject/ | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.021184s ]
+[ 2014-12-29T09:37:08+08:00 ] /gisproject/ | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point ORDER BY AsText(point),timestamp ASC  [ RunTime:0.004844s ]
+[ 2014-12-29T09:37:08+08:00 ] /gisproject/ | NOTIC: [8] Undefined offset:  17 IndexAction.class.php 第 30 行.
+[ 2014-12-29T09:37:08+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2014-12-29T09:37:08+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.009699s ]
+[ 2014-12-29T09:37:08+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.009956s ]
+[ 2014-12-29T09:37:08+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2014-12-29T09:37:08+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.044460s ]
+[ 2014-12-29T09:37:08+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.044705s ]
+[ 2014-12-29T09:37:08+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2014-12-29T09:37:08+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.004063s ]
+[ 2014-12-29T09:37:08+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003840s ]
+[ 2014-12-29T09:37:08+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003419s ]
+[ 2014-12-29T09:37:08+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003896s ]
+[ 2014-12-29T09:37:08+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.015705s ]
+[ 2014-12-29T09:37:08+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2014-12-29T09:37:08+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.004055s ]
+[ 2014-12-29T09:37:08+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004240s ]
+[ 2014-12-29T09:37:26+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-29T09:37:26+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002388s ]
+[ 2014-12-29T09:37:26+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002553s ]
+[ 2014-12-29T09:37:26+08:00 ] /gisproject/ | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.072182s ]
+[ 2014-12-29T09:37:26+08:00 ] /gisproject/ | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point ORDER BY AsText(point),timestamp ASC  [ RunTime:0.003651s ]
+[ 2014-12-29T09:37:26+08:00 ] /gisproject/ | NOTIC: [8] Undefined offset:  17 IndexAction.class.php 第 30 行.
+[ 2014-12-29T09:37:26+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2014-12-29T09:37:26+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004344s ]
+[ 2014-12-29T09:37:26+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.004472s ]
+[ 2014-12-29T09:37:26+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2014-12-29T09:37:26+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.038802s ]
+[ 2014-12-29T09:37:26+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.038952s ]
+[ 2014-12-29T09:37:26+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2014-12-29T09:37:26+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.002085s ]
+[ 2014-12-29T09:37:26+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.002326s ]
+[ 2014-12-29T09:37:26+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001950s ]
+[ 2014-12-29T09:37:26+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002470s ]
+[ 2014-12-29T09:37:26+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.009172s ]
+[ 2014-12-29T09:37:26+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2014-12-29T09:37:26+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002303s ]
+[ 2014-12-29T09:37:26+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002426s ]
+[ 2014-12-29T09:39:27+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-29T09:39:27+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.005129s ]
+[ 2014-12-29T09:39:27+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005487s ]
+[ 2014-12-29T09:39:28+08:00 ] /gisproject/ | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.011897s ]
+[ 2014-12-29T09:39:28+08:00 ] /gisproject/ | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point ORDER BY AsText(point),timestamp ASC  [ RunTime:0.006650s ]
+[ 2014-12-29T09:39:28+08:00 ] /gisproject/ | NOTIC: [8] Undefined offset:  17 IndexAction.class.php 第 30 行.
+[ 2014-12-29T09:39:28+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2014-12-29T09:39:28+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.007406s ]
+[ 2014-12-29T09:39:28+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.007638s ]
+[ 2014-12-29T09:39:28+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2014-12-29T09:39:28+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.059324s ]
+[ 2014-12-29T09:39:28+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.059570s ]
+[ 2014-12-29T09:39:28+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2014-12-29T09:39:28+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003888s ]
+[ 2014-12-29T09:39:28+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.004007s ]
+[ 2014-12-29T09:39:28+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003281s ]
+[ 2014-12-29T09:39:28+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003859s ]
+[ 2014-12-29T09:39:28+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.015508s ]
+[ 2014-12-29T09:39:28+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2014-12-29T09:39:28+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.004025s ]
+[ 2014-12-29T09:39:28+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004208s ]
+[ 2014-12-29T09:40:40+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-29T09:40:40+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.005400s ]
+[ 2014-12-29T09:40:40+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005738s ]
+[ 2014-12-29T09:40:40+08:00 ] /gisproject/ | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.020087s ]
+[ 2014-12-29T09:40:40+08:00 ] /gisproject/ | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point ORDER BY AsText(point),timestamp ASC  [ RunTime:0.010704s ]
+[ 2014-12-29T09:40:40+08:00 ] /gisproject/ | NOTIC: [8] Undefined offset:  17 IndexAction.class.php 第 30 行.
+[ 2014-12-29T09:40:40+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2014-12-29T09:40:40+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.008572s ]
+[ 2014-12-29T09:40:40+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.008826s ]
+[ 2014-12-29T09:40:40+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2014-12-29T09:40:40+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.043632s ]
+[ 2014-12-29T09:40:40+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.043873s ]
+[ 2014-12-29T09:40:40+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2014-12-29T09:40:40+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003687s ]
+[ 2014-12-29T09:40:40+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.004015s ]
+[ 2014-12-29T09:40:40+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003503s ]
+[ 2014-12-29T09:40:40+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004036s ]
+[ 2014-12-29T09:40:40+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.015722s ]
+[ 2014-12-29T09:40:40+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2014-12-29T09:40:40+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003884s ]
+[ 2014-12-29T09:40:40+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004059s ]
+[ 2014-12-29T09:41:04+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-29T09:41:04+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002465s ]
+[ 2014-12-29T09:41:04+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002830s ]
+[ 2014-12-29T09:41:04+08:00 ] /gisproject/ | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.020208s ]
+[ 2014-12-29T09:41:04+08:00 ] /gisproject/ | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point ORDER BY AsText(point),timestamp ASC  [ RunTime:0.002440s ]
+[ 2014-12-29T09:41:04+08:00 ] /gisproject/ | NOTIC: [8] Undefined offset:  17 IndexAction.class.php 第 30 行.
+[ 2014-12-29T09:41:04+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2014-12-29T09:41:04+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002895s ]
+[ 2014-12-29T09:41:04+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003117s ]
+[ 2014-12-29T09:41:04+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2014-12-29T09:41:04+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.034891s ]
+[ 2014-12-29T09:41:04+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.035153s ]
+[ 2014-12-29T09:41:04+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2014-12-29T09:41:04+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.001428s ]
+[ 2014-12-29T09:41:04+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.001522s ]
+[ 2014-12-29T09:41:04+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000893s ]
+[ 2014-12-29T09:41:04+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001663s ]
+[ 2014-12-29T09:41:04+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005982s ]
+[ 2014-12-29T09:41:04+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2014-12-29T09:41:04+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001800s ]
+[ 2014-12-29T09:41:04+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001978s ]
+[ 2014-12-29T09:41:27+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-29T09:41:27+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002434s ]
+[ 2014-12-29T09:41:27+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002775s ]
+[ 2014-12-29T09:41:27+08:00 ] /gisproject/ | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.026328s ]
+[ 2014-12-29T09:41:27+08:00 ] /gisproject/ | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point ORDER BY AsText(point),timestamp ASC  [ RunTime:0.002614s ]
+[ 2014-12-29T09:41:27+08:00 ] /gisproject/ | NOTIC: [8] Undefined offset:  17 IndexAction.class.php 第 30 行.
+[ 2014-12-29T09:41:27+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2014-12-29T09:41:27+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002484s ]
+[ 2014-12-29T09:41:27+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002675s ]
+[ 2014-12-29T09:41:27+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2014-12-29T09:41:27+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.031034s ]
+[ 2014-12-29T09:41:27+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.031252s ]
+[ 2014-12-29T09:41:27+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2014-12-29T09:41:27+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.001534s ]
+[ 2014-12-29T09:41:27+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.001486s ]
+[ 2014-12-29T09:41:27+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000866s ]
+[ 2014-12-29T09:41:27+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001589s ]
+[ 2014-12-29T09:41:27+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005959s ]
+[ 2014-12-29T09:41:27+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2014-12-29T09:41:27+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001882s ]
+[ 2014-12-29T09:41:27+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002055s ]
+[ 2014-12-29T09:42:46+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-29T09:42:46+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.005234s ]
+[ 2014-12-29T09:42:46+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005581s ]
+[ 2014-12-29T09:42:46+08:00 ] /gisproject/ | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.012602s ]
+[ 2014-12-29T09:42:46+08:00 ] /gisproject/ | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point ORDER BY AsText(point),timestamp ASC  [ RunTime:0.006385s ]
+[ 2014-12-29T09:42:46+08:00 ] /gisproject/ | NOTIC: [8] Undefined offset:  17 IndexAction.class.php 第 30 行.
+[ 2014-12-29T09:42:46+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2014-12-29T09:42:46+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.007108s ]
+[ 2014-12-29T09:42:46+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.007303s ]
+[ 2014-12-29T09:42:46+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2014-12-29T09:42:46+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.041365s ]
+[ 2014-12-29T09:42:46+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.041590s ]
+[ 2014-12-29T09:42:46+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2014-12-29T09:42:46+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003607s ]
+[ 2014-12-29T09:42:46+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003726s ]
+[ 2014-12-29T09:42:46+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003121s ]
+[ 2014-12-29T09:42:46+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003914s ]
+[ 2014-12-29T09:42:46+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.014948s ]
+[ 2014-12-29T09:42:46+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2014-12-29T09:42:46+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003975s ]
+[ 2014-12-29T09:42:46+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004145s ]
+[ 2014-12-29T21:03:33+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-29T21:03:33+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.053644s ]
+[ 2014-12-29T21:03:33+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.104534s ]
+[ 2014-12-29T21:03:35+08:00 ] /gisproject/ | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.258640s ]
+[ 2014-12-29T21:03:35+08:00 ] /gisproject/ | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point ORDER BY AsText(point),timestamp ASC  [ RunTime:0.096389s ]
+[ 2014-12-29T21:03:35+08:00 ] /gisproject/ | NOTIC: [8] Undefined offset:  17 IndexAction.class.php 第 30 行.
+[ 2014-12-29T21:03:35+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2014-12-29T21:03:35+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.042385s ]
+[ 2014-12-29T21:03:35+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.042607s ]
+[ 2014-12-29T21:03:35+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2014-12-29T21:03:35+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.113169s ]
+[ 2014-12-29T21:03:35+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.113474s ]
+[ 2014-12-29T21:03:35+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2014-12-29T21:03:35+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.004638s ]
+[ 2014-12-29T21:03:35+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.004560s ]
+[ 2014-12-29T21:03:35+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.004347s ]
+[ 2014-12-29T21:03:35+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.005256s ]
+[ 2014-12-29T21:03:35+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.019363s ]
+[ 2014-12-29T21:03:35+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2014-12-29T21:03:35+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.023989s ]
+[ 2014-12-29T21:03:35+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.024226s ]
+[ 2014-12-29T21:04:39+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-29T21:04:39+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.005281s ]
+[ 2014-12-29T21:04:39+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005672s ]
+[ 2014-12-29T21:04:39+08:00 ] /gisproject/ | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.012891s ]
+[ 2014-12-29T21:04:39+08:00 ] /gisproject/ | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point ORDER BY AsText(point),timestamp ASC  [ RunTime:0.008984s ]
+[ 2014-12-29T21:04:39+08:00 ] /gisproject/ | NOTIC: [8] Undefined offset:  17 IndexAction.class.php 第 30 行.
+[ 2014-12-29T21:04:39+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2014-12-29T21:04:39+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.008101s ]
+[ 2014-12-29T21:04:39+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.008333s ]
+[ 2014-12-29T21:04:39+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2014-12-29T21:04:39+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.102910s ]
+[ 2014-12-29T21:04:39+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.103246s ]
+[ 2014-12-29T21:04:39+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2014-12-29T21:04:39+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.005605s ]
+[ 2014-12-29T21:04:39+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.006419s ]
+[ 2014-12-29T21:04:39+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003979s ]
+[ 2014-12-29T21:04:39+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004755s ]
+[ 2014-12-29T21:04:39+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.021472s ]
+[ 2014-12-29T21:04:39+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2014-12-29T21:04:39+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.005470s ]
+[ 2014-12-29T21:04:39+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.005691s ]
+[ 2014-12-29T21:09:11+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-29T21:09:11+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004480s ]
+[ 2014-12-29T21:09:11+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004815s ]
+[ 2014-12-29T21:09:11+08:00 ] /gisproject/ | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.013028s ]
+[ 2014-12-29T21:09:11+08:00 ] /gisproject/ | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point ORDER BY AsText(point),timestamp ASC  [ RunTime:0.006587s ]
+[ 2014-12-29T21:09:11+08:00 ] /gisproject/ | NOTIC: [8] Undefined offset:  17 IndexAction.class.php 第 30 行.
+[ 2014-12-29T21:09:11+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2014-12-29T21:09:11+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.007418s ]
+[ 2014-12-29T21:09:11+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.007620s ]
+[ 2014-12-29T21:09:11+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2014-12-29T21:09:11+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.040162s ]
+[ 2014-12-29T21:09:11+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.040379s ]
+[ 2014-12-29T21:09:11+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2014-12-29T21:09:11+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003612s ]
+[ 2014-12-29T21:09:11+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003694s ]
+[ 2014-12-29T21:09:11+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003949s ]
+[ 2014-12-29T21:09:11+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004778s ]
+[ 2014-12-29T21:09:11+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.016572s ]
+[ 2014-12-29T21:09:11+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2014-12-29T21:09:11+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.004430s ]
+[ 2014-12-29T21:09:11+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004678s ]
+[ 2014-12-29T21:09:23+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-29T21:09:23+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004735s ]
+[ 2014-12-29T21:09:23+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005048s ]
+[ 2014-12-29T21:09:24+08:00 ] /gisproject/ | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.011739s ]
+[ 2014-12-29T21:09:24+08:00 ] /gisproject/ | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point ORDER BY AsText(point),timestamp ASC  [ RunTime:0.005988s ]
+[ 2014-12-29T21:09:24+08:00 ] /gisproject/ | NOTIC: [8] Undefined offset:  17 IndexAction.class.php 第 30 行.
+[ 2014-12-29T21:09:24+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2014-12-29T21:09:24+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.006902s ]
+[ 2014-12-29T21:09:24+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.007102s ]
+[ 2014-12-29T21:09:24+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2014-12-29T21:09:24+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.059358s ]
+[ 2014-12-29T21:09:24+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.059573s ]
+[ 2014-12-29T21:09:24+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2014-12-29T21:09:24+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003688s ]
+[ 2014-12-29T21:09:24+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003707s ]
+[ 2014-12-29T21:09:24+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003087s ]
+[ 2014-12-29T21:09:24+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003912s ]
+[ 2014-12-29T21:09:24+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.014876s ]
+[ 2014-12-29T21:09:24+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2014-12-29T21:09:24+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.004086s ]
+[ 2014-12-29T21:09:24+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004262s ]
+[ 2014-12-29T21:14:40+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-29T21:14:40+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004951s ]
+[ 2014-12-29T21:14:40+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005293s ]
+[ 2014-12-29T21:14:41+08:00 ] /gisproject/ | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.023734s ]
+[ 2014-12-29T21:14:41+08:00 ] /gisproject/ | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point ORDER BY AsText(point),timestamp ASC  [ RunTime:0.009090s ]
+[ 2014-12-29T21:14:41+08:00 ] /gisproject/ | NOTIC: [8] Undefined offset:  17 IndexAction.class.php 第 30 行.
+[ 2014-12-29T21:14:41+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2014-12-29T21:14:41+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.011445s ]
+[ 2014-12-29T21:14:41+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.011743s ]
+[ 2014-12-29T21:14:41+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2014-12-29T21:14:41+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.049842s ]
+[ 2014-12-29T21:14:41+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.050081s ]
+[ 2014-12-29T21:14:41+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2014-12-29T21:14:41+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003856s ]
+[ 2014-12-29T21:14:41+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003951s ]
+[ 2014-12-29T21:14:41+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003906s ]
+[ 2014-12-29T21:14:41+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003919s ]
+[ 2014-12-29T21:14:41+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.016195s ]
+[ 2014-12-29T21:14:41+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2014-12-29T21:14:41+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.004269s ]
+[ 2014-12-29T21:14:41+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004467s ]
+[ 2014-12-29T21:15:03+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-29T21:15:03+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.005718s ]
+[ 2014-12-29T21:15:03+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.006062s ]
+[ 2014-12-29T21:15:03+08:00 ] /gisproject/ | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.015914s ]
+[ 2014-12-29T21:15:03+08:00 ] /gisproject/ | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point ORDER BY AsText(point),timestamp ASC  [ RunTime:0.004897s ]
+[ 2014-12-29T21:15:03+08:00 ] /gisproject/ | NOTIC: [8] Undefined offset:  17 IndexAction.class.php 第 30 行.
+[ 2014-12-29T21:15:03+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2014-12-29T21:15:03+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.007488s ]
+[ 2014-12-29T21:15:03+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.007741s ]
+[ 2014-12-29T21:15:03+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2014-12-29T21:15:03+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.044618s ]
+[ 2014-12-29T21:15:03+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.044862s ]
+[ 2014-12-29T21:15:03+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2014-12-29T21:15:03+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.004567s ]
+[ 2014-12-29T21:15:03+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.004553s ]
+[ 2014-12-29T21:15:03+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003334s ]
+[ 2014-12-29T21:15:03+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004289s ]
+[ 2014-12-29T21:15:03+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.017325s ]
+[ 2014-12-29T21:15:03+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2014-12-29T21:15:03+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.004233s ]
+[ 2014-12-29T21:15:03+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004422s ]
+[ 2014-12-29T21:15:18+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-29T21:15:18+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.005228s ]
+[ 2014-12-29T21:15:18+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005574s ]
+[ 2014-12-29T21:15:18+08:00 ] /gisproject/ | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.014401s ]
+[ 2014-12-29T21:15:18+08:00 ] /gisproject/ | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point ORDER BY AsText(point),timestamp ASC  [ RunTime:0.004845s ]
+[ 2014-12-29T21:15:18+08:00 ] /gisproject/ | NOTIC: [8] Undefined offset:  17 IndexAction.class.php 第 30 行.
+[ 2014-12-29T21:15:18+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2014-12-29T21:15:18+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.007609s ]
+[ 2014-12-29T21:15:18+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.007889s ]
+[ 2014-12-29T21:15:18+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2014-12-29T21:15:18+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.047730s ]
+[ 2014-12-29T21:15:18+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.047982s ]
+[ 2014-12-29T21:15:18+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2014-12-29T21:15:18+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.004104s ]
+[ 2014-12-29T21:15:18+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.004171s ]
+[ 2014-12-29T21:15:18+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003634s ]
+[ 2014-12-29T21:15:18+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004244s ]
+[ 2014-12-29T21:15:18+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.016786s ]
+[ 2014-12-29T21:15:18+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2014-12-29T21:15:18+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.004472s ]
+[ 2014-12-29T21:15:18+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004680s ]
+[ 2014-12-29T21:16:22+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-29T21:16:22+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002373s ]
+[ 2014-12-29T21:16:22+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002713s ]
+[ 2014-12-29T21:16:22+08:00 ] /gisproject/ | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.019204s ]
+[ 2014-12-29T21:16:22+08:00 ] /gisproject/ | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point ORDER BY AsText(point),timestamp ASC  [ RunTime:0.002764s ]
+[ 2014-12-29T21:16:22+08:00 ] /gisproject/ | NOTIC: [8] Undefined offset:  17 IndexAction.class.php 第 30 行.
+[ 2014-12-29T21:16:22+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2014-12-29T21:16:22+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002582s ]
+[ 2014-12-29T21:16:22+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002797s ]
+[ 2014-12-29T21:16:22+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2014-12-29T21:16:22+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.032209s ]
+[ 2014-12-29T21:16:22+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.032455s ]
+[ 2014-12-29T21:16:22+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2014-12-29T21:16:22+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.001606s ]
+[ 2014-12-29T21:16:22+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.001590s ]
+[ 2014-12-29T21:16:22+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001069s ]
+[ 2014-12-29T21:16:22+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001846s ]
+[ 2014-12-29T21:16:22+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006662s ]
+[ 2014-12-29T21:16:22+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2014-12-29T21:16:22+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001833s ]
+[ 2014-12-29T21:16:22+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002024s ]
+[ 2014-12-29T21:20:03+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --START--
+[ 2014-12-29T21:20:03+08:00 ] /gisproject/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004293s ]
+[ 2014-12-29T21:20:03+08:00 ] /gisproject/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004584s ]
+[ 2014-12-29T21:20:03+08:00 ] /gisproject/ | SQL: SHOW COLUMNS FROM `tb_point` [ RunTime:0.011667s ]
+[ 2014-12-29T21:20:03+08:00 ] /gisproject/ | SQL: SELECT timestamp,AsText(point),type,name,introduce,attention,score,uri FROM tb_point ORDER BY AsText(point),timestamp ASC  [ RunTime:0.006177s ]
+[ 2014-12-29T21:20:03+08:00 ] /gisproject/ | NOTIC: [8] Undefined offset:  17 IndexAction.class.php 第 30 行.
+[ 2014-12-29T21:20:03+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --START--
+[ 2014-12-29T21:20:03+08:00 ] /gisproject/ | INFO: Run LocationTemplate Behavior [ RunTime:0.007641s ]
+[ 2014-12-29T21:20:03+08:00 ] /gisproject/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.007837s ]
+[ 2014-12-29T21:20:03+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --START--
+[ 2014-12-29T21:20:04+08:00 ] /gisproject/ | INFO: Run ParseTemplate Behavior [ RunTime:0.046116s ]
+[ 2014-12-29T21:20:04+08:00 ] /gisproject/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.046345s ]
+[ 2014-12-29T21:20:04+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --START--
+[ 2014-12-29T21:20:04+08:00 ] /gisproject/ | INFO: Run ContentReplace Behavior [ RunTime:0.003722s ]
+[ 2014-12-29T21:20:04+08:00 ] /gisproject/ | INFO: Run TokenBuild Behavior [ RunTime:0.003789s ]
+[ 2014-12-29T21:20:04+08:00 ] /gisproject/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003425s ]
+[ 2014-12-29T21:20:04+08:00 ] /gisproject/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004392s ]
+[ 2014-12-29T21:20:04+08:00 ] /gisproject/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.015850s ]
+[ 2014-12-29T21:20:04+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --START--
+[ 2014-12-29T21:20:04+08:00 ] /gisproject/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.004056s ]
+[ 2014-12-29T21:20:04+08:00 ] /gisproject/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004245s ]

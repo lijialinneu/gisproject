@@ -1,0 +1,36 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=beA5xPn5Q2mtr5ojgsIOm2rr"></script>
+<script type="text/javascript" src="http://api.map.baidu.com/library/AreaRestriction/1.2/src/AreaRestriction_min.js"></script>
+<script src="http://libs.baidu.com/jquery/1.9.0/jquery.js"></script>
+<script type="text/javascript" src="__PUBLIC__/Js/home/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="js/getpath.js"></script>
+<link rel="stylesheet" type="text/css" href="css/getpath.css" media="screen" />
+<title>路线规划</title>
+</head>
+<body>
+<div id="content">
+	<div id="allmap"></div>
+	
+	<div id="form">
+		<table>
+			<tr>
+				<td><h3>起点</h3></td>
+				<td><input type="text" id="start" placeholder="请输入起点 ,如:POINT(123.455 41.3324)"></td>
+			</tr>
+			<tr>
+				<td><h3>其余点</h3></td>
+				<td><textarea  id="pointlist" placeholder="请输入其余点， 用','隔开如:POINT(123.455 41.3324),POINT(123.454 41.5643)"></textarea></td>
+			</tr>
+		</table>
+		<center><input type="button" id="btn_submit"  value="提交"/></center>
+	</div>
+</div>
+<div id="result">
+	<div id="r-result"></div>
+	<script type="text/javascript" src="js/getpath.js"></script>
+</div>
+
+</body>
+</html>

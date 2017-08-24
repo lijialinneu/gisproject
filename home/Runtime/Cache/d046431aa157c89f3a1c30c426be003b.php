@@ -1,0 +1,110 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="__PUBLIC__/Css/home/showmap.css"/>
+	<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=beA5xPn5Q2mtr5ojgsIOm2rr"></script>
+	<script type="text/javascript" src="http://api.map.baidu.com/library/AreaRestriction/1.2/src/AreaRestriction_min.js"></script>
+	<link rel="stylesheet" href="http://api.map.baidu.com/library/DrawingManager/1.4/src/DrawingManager_min.css" />
+	<script type="text/javascript" src="http://api.map.baidu.com/library/DrawingManager/1.4/src/DrawingManager_min.js"></script>
+	<script src="http://libs.baidu.com/jquery/1.9.0/jquery.js"></script>
+	<script type="text/javascript" src="__PUBLIC__/Js/home/jquery.form.js"></script>
+	<script type="text/javascript" src="__PUBLIC__/Js/home/jquery-1.10.2.min.js"></script>
+	<script type="text/javascript" src="__PUBLIC__/Js/home/jquery-textSearch.js"></script>
+	<title><?php echo ($title); ?></title>
+</head>
+<body>
+	<div id="content">
+			
+    		<div id="showmap"></div>
+			<script type="text/javascript" src="__PUBLIC__/Js/home/showmap.js"></script>
+			<script type="text/javascript" src="__PUBLIC__/Js/home/scroll.js"></script>
+    		
+    		<div id="right">
+				<div id="search">
+					<input type="text" id="keyword" placeholder="请输入关键字" />
+					<input type="button" id="btn_search" value="搜索" />
+				</div>
+				
+				<div id="panel">
+				</div>
+				
+	    		<div id="nav">
+						<p>Shenyang's Map</p>
+				</div>
+				<div id="login">
+						<span class="username" hidden ><?php echo ($_SESSION['username']); ?></span>
+						<?php if($_SESSION['username'] != null): ?>欢迎<?php echo ($_SESSION['username']); ?>！|  <a href="__URL__/quit" title="退出">Logout</a>| 
+				    		<a href="__URL__/gotousercenter?username=<?php echo ($_SESSION['username']); ?>">MyHome</a>
+				    	<?php else: ?>
+				    		<a href="__URL__/login/">Login or Register</a><?php endif; ?>
+				</div>
+    		</div>
+
+    		<div id="bottom">
+					<!--div id="oldmap"></div-->
+					<div class="con"> 
+						<div id="carousel_container"> 
+							<div id="left_scroll"></div> 
+								<div id="carousel_inner"> 
+									<ul id="carousel_ul"> 
+										<li><a href="" title="1900年的沈阳"><img src="__PUBLIC__/Images/oldshenyang/1900.jpg" /></a></li> 
+										<li><a href="" title="1910年的沈阳"><img src="__PUBLIC__/Images/oldshenyang/1910.jpg" /></a></li> 
+										<li><a href="" title="1920年的沈阳"><img src="__PUBLIC__/Images/oldshenyang/1920.jpg" /></a></li> 
+										<li><a href="" title="1930年的沈阳"><img src="__PUBLIC__/Images/oldshenyang/1930.jpg" /></a></li> 
+										<li><a href="" title="1940年的沈阳"><img src="__PUBLIC__/Images/oldshenyang/1940.jpg" /></a></li> 
+										<li><a href="" title="1950年的沈阳"><img src="__PUBLIC__/Images/oldshenyang/1950.jpg" /></a></li> 
+										<li><a href="" title="1960年的沈阳"><img src="__PUBLIC__/Images/oldshenyang/1960.jpg" /></a></li> 
+										<li><a href="" title="1970年的沈阳"><img src="__PUBLIC__/Images/oldshenyang/1970.jpg" /></a></li> 
+										<li><a href="" title="1980年的沈阳"><img src="__PUBLIC__/Images/oldshenyang/1980.jpg" /></a></li> 
+										<li><a href="" title="1990年的沈阳"><img src="__PUBLIC__/Images/oldshenyang/1990.jpg" /></a></li> 
+										<li><a href="" title="2000年的沈阳"><img src="__PUBLIC__/Images/oldshenyang/2000.jpg" /></a></li> 
+									</ul> 
+								</div> 
+								<div id="img_frame">
+								</div>
+							<div id="right_scroll"></div> 
+						</div> 
+						<div id="timescroll">
+								<span class="date" hidden>1</span>
+								<output name="displayTime" id="displayTime"><font color="orange">1900</font></output>
+								<input type="range"  id="range" min="1" max="11" step="1" value="1"  /> 
+								<output name="displayTime" id="displayTime"><font color="orange">2000</font></output>
+						</div>
+					</div> 	
+    		</div>
+    		
+		<div id="operate">
+					<input type="button" id="btn_addpoi"  value="添加POI"/>
+					<input type="button" id="btn_dpoly"  value="空间查询"/>
+					<input type="button" id="btn_getpath"  value="路线规划"/>
+					<!--div id="getrode">
+						起点：<input type="text" id="start" value="请输入起点"/>
+						<textarea id="otherp" placeholder="请输入其他点，格式如：POINT(123.465 41.82),POINT(123.46 41.74),POINT(123.42 41.867),POINT(123.48 41.80)"></textarea>
+					</div-->
+					<br/>推荐我的：<span id="recommand"></span>
+					
+					<!--input type="button" id="btn_recom"  value="个性化推荐"/-->
+					
+					
+					<!--input type="button" id="btn_clear"   value="清除" id="clean_r" style="display:none;"/><br/-->
+					<!--input type="button" onclick="drawPoint()" value="最近邻查询"/><br/>
+					<input type="button" onclick="recommandPath()"  value="推荐行程" id="recommand_path" style="display:none;"/-->
+		</div>	
+		
+		
+	    <!-- div id="recommandlist">
+	    	<input type="button" value="查看推荐POI" onclick="recommand()"/>
+	    </div-->
+		
+		
+		
+		<!--  div id="spatial_search">
+				<input type="button" onclick="drawRectangle()" value="矩形域查询"/>
+				<input type="button" onclick="clearAll()"  value="清除矩形" id="clean_r" style="display:none;"/><br/>
+				<input type="button" onclick="drawPoint()" value="最近邻查询"/><br/>
+				<input type="button" onclick="recommandPath()"  value="推荐行程" id="recommand_path" style="display:none;"/>
+		</div-->
+	</div>
+</body>
+</html>

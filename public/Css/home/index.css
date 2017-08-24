@@ -1,0 +1,69 @@
+* {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+a,img {
+	border: 0;
+}
+
+/* bd */
+.bd {
+	width: 362px;
+	margin: 0 auto;
+	margin-top: 50px;
+	height: 600px;
+}
+
+.top {
+	border: 1px solid #ccc;
+	height: 573px;
+	width: 250px;
+	overflow: hidden;
+	float: left;
+	padding: 0 5px 5px 5px;
+}
+
+.top ul {
+	width: 250px;
+	padding-bottom: 5px;
+	list-style-type: none;
+}
+
+.top ul li {
+	padding: 2px;
+	border: 1px solid #ccc;
+	font-size: 0px;
+	margin-top: 5px;
+}
+
+.top ul .li {
+	margin-top: 5px
+}
+
+.top ul li img {
+	width: 244px;
+	height: 180px;
+}
+
+.scroll {
+	width: 11px;
+	margin-left: 10px;
+	height: 578px;
+	float: left;
+	background:url(http://127.0.0.1/gisproject/public/Images/home/scroll02.png);
+	position: relative;
+}
+
+/*.scroll p{width:11px;height:61px;background:url(http://127.0.0.1/gisproject/public/Images/home/scroll01.png);cursor:auto;left:-5px;top:1px;position:absolute;}
+*/
+.p {
+	width: 11px;
+	height: 61px;
+	background:url(http://127.0.0.1/gisproject/public/Images/home/scroll01.png);
+	cursor: auto;
+	left: 0px;
+	top: 1px;
+	position: absolute;
+}

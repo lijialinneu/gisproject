@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script type="text/javascript" src="__PUBLIC__/Js/home/jquery.js"></script>	
+<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=beA5xPn5Q2mtr5ojgsIOm2rr"></script>
+<script type="text/javascript" src="http://api.map.baidu.com/library/AreaRestriction/1.2/src/AreaRestriction_min.js"></script>
+<script src="http://libs.baidu.com/jquery/1.9.0/jquery.js"></script>
+<script type="text/javascript" src="__PUBLIC__/Js/home/jquery.form.js"></script>
+<style type="text/css">
+	#allmap {width: 550px;height: 500px;overflow: hidden;float:right;}
+</style>
+<title>我来添加poi</title>
+</head>
+<body>
+<div id="allmap"></div>
+<script type="text/javascript">
+	// 百度地图API功能
+	var map = new BMap.Map("allmap",{minZoom:9,maxZoom:18});//新建地图
+	map.centerAndZoom(new BMap.Point(123.4432300000,41.8239810000),13);
+	map.enableScrollWheelZoom();
+	//设置地图边界
+	var bounds = new BMap.Bounds(new BMap.Point(122.5498220000,41.2869960000),new BMap.Point(124.1871810000,42.4217280000));
+	try {	
+		BMapLib.AreaRestriction.setBounds(map, bounds);//设置地图边界
+	}catch(e){
+		alert(e);
+	}          
+	//单击获取点击的经纬度
+	map.addEventListener("click",function(e){
+		$("#longitude").val(e.point.lng);
+		$("#latitude").val(e.point.lat);
+	});
+</script>
+<form action="http://127.0.0.1/gisproject/home/Lib/Action/addpoi.php" method="post">
+<table>
+	<thead>
+		<tr>
+			<th>增加城市GIS表单</th>
+		</tr>
+	</thead>
+
+	<!-- 表内容部分 -->
+	<tbody>
+		<tr>
+			<td>点所处年代</td>
+			<td><input type="date" name="timestamp" /></td>
+		</tr>
+		<tr>
+			<td>经纬度</td>
+			<td>经度：<input type="text" name="longitude" id="longitude" value=""/>
+				 纬度：<input type="text" name="latitude" id="latitude" value=""/>
+			</td>
+		</tr>
+		<tr>
+			<td>类型</td>
+			<td><select name="type">
+				<option value="景点">景点</option>
+				<option value="学校">学校</option>
+				<option value="酒店">酒店</option>
+				<option value="公园">公园</option>
+				<option value="公园">车站</option>
+				<option value="公园">银行</option>
+				<option value="公园">住宅</option>
+			</select></td>
+		</tr>
+		<tr>
+			<td>名称</td>
+			<td><input type="text" name="name" /></td>
+		</tr>
+		<tr>
+			<td>介绍</td>
+			<td>文字介绍:<br />
+			<textarea name="text"></textarea><br />
+			图片目录:<input type="text" name="picture" /> 
+			视频目录:<input type="text" name="video" /></td>
+		</tr>
+		<tr>
+			<td><input type="submit" name="submit" value="确认添加" /></td>
+		</tr>
+	</tbody>
+</table>
+</form>
+</body>
+</html>
